@@ -35,6 +35,8 @@ Unless expressly designated otherwise in a separate written agreement, Developer
 
 No person acting under this Charter may bind any university, laboratory, company, government entity, or other institution absent separate written authority.
 
+An individual may simultaneously serve as a Developer and as a designated representative of a Member, subject to any applicable conflict-of-interest provisions of this Charter.
+
 Nothing in this Charter shall be construed to override the policies, contractual obligations, or legal constraints applicable to any participant by virtue of their employment, appointment, grant support, or institutional affiliation.
 
 ## **ARTICLE 3\. Membership**
@@ -134,7 +136,7 @@ The Board shall consist of six members:
 
 These seats shall be elected by the Members and Developers, respectively, at or in advance of the Annual Meeting.
 
-Board members serve one-year terms and may be reelected without term limit.
+Board members serve one-year terms and may be reelected without term limit. No individual may hold more than one Board seat at a time. An individual who is eligible for both a Member-elected and a Developer-elected seat must choose one.
 
 If the Consortium consists of fewer than three willing Partner-level Members or fewer than three willing Developers, seats on the Board may remain unfilled.
 
