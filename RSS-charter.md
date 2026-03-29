@@ -8,7 +8,7 @@ The Consortium serves two primary constituencies: researchers in academia and in
 
 All software produced by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation. These are first-order concerns of the consortium alongside scientific rigor.
 
-The Consortium is primarily a software project, but it may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology to the extent that such activities materially advance the development, adoption, sustainability, and scientific value of Consortium software.
+The Consortium is primarily a software project, but it's primary goal is the advancement of the field of structural biology and science broadly. Accordingly, the Consortium may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology.
 
 ## **ARTICLE 2\. Governance**
 
