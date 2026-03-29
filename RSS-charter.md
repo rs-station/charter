@@ -375,7 +375,11 @@ Data, documentation, and related non-software outputs generated as Consortium-Fu
 
 Software that is already public and open-source at the time it receives Consortium support shall remain public and open-source. Consortium support shall not retroactively restrict the openness of already-public code, including bug fixes, maintenance, or new features developed in such projects, except to the extent a contributor independently elects to maintain private development branches pending ordinary public release.
 
-### **8.3 Project-Specific Release Policy**
+### **8.3 Contribution Policy**
+
+The Board may adopt a contribution and intellectual property policy governing how contributions are accepted into Consortium-managed projects, the rights granted by contributors, and the treatment of work performed at external institutions with Consortium support.
+
+### **8.4 Project-Specific Release Policy**
 
 Before material funding or other administered support is allocated to a Consortium-Funded Project, the Board and the lead Developer for that project shall agree upon a project-specific release policy consistent with this Charter and any Board-approved general release policy.
 
@@ -387,7 +391,7 @@ Such project-specific release policy shall address, as appropriate:
 **D.** the identity of the lead Developer for release-readiness purposes; and  
 **E.** any project-specific considerations affecting timing of release.
 
-### **8.4 Private Until Published; Maximum Delay Principle**
+### **8.5 Private Until Published; Maximum Delay Principle**
 
 By default, specific items of Consortium-Funded Work may be held in private repositories for a limited period prior to public release. The intent of such limited private development is to:
 
@@ -403,7 +407,7 @@ The Director’s role in this process is limited to determining whether the lead
 
 The Board shall adopt a general release policy consistent with this Section. A project-specific release policy may shorten, but may not exceed, the default six (6) month maximum delay unless a longer period is required by applicable law, binding institutional obligations, funding terms, or other controlling external requirements.
 
-### **8.5 Board and Developer Roles in Release Decisions**
+### **8.6 Board and Developer Roles in Release Decisions**
 
 The Board may, under Board-approved release policy, delay the public release of specific Consortium-Funded Work for a limited period in furtherance of the Mission.
 
@@ -411,7 +415,7 @@ The Developers retain authority to determine technical readiness for release.
 
 The general release policy adopted by the Board shall include a mechanism by which Developers may seek review of an extended release delay, and shall make clear that release delays are exceptional, justified, and time-limited.
 
-### **8.6 Research Freedom and Publication Rights**
+### **8.7 Research Freedom and Publication Rights**
 
 The right of any Consortium participant to own, publish, or otherwise pursue their own work, activities, and research directions, and any rights of ownership or freedom of any Consortium participant who is not a contractual employee or contractor of the Consortium or the Operating Legal Entity, shall not be restricted or abridged in any way by participation in the Consortium.
 
@@ -419,7 +423,7 @@ The rights and obligations of contractual employees and contractors shall be sti
 
 No Member, Sponsor, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
-### **8.7 Annual Reporting for Consortium-Funded Projects**
+### **8.8 Annual Reporting for Consortium-Funded Projects**
 
 Each Consortium-Funded Project shall provide at least annual reporting to the Board, in a form determined by Board policy, summarizing:
 
