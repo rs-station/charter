@@ -121,28 +121,15 @@ Member further acknowledges that RSS is an open-source scientific software conso
 
 ## **9\. Pre-Release Materials; Confidentiality**
 
-From time to time, Member may receive access to pre-release software, unstable internal builds, draft documentation, private issue discussions, roadmap information, or other non-public Consortium materials (“**Pre-Release Materials**”).
+From time to time, Members may receive access to pre-release software, internal builds, draft documentation, or other non-public Consortium materials (“**Pre-Release Materials**”) as a membership benefit.
 
-Unless clearly designated by OMSF or RSS for public release, Pre-Release Materials shall be treated by Member as confidential and shall be used solely for Member’s internal evaluation, testing, feedback, deployment planning, or other internal purposes consistent with its membership benefits.
+Pre-Release Materials shall be treated as confidential and used solely for Member’s internal evaluation, testing, and feedback. Members shall not disclose Pre-Release Materials to third parties, except to employees or contractors bound by comparable confidentiality obligations, or redistribute them publicly.
 
-Member shall not:
+Access to Pre-Release Materials does not confer ownership of Consortium intellectual property or control over the timing or content of public releases.
 
-* disclose Pre-Release Materials to third parties except to its employees, contractors, or affiliates who have a need to know and are bound by confidentiality obligations at least as protective as those in this Agreement;  
-* redistribute, publish, or publicly describe Pre-Release Materials in a manner that would defeat their intended limited private status; or  
-* use Pre-Release Materials in a way that misrepresents them as final public releases.
+The terms and scope of pre-release access, including any additional conditions, may be further defined by Board-approved policy.
 
-Access to Pre-Release Materials does not by itself confer any right to privileged access to final scientific conclusions or to control the timing or content of public releases.
-
-The confidentiality obligations in this Section do not apply to information that:
-
-* is or becomes public through no breach of this Agreement;  
-* was lawfully known to Member without confidentiality obligation before disclosure;  
-* is lawfully received from a third party without confidentiality obligation; or  
-* is independently developed without use of the Pre-Release Materials.
-
-If Member is required by law to disclose Pre-Release Materials, Member shall, to the extent legally permitted, provide prompt notice to OMSF so that OMSF or RSS may seek protective treatment.
-
-The obligations in this Section shall survive for three (3) years after disclosure of the relevant Pre-Release Materials, except that obligations with respect to any information that remains a trade secret under applicable law shall continue for so long as such information remains a trade secret.
+The confidentiality obligations in this Section shall survive termination of this Agreement for a period of one (1) year.
 
 ---
 
