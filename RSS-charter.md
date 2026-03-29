@@ -2,13 +2,13 @@
 
 ## **ARTICLE 1\. Mission**
 
-The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic consortium tasked with creating open-source software for structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
+The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic consortium tasked with creating open-source software to advance the science of structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
 
 The Consortium serves two primary constituencies: researchers in academia and industry who seek to extract biological and medical insight from complex structural data, and the community of software developers and methods researchers who build upon and extend structural biology tooling.
 
 All software produced by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation. These are first-order concerns of the consortium alongside scientific rigor.
 
-The Consortium is primarily a software project, but it's primary goal is the advancement of the field of structural biology and science broadly. Accordingly, the Consortium may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology.
+To advance its mission, the Consortium may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology.
 
 ## **ARTICLE 2\. Governance**
 
@@ -63,7 +63,7 @@ Each Member in Good Standing shall have the right to:
 
 ### **3.3 Additional Rights of Partners**
 
-Partners retain all rights of Members. In addition, reflecting their increased contributions and committement the Consortium, representative of a Partner institution is eligible for election to a Member-elected Board seat.
+Partners retain all rights of Members. In addition, reflecting their increased contributions and commitment the Consortium, representative of a Partner institution is eligible for election to a Member-elected Board seat.
 
 ### **3.4 Nature of Membership Benefits**
 
