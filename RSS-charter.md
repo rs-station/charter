@@ -2,11 +2,11 @@
 
 ## **ARTICLE 1\. Mission**
 
-The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic consortium supporting the development of open-source software for structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
+The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic consortium tasked with creating open-source software for structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
 
 The Consortium serves two primary constituencies: researchers in academia and industry who seek to extract biological and medical insight from complex structural data, and the community of software developers and methods researchers who build upon and extend structural biology tooling.
 
-All software produced by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation, alongside scientific rigor.
+All software produced by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation. These are first-order concerns of the consortium alongside scientific rigor.
 
 The Consortium is primarily a software project, but it may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology to the extent that such activities materially advance the development, adoption, sustainability, and scientific value of Consortium software.
 
@@ -23,7 +23,11 @@ The Members are institutions or other entities that provide financial resources,
 The Board is the primary governing body of the Consortium, tasked with setting strategic direction, setting a budget, conducting oversight, approving major allocations of Consortium resources, and resolving internal disputes. The Board consists of elected representatives of the Developers and Members. Each respective group elects its own representatives.
 
 **C. The Developers.**  
-The Developers are a self-governing body of researchers and engineers whose members conduct the actual work to further the strategic goals set by the Board and to execute the Mission of the Consortium. The Developers self-elect representatives to the Board. One Developer is appointed by the Board to act as Director, tasked with ensuring that Consortium resources are used to execute the strategy set by the Board.
+The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Board and execute the Mission of the Consortium. The Developers self-elect representatives to the Board. One Developer is appointed by the Board to act as Director, tasked with ensuring that Consortium resources are used to uphold the Mission and execute the Board's strategy.
+
+**D. The Operating Legal Entity.**
+The Consortium shall be a constituent project of an Operating Legal Entity that provides the legal and administrative framework necessary to conduct Consortium business. The Operating Legal Entity serves as the entity of record for contracts, employment, and financial administration on behalf of the Consortium, and retains whatever legal authorities and fiduciary obligations are imposed on it by law and by its own governing documents. The relationship between the Consortium and the Operating Legal Entity is further specified in Article 10.
+
 
 ### **2.2 Capacity of Participants**
 
@@ -37,7 +41,7 @@ Nothing in this Charter shall be construed to override the policies, contractual
 
 ### **3.1 Membership Categories**
 
-The Consortium may establish two tiers of membership, designated by the Board as **Members** and **Partners**.
+The Consortium may establish two tiers of membership, designated by the Board as **Members** and **Partners**, with Partners contributing additional resources to the consortium.
 
 The Board may define, revise, and publish the financial contribution levels, standard benefits, and administrative conditions associated with each tier through Board-approved policies or participation agreements administered by the Operating Legal Entity.
 
@@ -49,7 +53,7 @@ Each Member in Good Standing shall have the right to:
 
 **A.** designate one representative, by whatever internal mechanism it chooses, to participate in Consortium business on its behalf;
 
-**B.** attend the Annual Meeting of the Consortium;
+**B.** designate an individual to the Annual Meeting of the Consortium;
 
 **C.** vote in the annual election of Member-elected seats on the Board, as provided in this Charter;
 
@@ -59,11 +63,11 @@ Each Member in Good Standing shall have the right to:
 
 ### **3.3 Additional Rights of Partners**
 
-Partners retain all rights of Members. In addition, the representative of a Partner institution is eligible for election to a Member-elected Board seat.
+Partners retain all rights of Members. In addition, reflecting their increased contributions and committement the Consortium, representative of a Partner institution is eligible for election to a Member-elected Board seat.
 
 ### **3.4 Nature of Membership Benefits**
 
-Membership may provide meaningful influence over Consortium priorities and funding allocations through the governance mechanisms established by this Charter, including the election of Member representatives to the Board.
+Membership provides meaningful influence over Consortium priorities and funding allocations through the governance mechanisms established by this Charter, including the election of Member representatives to the Board.
 
 Membership does not confer:
 
@@ -105,7 +109,7 @@ Upon withdrawal:
 
 **C.** membership rights and benefits shall cease upon the effective date of withdrawal, except as otherwise provided by contract;
 
-**D.** any Board seat held by a representative of the withdrawing Member shall be treated as a vacancy under Section 4.6;
+**D.** any Board seat held by a representative of the withdrawing Partner-level Member shall be treated as a vacancy under Section 4.6;
 
 **E.** pre-release access rights shall terminate upon withdrawal unless otherwise provided by contract;
 
@@ -172,19 +176,17 @@ Approve amendments to this Charter, initiate or approve dissolution of the Conso
 **J. Approval of Insider-Connected Allocations.**  
 Approve, under the Conflict of Interest provisions of this Charter, any expenditure or allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director.
 
-Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, or another representative.
+Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or another representative.
 
 ### **4.4 Decision Making**
 
 All decisions of the Board shall be made by majority vote, unless this Charter provides otherwise.
 
-A quorum of a majority of sitting Board members must be present for any meeting at which binding resolutions are voted upon. No binding resolution may be passed in the absence of a quorum.
-
-Not all Board members need to be present for a vote, but more than half of the sitting Board members must vote in favor of a resolution for it to pass.
+Not all Board members need to be present for a vote, but more than half of the sitting Board members must vote in favor of a resolution for it to pass. Therefore a quorum of a majority of sitting Board members must be present for any meeting at which binding resolutions are voted upon and no binding resolution may be passed in the absence of a quorum.
 
 Should a tie take place, the Chair may cast a tie-breaking vote. Should the Chair be recused from a vote due to conflict of interest or other cause, the matter shall be tabled for no more than fourteen (14) days, during which the Board shall seek to resolve the deadlock through deliberation. If no resolution is reached within that period, the matter shall be voted again. If a tie persists, the matter shall fail.
 
-Any Board member may request a deliberation period of up to fourteen (14) days before a vote. During this period, amendments or alternatives may be proposed.
+Any Board member may request a deliberation period of up to fourteen (14) days before a vote. During this period, amendments or alternatives may be proposed. If necessary the board will vote again after 14 days in a virtual meeting if necessary.
 
 All decisions shall be recorded in meeting minutes.
 
@@ -194,9 +196,9 @@ Board members elected by the Members shall be elected through an approval voting
 
 Each Member in Good Standing shall cast one ballot through its designated representative.
 
-Only representatives of Partner institutions are eligible to stand for Member-elected Board seats.
+Only representatives of Partner institutions are eligible to stand for Member-elected Board seats. 
 
-At each election, eligible Partner representatives may be nominated to stand for the Board. Self-nominations and multiple nominations are allowed. Nominated candidates shall have the opportunity to decline candidacy.
+Unless they proactively recuse themselves, all Partner institutions shall be considered for a board seat in the vote.
 
 Each eligible Member shall receive a ballot listing all eligible candidates and may cast a vote in favor of any number of candidates it deems qualified to serve on the Board.
 
@@ -218,11 +220,7 @@ Should a Board seat become vacant between Annual Meetings due to resignation, re
 
 ### **4.7 Removal of Board Members**
 
-A Board member may be removed before the end of their term:
-
-**A.** by the body that elected them, using the same voting rules by which that body elects Board members; or
-
-**B.** by a two-thirds vote of the remaining Board members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility.
+A Board member may be removed before the end of their term by a two-thirds vote of the standing Board members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility.
 
 A Board member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
 
@@ -337,7 +335,7 @@ The Director shall assume duties immediately upon appointment or on such later d
 
 The Director may be removed at any time by majority vote of the Board.
 
-In cases of alleged financial misconduct, breach of the conflict-of-interest policy, or other serious violations, removal may be effective immediately. In all other cases, the Board should ordinarily provide the Director with written notice prior to the effective date of removal.
+In cases of alleged financial misconduct, breach of the conflict-of-interest policy, or other serious violations, removal may be effective immediately. In all other cases, the Board should ordinarily provide the Director with written notice at least thirty (30) days' prior to the effective date of removal.
 
 The Director may also resign at any time.
 
