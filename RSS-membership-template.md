@@ -1,9 +1,3 @@
-Here is a **clean v2** of the Membership Agreement, with the earlier consistency fixes folded in and the inline decision notes removed where I think your direction is already clear.
-
-I have kept a few bracketed placeholders for things that OMSF will likely want to control or confirm, such as governing law, entity details, and fee amount. Otherwise this is meant to read as a serious working draft rather than a brainstorming template.
-
----
-
 # **MEMBERSHIP AGREEMENT**
 
 ## **Reciprocal Space Station Consortium**
@@ -30,7 +24,7 @@ The purpose of this Agreement is to set forth the terms under which Member joins
 
 ## **2\. Relationship to Charter and Policies**
 
-This Agreement is entered into in connection with the Charter of the Reciprocal Space Station Consortium, as amended from time to time (the “**Charter**”).
+This Agreement is entered into in connection with the Charter of the Reciprocal Space Station Consortium (the “**Charter**”).
 
 Member acknowledges that RSS is governed by the Charter and by Board-approved policies applicable to Members, including policies governing release, publication, pre-release access, and use of Consortium resources.
 
