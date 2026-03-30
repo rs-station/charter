@@ -1,6 +1,5 @@
 # CHARTER OF THE RECIPROCAL SPACE STATION CONSORTIUM 
-**Status: working draft**
------------------------------------------------------
+Status: working draft
 
 ## Mission
 The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic consortium tasked with creating open-source software to advance the science of structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
