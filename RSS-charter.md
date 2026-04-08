@@ -16,14 +16,14 @@ To advance its mission, the Consortium may undertake education, knowledge curati
 
 The Consortium shall be composed of three bodies, tasked together with carrying out the Mission:
 
-**A. The Members.**  
-The Members are institutions or other entities that provide financial resources, strategic input, and external perspective to the Consortium. Members may receive governance participation, support, and programmatic benefits as provided in this Charter and in Board-approved policies or agreements.
+**A. The Member Institutions (“Members”).**  
+The Members are typically companies, universities, research institutes, or comparable organizations that enter into a membership agreement with the Consortium. Members provide financial resources, strategic input, and external perspective in exchange for governance participation, support, and programmatic benefits as provided in this Charter, applicable membership agreements, and Board-approved policies.
 
 **B. A Governing Board (the “Board”).**  
 The Board is the primary governing body of the Consortium, tasked with setting strategic direction, setting a budget, conducting oversight, approving major allocations of Consortium resources, and resolving internal disputes. The Board consists of elected representatives of the Developers and Members. Each respective group elects its own representatives.
 
 **C. The Developers.**  
-The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Board and execute the Mission of the Consortium. The Developers self-elect representatives to the Board. One Developer is appointed by the Board to act as Director, tasked with ensuring that Consortium resources are used to uphold the Mission and execute the Board's strategy.
+The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Board and execute the Mission of the Consortium. Developers participate as individuals and do not necessarily represent any institution. The group may include, for example, staff employed by the Consortium, Consortium-funded fellows based at academic institutions, and volunteer community members who have no contractual obligation to the Consortium. The Developers self-elect representatives to the Board. One Developer is appointed by the Board to act as Director, tasked with ensuring that Consortium resources are used to uphold the Mission and execute the Board's strategy.
 
 **D. The Operating Legal Entity.**
 The Consortium shall be a constituent project of an Operating Legal Entity that provides the legal and administrative framework necessary to conduct Consortium business. The Operating Legal Entity serves as the entity of record for contracts, employment, and financial administration on behalf of the Consortium, and retains whatever legal authorities and fiduciary obligations are imposed on it by law and by its own governing documents. The relationship between the Consortium and the Operating Legal Entity is further specified in Article 10.
@@ -41,7 +41,11 @@ Nothing in this Charter shall be construed to override the policies, contractual
 
 ## **ARTICLE 3\. Membership**
 
-### **3.1 Membership Categories**
+### **3.1 The Role of the Member Institutions**
+
+Member institutions (“Members”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Members are often, but not necessarily, end consumers of the Consortium's software and related outputs. Accordingly, Members gain the right to steer and access the Consortium's work. Each Member is bound by a membership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Members provide strategic input that shapes the direction and priorities of the Consortium.
+
+### **3.2 Membership Categories**
 
 The Consortium may establish two tiers of membership, designated by the Board as **Members** and **Partners**, with Partners contributing additional resources to the consortium.
 
@@ -244,11 +248,9 @@ Emergency decisions may not be used to amend this Charter, dissolve the Consorti
 
 ### **5.1 Charge**
 
-The Developers represent a self-governing body of scientists and engineers that conduct the actual work to carry out the Strategic Goals and execute the Consortium’s Mission.
+The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Consortium and execute the Consortium’s Mission. Futher, the Developers help guide the strategic direction of the Consortium by holding seats on the Board.
 
-The Developers help guide the strategic direction of the Consortium by holding seats on the Board and by conducting the technical work of the Consortium.
-
-The Developers may consist of both personnel paid to work for the Consortium and unpaid community members who provide in-kind support.
+Developers be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Member under Section 2.2 acts in each role separately.
 
 Developers are expected to be active participants in the business and technical life of the Consortium by writing and reviewing code, producing technical materials, providing input and feedback to the Board, and supporting one another and the broader structural biology community.
 
