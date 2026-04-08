@@ -176,7 +176,7 @@ Approve amendments to this Charter, initiate or approve dissolution of the Conso
 Approve, under the Conflict of Interest provisions of this Charter, any expenditure or allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director.
 
 **J. Adoption of Policies.**  
-The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to release and publication, contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies shall be made available to Members and Developers.
+The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to release and publication, contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Board-approved policies shall be made available to Members and Developers.
 
 Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or another representative.
 
