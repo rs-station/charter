@@ -166,17 +166,17 @@ Review and approve hiring recommendations made by the Director, unless the Board
 **F. Membership Framework.**  
 Establish membership categories, participation rights, general benefit structures, and related policies or agreements.
 
-**G. Release and Publication Policy.**  
-Adopt policies governing the timing and conditions of release and publication for Consortium-Funded Work, consistent with Article 8\.
-
-**H. Conflict Resolution and Governance.**  
+**G. Conflict Resolution and Governance.**  
 Resolve conflicts of interest, disputes among Consortium participants, and other governance matters using the powers vested in the Board by this Charter.
 
-**I. Charter Amendment, Separation, and Dissolution.**  
+**H. Charter Amendment, Separation, and Dissolution.**  
 Approve amendments to this Charter, initiate or approve dissolution of the Consortium, and act on separation matters as provided elsewhere in this Charter.
 
-**J. Approval of Insider-Connected Allocations.**  
+**I. Approval of Insider-Connected Allocations.**  
 Approve, under the Conflict of Interest provisions of this Charter, any expenditure or allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director.
+
+**J. Adoption of Policies.**  
+The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to release and publication, contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies shall be made available to Members and Developers.
 
 Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or another representative.
 
@@ -472,7 +472,7 @@ If recusals would prevent quorum, the non-conflicted Board members may seek addi
 
 Any expenditure, grant, fellowship, contract, or other allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director shall require explicit Board approval with the conflicted individual recused.
 
-The Board may require reasonable reporting, certification, or progress documentation for such allocations. At a minimum, any such allocation made through a Consortium-Funded Project remains subject to the annual reporting requirement in Section 8.7.
+The Board may require reasonable reporting, certification, or progress documentation for such allocations. At a minimum, any such allocation made through a Consortium-Funded Project remains subject to the annual reporting requirement in Section 8.8.
 
 ### **9.6 Enforcement**
 
