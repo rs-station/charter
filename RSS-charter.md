@@ -14,7 +14,7 @@ To advance its mission, the Consortium may undertake education, knowledge curati
 
 ### **2.1 Structure**
 
-The Consortium shall be composed of three bodies, tasked together with carrying out the Mission:
+The Consortium shall be composed of three bodies and an Operating Legal Entity, tasked together with carrying out the Mission:
 
 **A. The Member Institutions (“Members”).**  
 The Members are typically companies, universities, research institutes, or comparable organizations that enter into a membership agreement with the Consortium. Members provide financial resources, strategic input, and external perspective in exchange for governance participation, support, and programmatic benefits as provided in this Charter, applicable membership agreements, and Board-approved policies.
@@ -43,7 +43,7 @@ Nothing in this Charter shall be construed to override the policies, contractual
 
 ### **3.1 The Role of the Member Institutions**
 
-Member institutions (“Members”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Members are often, but not necessarily, end consumers of the Consortium's software and related outputs. Accordingly, Members gain the right to steer and access the Consortium's work. Each Member is bound by a membership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Members provide strategic input that shapes the direction and priorities of the Consortium.
+Member institutions (“Members”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Members are often, but not necessarily, end consumers of the Consortium's software and related outputs. Accordingly, Members gain the right to influence and access the Consortium's work. Each Member is bound by a membership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Members provide strategic input that shapes the direction and priorities of the Consortium.
 
 ### **3.2 Membership Categories**
 
@@ -53,7 +53,7 @@ The Board may define, revise, and publish the financial contribution levels, sta
 
 The Consortium may also enter into project-specific, grant-specific, sponsorship-specific, or other limited arrangements that do not create continuing membership or governance rights unless expressly provided.
 
-### **3.2 General Rights of Members**
+### **3.3 General Rights of Members**
 
 Each Member in Good Standing shall have the right to:
 
@@ -67,11 +67,11 @@ Each Member in Good Standing shall have the right to:
 
 **E.** receive such support, communication channels, pre-release access, recognition, or other programmatic benefits as may be provided in Board-approved policies or agreements.
 
-### **3.3 Additional Rights of Partners**
+### **3.4 Additional Rights of Partners**
 
-Partners retain all rights of Members. In addition, reflecting their increased contributions and commitment the Consortium, representative of a Partner institution is eligible for election to a Member-elected Board seat.
+Partners retain all rights of Members. In addition, reflecting their increased contributions and commitment to the Consortium, the representative of a Partner institution is eligible for election to a Member-elected Board seat.
 
-### **3.4 Nature of Membership Benefits**
+### **3.5 Nature of Membership Benefits**
 
 Membership provides meaningful influence over Consortium priorities and funding allocations through the governance mechanisms established by this Charter, including the election of Member representatives to the Board.
 
@@ -87,7 +87,7 @@ Membership does not confer:
 
 The detailed economic and programmatic terms of membership, including contribution amounts, support expectations, and pre-release access terms, may be set forth in separate policies or agreements.
 
-### **3.5 Good Standing**
+### **3.6 Good Standing**
 
 A Member shall be considered in Good Standing if:
 
@@ -103,7 +103,7 @@ Loss of Good Standing shall result in suspension of membership rights for the du
 
 The Board may, by majority vote, reinstate a Member to Good Standing upon satisfaction of all outstanding obligations.
 
-### **3.6 Voluntary Withdrawal**
+### **3.7 Voluntary Withdrawal**
 
 A Member may voluntarily withdraw from the Consortium at any time by providing written notice to the Director.
 
@@ -192,7 +192,7 @@ Not all Board members need to be present for a vote, but more than half of the s
 
 Should a tie take place, the Chair may cast a tie-breaking vote. Should the Chair be recused from a vote due to conflict of interest or other cause, the matter shall be tabled for no more than fourteen (14) days, during which the Board shall seek to resolve the deadlock through deliberation. If no resolution is reached within that period, the matter shall be voted again. If a tie persists, the matter shall fail.
 
-Any Board member may request a deliberation period of up to fourteen (14) days before a vote. During this period, amendments or alternatives may be proposed. If necessary the board will vote again after 14 days in a virtual meeting if necessary.
+Any Board member may request a deliberation period of up to fourteen (14) days before a vote. During this period, amendments or alternatives may be proposed. If necessary, the Board shall vote again after fourteen (14) days.
 
 All decisions shall be recorded in meeting minutes.
 
@@ -248,9 +248,9 @@ Emergency decisions may not be used to amend this Charter, dissolve the Consorti
 
 ### **5.1 Charge**
 
-The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Consortium and execute the Consortium’s Mission. Futher, the Developers help guide the strategic direction of the Consortium by holding seats on the Board.
+The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Consortium and execute the Consortium’s Mission. Further, the Developers help guide the strategic direction of the Consortium by holding seats on the Board.
 
-Developers be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Member under Section 2.2 acts in each role separately.
+Developers may be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Member under Section 2.2 acts in each role separately.
 
 Developers are expected to be active participants in the business and technical life of the Consortium by writing and reviewing code, producing technical materials, providing input and feedback to the Board, and supporting one another and the broader structural biology community.
 
@@ -474,7 +474,7 @@ If recusals would prevent quorum, the non-conflicted Board members may seek addi
 
 Any expenditure, grant, fellowship, contract, or other allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director shall require explicit Board approval with the conflicted individual recused.
 
-The Board may require reasonable reporting, certification, or progress documentation for such allocations. At a minimum, any such allocation made through a Consortium-Funded Project remains subject to the annual reporting requirement in Section 8.7.
+The Board may require reasonable reporting, certification, or progress documentation for such allocations. At a minimum, any such allocation made through a Consortium-Funded Project remains subject to the annual reporting requirement in Section 8.8.
 
 ### **9.6 Enforcement**
 
