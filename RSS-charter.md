@@ -258,7 +258,19 @@ The Developers retain primary responsibility for technical implementation, codin
 
 The Board may set priorities, budgets, and high-level release policy, but shall not micromanage ordinary technical implementation.
 
-### **5.3 Composition**
+### **5.3 Developer Resolutions**
+
+The Developers may adopt written Resolutions on matters within their authority, including coding practices, review standards, testing requirements, documentation norms, tooling, communication, internal organization, community building, and related engineering or operational concerns.
+
+A Resolution shall be adopted by majority vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers are present or participate.
+
+Resolutions are non-binding recommendations that document the consensus of the Developers.
+
+However, upon adoption of a Resolution, the Developers may by the same or a subsequent vote recommend that the Board adopt the substance of the Resolution as a binding Board-approved policy under Section 4.3. The Board shall consider any such recommendation in a timely manner but is not obligated to adopt it.
+
+Adopted Resolutions and their current status shall be maintained as Consortium records by the Director.
+
+### **5.4 Composition**
 
 Membership in the group of Developers is intended to reflect active contributions to the Consortium.
 
@@ -273,7 +285,7 @@ Votes must be conducted electronically in a manner accessible worldwide, and vot
 
 A public list of current Developers shall be maintained by the Director and made available to the Developers and Board.
 
-### **5.4 Developer Elections to the Board**
+### **5.5 Developer Elections to the Board**
 
 Board members elected by the Developers shall be elected through an approval voting process using secret ballots.
 
@@ -283,13 +295,13 @@ Each Developer shall receive a ballot listing all eligible candidates and may ca
 
 The three candidates receiving the greatest number of approvals shall be declared elected to the Board. In the event of a tie for the final seat, a runoff election shall be held in which each Developer casts a single vote. If a tie remains, the Chair of the Board shall cast the tie-breaking vote, unless recused, in which case the tied seat shall remain vacant until a further runoff can be conducted.
 
-### **5.5 Dissolution Right of the Developers**
+### **5.6 Dissolution Right of the Developers**
 
 The Developers retain the right to dissolve the Consortium and nullify this Charter.
 
 If at any time two-thirds (2/3) or more of all sitting Developers vote in favor of dissolution, the Board must make arrangements for the cessation of operations in accordance with Article 11\.
 
-### **5.6 Resources of the Developers**
+### **5.7 Resources of the Developers**
 
 It is explicitly recognized that the Consortium may make resources available to the Developers to empower them to execute their role within the Consortium. The Board may therefore allocate budget for software services, travel, compute, collaboration tools, and other material resources that Developers will be eligible to use.
 
