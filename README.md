@@ -12,5 +12,5 @@ To advance its mission, the Consortium may undertake education, knowledge curati
 
 ## Visual Summary
 
-<img width="2400" height="1350" alt="RSS-Governance" src="https://github.com/user-attachments/assets/0c624a62-6b2d-4e90-9a32-5140370c78f4" />
+<img width="2400" height="1350" alt="RSS-Governance" src="graphics/RSS-Governance-overview.png" />
 
