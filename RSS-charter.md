@@ -64,7 +64,7 @@ Each Member in Good Standing shall have the right to:
 
 **A.** designate one representative, by whatever internal mechanism it chooses, to participate in Consortium business on its behalf;
 
-**B.** designate an individual to the Annual Meeting of the Consortium;
+**B.** send at least one voting representative to the Annual Meeting of the Consortium;
 
 **C.** vote in the annual election of Member-elected seats on the Board, as provided in this Charter;
 
@@ -364,13 +364,15 @@ If the Director seat is unfilled, the Chair of the Board shall assume the duties
 
 ## **ARTICLE 7\. Annual Meeting**
 
-No less than once per calendar year, the Board shall convene an Annual Meeting of the Consortium, open to all Members and Developers.
+No less than once per calendar year, the Board shall convene an Annual Meeting of the Consortium, open to the representatives of all Members and to all Developers.
 
 The Annual Meeting shall serve as the primary forum for the Director and the Board to present the Strategic Goals and budget for the coming year, report on progress against prior goals, review the list of Developers, and receive recommendations from Members and Developers.
 
 Board elections for both the Member-elected seats and the Developer-elected seats shall be conducted in advance of or in connection with the Annual Meeting such that newly elected Board members are seated no later than the opening of the Annual Meeting.
 
 The Board shall provide no less than thirty (30) days’ notice of the Annual Meeting to all Members and Developers, including a proposed agenda.
+
+Additional attendees, such as non-voting representatives of Member institutions, scientific advisors, or other guests, may be invited by the Board to attend when doing so furthers the Consortium's business.
 
 The Annual Meeting may be held in person, virtually, or in hybrid format.
 
