@@ -1,3 +1,8 @@
+<h1 align="center">DRAFT</h1>
+<p align="center">
+<span style="font-family: Arial; font-size: 20px; color: blue;">
+
+
 # **CHARTER OF THE RECIPROCAL SPACE STATION CONSORTIUM**
 
 ## **ARTICLE 1\. Mission**
