@@ -576,7 +576,7 @@ The Consortium shall maintain a public or participant-accessible record of curre
 
 Any amendment of this Charter shall require:
 
-**A.** the affirmative vote of all Board members then in office; followed by  
+**A.** the affirmative vote of a majority of Board members then in office; followed by  
 **B.** the affirmative vote of two-thirds (2/3) of the Developers.
 
 Upon adoption of any amendment to this Charter, the Director shall archive the prior version of the Charter and record the date of amendment, the nature of the changes made, and the vote by which the amendment was approved.
