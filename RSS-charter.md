@@ -19,7 +19,7 @@ To advance its mission, the Consortium may undertake education, knowledge curati
 
 ### **2.1 Structure**
 
-The Consortium shall be composed of three bodies and an Operating Legal Entity, tasked together with carrying out the Mission:
+The Consortium shall be composed of three bodies, together tasked with carrying out the Mission, and an Operating Legal Entity that provides their legal and administrative framework:
 
 **A. The Member Institutions (“Members”).**  
 The Members are typically companies, universities, research institutes, or comparable organizations that enter into a membership agreement with the Consortium. Members provide financial resources, strategic input, and external perspective in exchange for governance participation, support, and programmatic benefits as provided in this Charter, applicable membership agreements, and Board-approved policies.
