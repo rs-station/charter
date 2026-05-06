@@ -398,9 +398,13 @@ Data, documentation, and related non-software outputs generated as Consortium-Fu
 
 Software that is already public and open-source at the time it receives Consortium support shall remain public and open-source. Consortium support shall not retroactively restrict the openness of already-public code, including bug fixes, maintenance, or new features developed in such projects, except to the extent a contributor independently elects to maintain private development branches pending ordinary public release.
 
-### **8.3 Contribution Policy**
+### **8.3 Project Status and Adoption Policy**
 
-The Board may adopt a contribution and intellectual property policy governing how contributions are accepted into Consortium-managed projects, the rights granted by contributors, and the treatment of work performed at external institutions with Consortium support.
+The Consortium shall maintain a Project Adoption Policy that defines the categories of project status the Consortium recognizes, the criteria a project must meet to attain or retain each status, and the path by which a project may seek that status.
+
+The Project Adoption Policy shall be drafted and ratified by the Developers under Section 5.3 by a two-thirds (2/3) vote, and shall take effect upon majority approval by the Board. Amendments to the Policy shall follow the same procedure.
+
+The Project Adoption Policy shall not modify rights, obligations, or processes established elsewhere in this Charter.
 
 ### **8.4 Project-Specific Release Policy**
 
