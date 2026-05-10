@@ -11,7 +11,7 @@ The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic co
 
 The Consortium serves two primary constituencies: researchers in academia and industry who seek to extract biological and medical insight from complex structural data, and the community of software developers and methods researchers who build upon and extend structural biology tooling.
 
-All software produced by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation. These are first-order concerns of the consortium alongside scientific rigor.
+All software released by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation. These are first-order concerns of the consortium alongside scientific rigor.
 
 To advance its mission, the Consortium may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology.
 
@@ -261,7 +261,7 @@ Developers are expected to be active participants in the business and technical 
 
 ### **5.2 Technical Authority**
 
-The Developers retain primary responsibility for technical implementation, coding standards, review norms, release-readiness assessments, and related technical judgments, except as otherwise provided in Board-approved policies governing Consortium-Funded Work.
+The Developers retain primary responsibility for technical implementation, coding standards, review norms, release standards, and related technical judgments, except as otherwise provided in Board-approved policies governing Consortium-Funded Work.
 
 The Board may set priorities, budgets, and high-level strategy, but shall not micromanage ordinary technical implementation.
 
@@ -269,7 +269,7 @@ The Board may set priorities, budgets, and high-level strategy, but shall not mi
 
 The Developers may adopt written Resolutions on matters within their authority, including coding practices, review standards, testing requirements, documentation norms, tooling, communication, internal organization, community building, and related engineering or operational concerns.
 
-A Resolution shall be adopted by majority vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers are present or participate.
+A Resolution shall be adopted by majority vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers are present or participate. Votes must be conducted electronically in a manner accessible worldwide, and voting shall be conducted over a window sufficient to permit participation across time zones.
 
 Resolutions are non-binding recommendations that document the consensus of the Developers.
 
@@ -281,9 +281,7 @@ Adopted Resolutions and their current status shall be maintained as Consortium r
 
 Membership in the group of Developers is intended to reflect active contributions to the Consortium.
 
-Composition decisions shall be made by a two-thirds (2/3) vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers is present or participates.
-
-Votes must be conducted electronically in a manner accessible worldwide, and voting shall be conducted over a window sufficient to permit participation across time zones.
+Composition decisions shall be made by a two-thirds (2/3) vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers is present or participates, following the voting procedure described in Section 5.3.
 
 **A.** New Developers may be added by a 2/3 vote.  
 **B.** Developers who are no longer actively contributing or no longer intend to contribute are asked to resign proactively.  
@@ -388,6 +386,8 @@ For purposes of this Charter:
 
 **C. External Work** means work contributed independently outside Consortium support, including work created by Developers, contributors, collaborators, Members, or other participants acting outside such support.
 
+**D. Release** means making Consortium-Funded Work generally available to the public without access restriction, whether through publication of a source code repository, distribution of packaged or compiled artifacts, or equivalent means. Pre-release access provided to Members under Board-approved policy does not constitute Release.
+
 Except as otherwise provided in this Charter or in agreed project-specific terms, the Consortium does not claim governance authority over purely External Work contributed outside Consortium support.
 
 ### **8.2 Open Release Principle**
@@ -395,8 +395,6 @@ Except as otherwise provided in this Charter or in agreed project-specific terms
 Software conceived or first actually reduced to practice as Consortium-Funded Work shall be released under an Open Source Initiative approved permissive license with commercial terms no more restrictive than Apache 2.0, unless the Board approves another permissive license materially consistent with the Mission.
 
 Data, documentation, and related non-software outputs generated as Consortium-Funded Work may be shared under an appropriate permissive public license as determined by the Board.
-
-Software that is already public and open-source at the time it receives Consortium support shall remain public and open-source. Consortium support shall not retroactively restrict the openness of already-public code, including bug fixes, maintenance, or new features developed in such projects, except to the extent a contributor independently elects to maintain private development branches pending ordinary public release.
 
 ### **8.3 Project Status and Adoption Policy**
 
@@ -414,9 +412,9 @@ While public release of completed projects is the ultimate aim of the Consortium
 **B.** ensure that publicly released code meets a minimum standard of quality and documentation; and  
 **C.** permit Members to receive pre-release access as allowed by Board-approved policy.
 
-Further, not all Consortium-Funded work need be pulically released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
+Further, not all Consortium-Funded work need be publicaly released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
 
-In general, however, Developers shall be free to decide on if and when to release any Consortium-Funded Work they participate in autonomously.
+In general, however, Developers shall be free to autonomously decide on if and when to release any Consortium-Funded Work they participate in.
 
 However, should either:
 
@@ -425,7 +423,7 @@ However, should either:
 
 the Board may, by majority vote, compel either release or non-release of Consortium-Funded Work.
 
-The details, timeline, and rationale for this intervention must be recorded in writing and made available to all Developers, regardless of whether they were involved in the project or not. By a 2/3 majority, issued in response after no more than fourteen (14) days have passed since the decision was communicated, the Developers may choose to veto this rationale. The Board must then draft another resolution and re-submit it to the Developers.
+The details, timeline, and rationale for this intervention must be recorded in writing and made available to all Developers, regardless of whether they were involved in the project or not. By a Section 5.3 two-thirds (2/3) majority, issued in response after no more than fourteen (14) days have passed since the decision was communicated, the Developers may choose to veto this rationale. The Board must then draft another resolution and re-submit it to the Developers.
 
 ### **8.5 Research Freedom and Publication Rights**
 
@@ -433,7 +431,7 @@ The right of any Consortium participant to own, publish, or otherwise pursue the
 
 The rights and obligations of contractual employees and contractors shall be stipulated in their respective contracts and by applicable law and policy.
 
-No Member, Sponsor, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
+No Member, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
 ### **8.6 Annual Reporting for Consortium-Funded Projects**
 
