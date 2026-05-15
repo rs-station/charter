@@ -591,5 +591,13 @@ All prior versions of the Charter shall be made available to any Member or Devel
 
 ## **ADOPTION OF CHARTER**
 
-We, the undersigned, constitute the initial Board, Developers, and Director. We consent to, and hereby do, adopt the foregoing Charter as the Charter of the Reciprocal Space Station Consortium.
+The Charter shall be adopted by a set of Developers.
+
+Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Developer-elected representatives to the Board. At this special election, the Developers shall elect up to three (3) Board members in accordance with the procedures of this Charter; by a two-thirds (2/3) vote, the Developers may instead elect fewer than three. Any Developer-elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
+
+The Board shall set the date of the first Annual Meeting, at which the next election of Board members shall be held as required by this Charter. The first Annual Meeting may be held on any date set by the Board, provided it occurs no later than twelve (12) months following adoption of this Charter.
+
+After being seated, the Board shall appoint the first Director from among the Developers in accordance with Article 6. This shall occur no later than the time of this first Annual Meeting. The service of the first Director during this time shall not count towards the term limits outlined in Article 6.
+
+We, the undersigned, constitute the initial Developers of the Consortium. We consent to and hereby adopt this Charter of the Reciprocal Space Station Consortium:
 
