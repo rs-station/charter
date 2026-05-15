@@ -438,17 +438,6 @@ The rights and obligations of contractual employees and contractors shall be sti
 
 No Member, Sponsor, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
-### **8.8 Annual Reporting for Consortium-Funded Projects**
-
-Each Consortium-Funded Project shall provide at least annual reporting to the Board, in a form determined by Board policy, summarizing:
-
-**A.** personnel effort supported by the Consortium;  
-**B.** progress made during the reporting period;  
-**C.** use of Consortium-administered funds or resources; and  
-**D.** anticipated next steps or remaining milestones.
-
-The Board may require additional reporting for particular projects where warranted by scale, risk, conflict-of-interest considerations, or external obligations.
-
 ## **ARTICLE 9\. Conflicts of Interest**
 
 ### **9.1 Purpose**
@@ -487,7 +476,7 @@ If all Board members would be subject to recusal, the matter shall be voted on b
 
 Any expenditure, grant, fellowship, contract, or other allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director shall require explicit Board approval with the conflicted individual recused.
 
-The Board may require reasonable reporting, certification, or progress documentation for such allocations. At a minimum, any such allocation made through a Consortium-Funded Project remains subject to the annual reporting requirement in Section 8.8.
+The Board may require reasonable reporting, certification, or progress documentation for such allocations.
 
 ### **9.6 Enforcement**
 
