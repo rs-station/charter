@@ -409,8 +409,9 @@ The Project Adoption Policy shall not modify rights, obligations, or processes e
 While public release of completed projects is the ultimate aim of the Consortium, Consortium-Funded Work may be held in private repositories for a period prior to public release. The intent of such limited private development is to:
 
 **A.** protect the ability of Consortium researchers to publish their findings without being scooped;  
-**B.** ensure that publicly released code meets a minimum standard of quality and documentation; and  
-**C.** permit Members to receive pre-release access as allowed by Board-approved policy.
+**B.** ensure that publicly released code meets a minimum standard of quality and documentation;  
+**C.** permit Members to receive pre-release access as allowed by Board-approved policy; and
+**D.** should it be necessary, protect the security and privacy of Developers, other Consortium participants, or the broader public.
 
 Further, not all Consortium-Funded work need be publicaly released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
 
@@ -418,8 +419,8 @@ In general, however, Developers shall be free to autonomously decide on if and w
 
 However, should either:
 
-**1.** an irreconcilable disagreement regarding release arises amongst Developers involved in a project, and this disagreement is brought to the attention of the Director or Board by any Developer; or  
-**2.** the Board determines that it is in the vital interests of the Consortium,
+**i.** an irreconcilable disagreement regarding release arises amongst Developers involved in a project, and this disagreement is brought to the attention of the Director or Board by any Developer; or  
+**ii.** the Board determines that it is in the vital interests of the Consortium,
 
 the Board may, by majority vote, compel either release or non-release of Consortium-Funded Work.
 
