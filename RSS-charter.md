@@ -151,6 +151,8 @@ If the Consortium consists of fewer than three willing Partner-level Members or 
 
 One member of the Board shall be designated as Chair. The Chair shall be elected by majority vote of the Board at the first meeting following each Annual Meeting and shall serve a one-year term concurrent with their Board term. A Board member may serve as Chair for no more than two consecutive terms.
 
+The Chair shall set agendas, convene and preside over Board meetings, put matters to a vote, and ensure the Board operates in accordance with this Charter. The Chair shall schedule Board meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Board members. The Chair may call meetings _ad hoc_ to handle urgent or emergency business.
+
 With consent of the Board by majority vote, the Chair may appoint additional officers or assistants, which need not be Board members, to assist the Board in carrying out its business.
 
 ### **4.3 Powers and Duties of the Board**
@@ -234,20 +236,6 @@ Should a Board seat become vacant between Annual Meetings due to resignation, re
 A Board member may be removed before the end of their term by a two-thirds vote of the standing Board members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility.
 
 A Board member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond no shorter than fourteen (14) days, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
-
-### **4.8 Emergency Decisions**
-
-In circumstances where a time-sensitive decision must be made and convening a regular meeting or observing the standard deliberation period would result in material harm to the Consortium, the Chair may declare an emergency matter.
-
-The Chair shall notify all Board members in writing of the emergency matter, describing the decision required and the reason for urgency.
-
-Board members shall have forty-eight (48) hours to cast a vote electronically. A decision shall require the affirmative vote of a majority of all sitting Board members.
-
-Any Board member may object to the emergency designation within twelve (12) hours of notification, in which case the matter reverts to the standard deliberation process.
-
-All emergency decisions shall be ratified, amended, or rescinded at the next regular Board meeting and recorded in the minutes.
-
-Emergency decisions may not be used to amend this Charter, dissolve the Consortium, remove the Director, or approve a matter requiring recusal-based review under the conflict-of-interest provisions of this Charter.
 
 ## **ARTICLE 5\. The Developers**
 
