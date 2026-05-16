@@ -356,11 +356,11 @@ The Annual Meeting shall serve as the primary forum for the Director and the Boa
 
 Board elections for both the Member-elected seats and the Developer-elected seats shall be conducted in conjunction with the Annual Meeting such that newly elected Board members are seated no later than the close of the Annual Meeting.
 
-The Board shall provide no less than thirty (30) days’ notice of the Annual Meeting to all Members and Developers, including a proposed agenda.
+The Board shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Members and Developers, including a proposed agenda.
 
 Additional attendees, such as non-voting representatives of Member institutions, scientific advisors, or other guests, may be invited by the Board to attend when doing so furthers the Consortium's business.
 
-The Annual Meeting may be held in person, virtually, or in hybrid format.
+The Annual Meeting may be held in a virtual or hybrid (in-person and virtual) format, providing the possibility to participate for Consortium participants around the world.
 
 ## **ARTICLE 8\. Consortium-Funded Work, Open Release, and Publication**
 
