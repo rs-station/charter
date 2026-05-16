@@ -593,7 +593,7 @@ All prior versions of the Charter shall be made available to any Member or Devel
 
 The Charter shall be adopted by a set of Developers.
 
-Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Developer-elected representatives to the Board. At this special election, the Developers shall elect up to three (3) Board members in accordance with the procedures of this Charter; by a two-thirds (2/3) vote, the Developers may instead elect fewer than three. Any Developer-elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
+Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Developer-elected representatives to the Board. At this special election, the Developers shall elect up to three (3) Board members; by a two-thirds (2/3) vote, the Developers may instead elect fewer than three. The election shall otherwise follow the procedure set out in Section 5.5, applied to the number of seats to be filled. Any Developer-elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
 
 The Board shall set the date of the first Annual Meeting, at which the next election of Board members shall be held as required by this Charter. The first Annual Meeting may be held on any date set by the Board, provided it occurs no later than twelve (12) months following adoption of this Charter.
 
