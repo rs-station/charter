@@ -40,7 +40,7 @@ Unless expressly designated otherwise in a separate written agreement, Developer
 
 No person acting under this Charter may bind any university, laboratory, company, government entity, or other institution absent separate written authority.
 
-An individual may simultaneously serve as a Developer and as a designated representative of a Member, subject to any applicable conflict-of-interest provisions of this Charter.
+As provided for in Articles 3 and 5 respectively, an individual may simultaneously serve as both a Developer and as a designated representative of a Member, subject to any applicable conflict-of-interest provisions of this Charter.
 
 Nothing in this Charter shall be construed to override the policies, contractual obligations, or legal constraints applicable to any participant by virtue of their employment, appointment, grant support, or institutional affiliation.
 
@@ -48,7 +48,7 @@ Nothing in this Charter shall be construed to override the policies, contractual
 
 ### **3.1 The Role of the Member Institutions**
 
-Member institutions (“Members”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Members are often, but not necessarily, end consumers of the Consortium's software and related outputs. Accordingly, Members gain the right to influence and access the Consortium's work. Each Member is bound by a membership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Members provide strategic input that shapes the direction and priorities of the Consortium.
+Member institutions (“Members”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Through their participation, Member institutions obtain the right to influence and obtain early access the Consortium's work. Each Member is bound by a membership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Members provide strategic input that shapes the direction and priorities of the Consortium.
 
 ### **3.2 Membership Categories**
 
@@ -110,7 +110,7 @@ The Board may, by majority vote, reinstate a Member to Good Standing upon satisf
 
 ### **3.7 Voluntary Withdrawal**
 
-A Member may voluntarily withdraw from the Consortium at any time by providing written notice to the Director.
+A Member may voluntarily withdraw from the Consortium at any time by providing written notice to any Board member or the Director.
 
 Upon withdrawal:
 
@@ -134,7 +134,7 @@ The Board is the primary governing body of the Consortium, tasked with ensuring 
 
 The Board shall meet regularly at a self-determined frequency.
 
-Board appointments are strictly unpaid positions, except that the Consortium may support reasonable Board-related administrative or meeting expenses in a manner disclosed to Consortium participants.
+Board appointments are strictly unpaid positions, except that the Consortium may support reasonable Board-related administrative or meeting expenses in a manner disclosed to all Consortium participants.
 
 ### **4.2 Composition and Terms**
 
@@ -145,11 +145,13 @@ The Board shall consist of six members:
 
 These seats shall be elected by the Members and Developers, respectively, at or in advance of the Annual Meeting.
 
-Board members serve one-year terms and may be reelected without term limit. No individual may hold more than one Board seat at a time. An individual who is eligible for both a Member-elected and a Developer-elected seat must choose one.
+Board members serve one-year terms and may be reelected without term limit. No individual may hold more than one Board seat at a time. An individual who is eligible for both a Member-elected and a Developer-elected seat must choose one election to participate in.
 
 If the Consortium consists of fewer than three willing Partner-level Members or fewer than three willing Developers, seats on the Board may remain unfilled.
 
 One member of the Board shall be designated as Chair. The Chair shall be elected by majority vote of the Board at the first meeting following each Annual Meeting and shall serve a one-year term concurrent with their Board term. A Board member may serve as Chair for no more than two consecutive terms.
+
+The Chair shall set agendas, convene and preside over Board meetings, put matters to a vote, and ensure the Board operates in accordance with this Charter. The Chair shall schedule Board meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Board members. The Chair may call meetings _ad hoc_ to handle urgent or emergency business.
 
 With consent of the Board by majority vote, the Chair may appoint additional officers or assistants, which need not be Board members, to assist the Board in carrying out its business.
 
@@ -164,7 +166,7 @@ Set Strategic Goals for the Consortium. The Board shall integrate input from the
 Develop and approve a clear, high-level budget sufficient to realize the Strategic Goals while ensuring the long-term financial health of the Consortium.
 
 **C. Appointment and Oversight of the Director.**  
-Appoint one of the Developers to serve as Director, oversee the Director’s performance, and remove the Director as provided in this Charter.
+Appoint one of the Developers to serve as Director, oversee the Director’s performance, and if deemed necessary remove the Director as provided in this Charter.
 
 **D. Major Allocations and Commitments.**  
 Approve major expenditures, major Consortium-Funded Projects, multi-year financial commitments, and funding arrangements requiring Board approval under Board policy.
@@ -187,7 +189,7 @@ Approve, under the Conflict of Interest provisions of this Charter, any expendit
 **J. Adoption of Policies.**  
 The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Board-approved policies shall be made available to Members and Developers.
 
-Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or another representative.
+Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or any other representative.
 
 ### **4.4 Decision Making**
 
@@ -213,7 +215,7 @@ Unless they proactively recuse themselves, all Partner institutions shall be con
 
 Each eligible Member shall receive a ballot listing all eligible candidates and may cast a vote in favor of any number of candidates it deems qualified to serve on the Board.
 
-The three candidates receiving the greatest number of approvals shall be declared elected to the Board. In the event of a tie for the final seat, a runoff election shall be held in which each eligible Member casts a single vote. If a tie remains, the Chair of the Board shall cast the tie-breaking vote, unless recused, in which case the tied seat shall remain vacant until a further runoff can be conducted.
+The three candidates receiving the greatest number of approvals shall be declared elected to the Board. In the event of a tie for the final seat, a runoff election shall be held in which each eligible Member casts a single vote. If a tie remains, the sitting Chair of the Board shall cast the tie-breaking vote.
 
 ### **4.6 Vacancies**
 
@@ -233,21 +235,7 @@ Should a Board seat become vacant between Annual Meetings due to resignation, re
 
 A Board member may be removed before the end of their term by a two-thirds vote of the standing Board members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility.
 
-A Board member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
-
-### **4.8 Emergency Decisions**
-
-In circumstances where a time-sensitive decision must be made and convening a regular meeting or observing the standard deliberation period would result in material harm to the Consortium, the Chair may declare an emergency matter.
-
-The Chair shall notify all Board members in writing of the emergency matter, describing the decision required and the reason for urgency.
-
-Board members shall have forty-eight (48) hours to cast a vote electronically. A decision shall require the affirmative vote of a majority of all sitting Board members.
-
-Any Board member may object to the emergency designation within twelve (12) hours of notification, in which case the matter reverts to the standard deliberation process.
-
-All emergency decisions shall be ratified, amended, or rescinded at the next regular Board meeting and recorded in the minutes.
-
-Emergency decisions may not be used to amend this Charter, dissolve the Consortium, remove the Director, or approve a matter requiring recusal-based review under the conflict-of-interest provisions of this Charter.
+A Board member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond no shorter than fourteen (14) days, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
 
 ## **ARTICLE 5\. The Developers**
 
@@ -255,7 +243,7 @@ Emergency decisions may not be used to amend this Charter, dissolve the Consorti
 
 The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Consortium and execute the Consortium’s Mission. Further, the Developers help guide the strategic direction of the Consortium by holding seats on the Board.
 
-Developers may be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Member under Section 2.2 acts in each role separately.
+Developers may be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees or fellows). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Member under Section 2.2 acts in each role separately.
 
 Developers are expected to be active participants in the business and technical life of the Consortium by writing and reviewing code, producing technical materials, providing input and feedback to the Board, and supporting one another and the broader structural biology community.
 
@@ -366,7 +354,7 @@ No less than once per calendar year, the Board shall convene an Annual Meeting o
 
 The Annual Meeting shall serve as the primary forum for the Director and the Board to present the Strategic Goals and budget for the coming year, report on progress against prior goals, review the list of Developers, and receive recommendations from Members and Developers.
 
-Board elections for both the Member-elected seats and the Developer-elected seats shall be conducted in advance of or in connection with the Annual Meeting such that newly elected Board members are seated no later than the opening of the Annual Meeting.
+Board elections for both the Member-elected seats and the Developer-elected seats shall be conducted in conjunction with the Annual Meeting such that newly elected Board members are seated no later than the close of the Annual Meeting.
 
 The Board shall provide no less than thirty (30) days’ notice of the Annual Meeting to all Members and Developers, including a proposed agenda.
 
@@ -434,17 +422,6 @@ The rights and obligations of contractual employees and contractors shall be sti
 
 No Member, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
-### **8.6 Annual Reporting for Consortium-Funded Projects**
-
-Each Consortium-Funded Project shall provide at least annual reporting to the Board, in a form determined by Board policy, summarizing:
-
-**A.** personnel effort supported by the Consortium;  
-**B.** progress made during the reporting period;  
-**C.** use of Consortium-administered funds or resources; and  
-**D.** anticipated next steps or remaining milestones.
-
-The Board may require additional reporting for particular projects where warranted by scale, risk, conflict-of-interest considerations, or external obligations.
-
 ## **ARTICLE 9\. Conflicts of Interest**
 
 ### **9.1 Purpose**
@@ -475,13 +452,15 @@ Covered individuals shall disclose relevant conflicts promptly.
 
 A person with a conflict shall not vote on the relevant matter and shall withdraw from deliberation to the extent appropriate, except to provide factual information when requested.
 
-If recusals would prevent quorum, the non-conflicted Board members may seek additional written input, defer the matter, or handle it under a Board-approved special procedure, but may not waive the recusal requirement itself.
+Recused Board members are excluded from both quorum and vote count for the matter, and a majority shall be determined from the remaining Board members.
+
+If all Board members would be subject to recusal, the matter shall be voted on by the full Board, but shall not be adopted until approved by a designated representative of the Operating Legal Entity, who confirms that the decision is consistent with its policies.
 
 ### **9.5 Insider-Connected Funding Decisions**
 
 Any expenditure, grant, fellowship, contract, or other allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director shall require explicit Board approval with the conflicted individual recused.
 
-The Board may require reasonable reporting, certification, or progress documentation for such allocations. At a minimum, any such allocation made through a Consortium-Funded Project remains subject to the annual reporting requirement in Section 8.6.
+The Board may require reasonable reporting, certification, or progress documentation for such allocations.
 
 ### **9.6 Enforcement**
 
@@ -499,14 +478,12 @@ If the Director is found to have violated this policy, the Board may treat the v
 
 The Consortium shall be a constituent project of an Operating Legal Entity that provides the legal and administrative framework for matters, financial or otherwise, pertaining to the Consortium.
 
-Upon adoption of this Charter, the Open Molecular Software Foundation (“OMSF”) is anticipated to act as the Operating Legal Entity.
-
 While RSS is a constituent project of the Operating Legal Entity, the following shall apply:
 
 **A.** the Operating Legal Entity shall provide administrative and financial management for the Consortium;  
 **B.** the Operating Legal Entity shall be the legal entity of record in contractual agreements entered into on behalf of the Consortium;  
 **C.** the Operating Legal Entity may receive and administer funds, employ or contract personnel, disburse funds consistent with Board direction and applicable agreements, administer fellowships or similar arrangements where permitted, and perform other legal and financial functions on behalf of the Consortium;  
-**D.** the Operating Legal Entity may propose direct administrative costs to the Board for approval no less than annually;  
+**D.** the Operating Legal Entity may propose direct administrative costs to the Board for approval;  
 **E.** the Operating Legal Entity retains whatever legal authorities, fiduciary obligations, and compliance responsibilities are imposed on it by law and by its own governing documents.
 
 ### **10.2 Hierarchy**
@@ -514,10 +491,11 @@ While RSS is a constituent project of the Operating Legal Entity, the following 
 In the event of conflict, the following shall control in descending order:
 
 **A.** applicable law;  
-**B.** the governing documents and binding policies of the Operating Legal Entity, and any hosted-project, fiscal sponsorship, grant, or contractual arrangements binding on the Consortium;  
-**C.** this Charter;  
-**D.** Board-approved policies and procedures;  
-**E.** other Consortium practices or informal understandings.
+**B.** the governing documents and binding policies of the Operating Legal Entity;  
+**C.** any hosted-project, fiscal sponsorship, grant, or contractual arrangements binding on the Consortium;  
+**D.** this Charter;  
+**E.** Board-approved policies and procedures;  
+**F.** other Consortium practices or informal understandings.
 
 ## **ARTICLE 11\. Separation and Dissolution**
 
