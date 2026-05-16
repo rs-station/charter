@@ -11,7 +11,7 @@ The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic co
 
 The Consortium serves two primary constituencies: researchers in academia and industry who seek to extract biological and medical insight from complex structural data, and the community of software developers and methods researchers who build upon and extend structural biology tooling.
 
-All software produced by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation. These are first-order concerns of the consortium alongside scientific rigor.
+All software released by the Consortium shall be released under permissive open-source licenses and developed to standards of engineering excellence, including automation, performance, and documentation. These are first-order concerns of the consortium alongside scientific rigor.
 
 To advance its mission, the Consortium may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology.
 
@@ -187,7 +187,7 @@ Approve amendments to this Charter, initiate or approve dissolution of the Conso
 Approve, under the Conflict of Interest provisions of this Charter, any expenditure or allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director.
 
 **J. Adoption of Policies.**  
-The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to release and publication, contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Board-approved policies shall be made available to Members and Developers.
+The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Board-approved policies shall be made available to Members and Developers.
 
 Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or any other representative.
 
@@ -249,15 +249,15 @@ Developers are expected to be active participants in the business and technical 
 
 ### **5.2 Technical Authority**
 
-The Developers retain primary responsibility for technical implementation, coding standards, review norms, release-readiness assessments, and related technical judgments, except as otherwise provided in Board-approved policies governing Consortium-Funded Work.
+The Developers retain primary responsibility for technical implementation, coding standards, review norms, release standards, and related technical judgments, except as otherwise provided in Board-approved policies governing Consortium-Funded Work.
 
-The Board may set priorities, budgets, and high-level release policy, but shall not micromanage ordinary technical implementation.
+The Board may set priorities, budgets, and high-level strategy, but shall not micromanage ordinary technical implementation.
 
 ### **5.3 Developer Resolutions**
 
 The Developers may adopt written Resolutions on matters within their authority, including coding practices, review standards, testing requirements, documentation norms, tooling, communication, internal organization, community building, and related engineering or operational concerns.
 
-A Resolution shall be adopted by majority vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers are present or participate.
+A Resolution shall be adopted by majority vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers are present or participate. Votes must be conducted electronically in a manner accessible worldwide, and voting shall be conducted over a window sufficient to permit participation across time zones.
 
 Resolutions are non-binding recommendations that document the consensus of the Developers.
 
@@ -269,9 +269,7 @@ Adopted Resolutions and their current status shall be maintained as Consortium r
 
 Membership in the group of Developers is intended to reflect active contributions to the Consortium.
 
-Composition decisions shall be made by a two-thirds (2/3) vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers is present or participates.
-
-Votes must be conducted electronically in a manner accessible worldwide, and voting shall be conducted over a window sufficient to permit participation across time zones.
+Composition decisions shall be made by a two-thirds (2/3) vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers is present or participates, following the voting procedure described in Section 5.3.
 
 **A.** New Developers may be added by a 2/3 vote.  
 **B.** Developers who are no longer actively contributing or no longer intend to contribute are asked to resign proactively.  
@@ -376,6 +374,8 @@ For purposes of this Charter:
 
 **C. External Work** means work contributed independently outside Consortium support, including work created by Developers, contributors, collaborators, Members, or other participants acting outside such support.
 
+**D. Release** means making Consortium-Funded Work generally available to the public without access restriction, whether through publication of a source code repository, distribution of packaged or compiled artifacts, or equivalent means. Pre-release access provided to Members under Board-approved policy does not constitute Release.
+
 Except as otherwise provided in this Charter or in agreed project-specific terms, the Consortium does not claim governance authority over purely External Work contributed outside Consortium support.
 
 ### **8.2 Open Release Principle**
@@ -383,8 +383,6 @@ Except as otherwise provided in this Charter or in agreed project-specific terms
 Software conceived or first actually reduced to practice as Consortium-Funded Work shall be released under an Open Source Initiative approved permissive license with commercial terms no more restrictive than Apache 2.0, unless the Board approves another permissive license materially consistent with the Mission.
 
 Data, documentation, and related non-software outputs generated as Consortium-Funded Work may be shared under an appropriate permissive public license as determined by the Board.
-
-Software that is already public and open-source at the time it receives Consortium support shall remain public and open-source. Consortium support shall not retroactively restrict the openness of already-public code, including bug fixes, maintenance, or new features developed in such projects, except to the extent a contributor independently elects to maintain private development branches pending ordinary public release.
 
 ### **8.3 Project Status and Adoption Policy**
 
@@ -394,49 +392,35 @@ The Project Adoption Policy shall be drafted and ratified by the Developers unde
 
 The Project Adoption Policy shall not modify rights, obligations, or processes established elsewhere in this Charter.
 
-### **8.4 Project-Specific Release Policy**
+### **8.4 Release Policy**
 
-Before material funding or other administered support is allocated to a Consortium-Funded Project, the Board and the lead Developer for that project shall agree upon a project-specific release policy consistent with this Charter and any Board-approved general release policy.
-
-Such project-specific release policy shall address, as appropriate:
-
-**A.** expected categories of outputs;  
-**B.** whether limited private development is anticipated;  
-**C.** expected publication or release milestones;  
-**D.** the identity of the lead Developer for release-readiness purposes; and  
-**E.** any project-specific considerations affecting timing of release.
-
-### **8.5 Private Until Published; Maximum Delay Principle**
-
-By default, specific items of Consortium-Funded Work may be held in private repositories for a limited period prior to public release. The intent of such limited private development is to:
+While public release of completed projects is the ultimate aim of the Consortium, Consortium-Funded Work may be held in private repositories for a period prior to public release. The intent of such limited private development is to:
 
 **A.** protect the ability of Consortium researchers to publish their findings without being scooped;  
-**B.** ensure that publicly released code meets a minimum standard of quality and documentation; and  
-**C.** permit Members to receive pre-release access as allowed by Board-approved policy.
+**B.** ensure that publicly released code meets a minimum standard of quality and documentation;  
+**C.** permit Members to receive pre-release access as allowed by Board-approved policy; and
+**D.** should it be necessary, protect the security and privacy of Developers, other Consortium participants, or the broader public.
 
-However, no Consortium-Funded Work may be withheld from public release indefinitely.
+Further, not all Consortium-Funded work need be publicaly released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
 
-The default maximum delay for public release shall be six (6) months from the date on which the lead Developer for the relevant Consortium-Funded Project determines in good faith that the work is technically ready for release and communicates that determination to the Director.
+In general, however, Developers shall be free to autonomously decide on if and when to release any Consortium-Funded Work they participate in.
 
-The Director’s role in this process is limited to determining whether the lead Developer’s release-ready assessment was made in good faith and with reasonable documentation. The Director shall not substitute their own technical judgment for that of the lead Developer except as provided in a Board-approved release policy.
+However, should either:
 
-The Board shall adopt a general release policy consistent with this Section. A project-specific release policy may shorten, but may not exceed, the default six (6) month maximum delay unless a longer period is required by applicable law, binding institutional obligations, funding terms, or other controlling external requirements.
+**i.** an irreconcilable disagreement regarding release arises amongst Developers involved in a project, and this disagreement is brought to the attention of the Director or Board by any Developer; or  
+**ii.** the Board determines that it is in the vital interests of the Consortium,
 
-### **8.6 Board and Developer Roles in Release Decisions**
+the Board may, by majority vote, compel either release or non-release of Consortium-Funded Work.
 
-The Board may, under Board-approved release policy, delay the public release of specific Consortium-Funded Work for a limited period in furtherance of the Mission.
+The details, timeline, and rationale for this intervention must be recorded in writing and made available to all Developers, regardless of whether they were involved in the project or not. By a Section 5.3 two-thirds (2/3) majority, issued in response after no more than fourteen (14) days have passed since the decision was communicated, the Developers may choose to veto this rationale. The Board must then draft another resolution and re-submit it to the Developers.
 
-The Developers retain authority to determine technical readiness for release.
-
-The general release policy adopted by the Board shall include a mechanism by which Developers may seek review of an extended release delay, and shall make clear that release delays are exceptional, justified, and time-limited.
-
-### **8.7 Research Freedom and Publication Rights**
+### **8.5 Research Freedom and Publication Rights**
 
 The right of any Consortium participant to own, publish, or otherwise pursue their own work, activities, and research directions, and any rights of ownership or freedom of any Consortium participant who is not a contractual employee or contractor of the Consortium or the Operating Legal Entity, shall not be restricted or abridged in any way by participation in the Consortium.
 
 The rights and obligations of contractual employees and contractors shall be stipulated in their respective contracts and by applicable law and policy.
 
-No Member, Sponsor, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
+No Member, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
 ## **ARTICLE 9\. Conflicts of Interest**
 
