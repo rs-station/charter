@@ -360,7 +360,7 @@ The Board shall provide no less than sixty (60) days’ notice of the Annual Mee
 
 Additional attendees, such as non-voting representatives of Member institutions, scientific advisors, or other guests, may be invited by the Board to attend when doing so furthers the Consortium's business.
 
-The Annual Meeting may be held in a virtual or hybrid (in-person and virtual) format, providing the possibility to participate for Consortium participants around the world.
+The Annual Meeting must be held in a virtual or hybrid (in-person and virtual) format, providing the possibility to participate for Consortium participants around the world.
 
 ## **ARTICLE 8\. Consortium-Funded Work, Open Release, and Publication**
 
