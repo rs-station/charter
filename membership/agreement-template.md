@@ -1,16 +1,16 @@
-# **MEMBERSHIP AGREEMENT**
+# **PARTNERSHIP AGREEMENT**
 
 ## **Reciprocal Space Station Consortium**
 
-This Membership Agreement (the “**Agreement**”) is entered into as of **\[Effective Date\]** (the “**Effective Date**”) by and between:
+This Partnership Agreement (the “**Agreement**”) is entered into as of **\[Effective Date\]** (the “**Effective Date**”) by and between:
 
 **Open Molecular Software Foundation**, a **\[jurisdiction and entity type\]** (“**OMSF**”), acting as the Operating Legal Entity for the Reciprocal Space Station Consortium (“**RSS**” or the “**Consortium**”),
 
 and
 
-**\[Member Legal Name\]**, a **\[jurisdiction and entity type\]** (“**Member**”).
+**\[Partner Legal Name\]**, a **\[jurisdiction and entity type\]** (“**Partner**”).
 
-OMSF and Member may each be referred to herein as a “**Party**” and together as the “**Parties**.”
+OMSF and Partner may each be referred to herein as a “**Party**” and together as the “**Parties**.”
 
 ---
 
@@ -18,7 +18,7 @@ OMSF and Member may each be referred to herein as a “**Party**” and together
 
 RSS is an academic consortium supporting the development of open-source software for structural biology, together with related activities that advance the development, adoption, sustainability, and scientific value of such software.
 
-The purpose of this Agreement is to set forth the terms under which Member joins RSS as a **\[Member / Partner\]** tier participant and receives the rights and benefits associated with that tier, subject to the Charter of RSS, applicable RSS policies, and the terms of this Agreement.
+The purpose of this Agreement is to set forth the terms under which Partner joins RSS as a Partner and receives the associated rights and benefits, subject to the Charter of RSS, applicable RSS policies, and the terms of this Agreement.
 
 ---
 
@@ -26,21 +26,19 @@ The purpose of this Agreement is to set forth the terms under which Member joins
 
 This Agreement is entered into in connection with the Charter of the Reciprocal Space Station Consortium (the “**Charter**”).
 
-Member acknowledges that RSS is governed by the Charter and by Board-approved policies applicable to Members, including policies governing release, publication, pre-release access, and use of Consortium resources.
+Partner acknowledges that RSS is governed by the Charter and by Board-approved policies applicable to Partners, including policies governing release, publication, pre-release access, and use of Consortium resources.
 
-In the event of conflict between this Agreement and the Charter, the Charter shall govern with respect to Consortium governance, voting rights, Board structure, Developer authority, and scientific or technical decision-making. This Agreement shall govern with respect to the contractual rights and obligations between OMSF and Member, except to the extent otherwise required by applicable law or the governing documents or binding policies of OMSF.
+In the event of conflict between this Agreement and the Charter, the Charter shall govern with respect to Consortium governance, voting rights, Board structure, Developer authority, and scientific or technical decision-making. This Agreement shall govern with respect to the contractual rights and obligations between OMSF and Partner, except to the extent otherwise required by applicable law or the governing documents or binding policies of OMSF.
 
 ---
 
-## **3\. Membership Tier**
+## **3\. Partnership**
 
-Member is admitted to RSS in the following tier:
+Partner is admitted to RSS as a Partner of the Consortium.
 
-**Membership Tier:** **\[Member / Partner\]**
+The rights and benefits of partnership are described in this Agreement and in **Exhibit A**.
 
-The rights and benefits associated with that tier are described in this Agreement and in **Exhibit A**.
-
-If Member’s tier changes during the Term by written agreement of the Parties, the revised tier and associated benefits shall take effect on the date stated in that written agreement.
+The contribution level, benefits, and other conditions of partnership may be set by Board-approved policy and may evolve over time, as provided in the Charter.
 
 ---
 
@@ -52,40 +50,40 @@ After the Initial Term, this Agreement shall automatically renew for successive 
 
 ---
 
-## **5\. Membership Fee and Payment**
+## **5\. Partnership Fee and Payment**
 
-Member shall pay OMSF a membership fee in the amount of **\[amount\]** for the Initial Term.
+Partner shall pay OMSF a partnership fee in the amount of **\[amount\]** for the Initial Term.
 
-Unless otherwise stated in an applicable invoice or written amendment, membership fees shall be due within thirty (30) days of invoice.
+Unless otherwise stated in an applicable invoice or written amendment, partnership fees shall be due within thirty (30) days of invoice.
 
 All amounts are payable in **\[currency\]** and are non-refundable except as expressly provided in this Agreement or required by law.
 
 Late payments may result in suspension of benefits or loss of Good Standing under the Charter after any applicable notice and cure period.
 
-If OMSF or RSS adopts a revised membership fee schedule for Renewal Terms, OMSF shall provide Member reasonable advance notice before such revised fees take effect.
+If OMSF or RSS adopts a revised partnership fee schedule for Renewal Terms, OMSF shall provide Partner reasonable advance notice before such revised fees take effect.
 
 ---
 
 ## **6\. Designated Representative**
 
-Member shall designate one individual to act as its primary representative for purposes of participation in RSS (the “**Designated Representative**”).
+Partner shall designate one individual to act as its primary representative for purposes of participation in RSS (the “**Designated Representative**”).
 
 The Designated Representative may:
 
 * receive notices under this Agreement;  
-* participate in RSS meetings and communications intended for Members;  
-* cast Member votes as permitted under the Charter; and  
-* coordinate Member access to benefits under this Agreement.
+* participate in RSS meetings and communications intended for Partners;  
+* act for the Partner in Consortium matters as permitted under the Charter; and  
+* coordinate Partner access to benefits under this Agreement.
 
-Member may change its Designated Representative by written notice to OMSF.
+Partner may change its Designated Representative by written notice to OMSF.
 
-If Member is a Partner, its Designated Representative shall be eligible to stand for election to a Member-elected Board seat, subject to the Charter.
+The Designated Representative is eligible to be seated on the Board on the Partner's behalf according to the Partner's contributions to the Consortium, as provided in the Charter.
 
 ---
 
-## **7\. Membership Benefits**
+## **7\. Partnership Benefits**
 
-During the Term, and subject to Member remaining in Good Standing, Member shall be eligible to receive the benefits associated with its tier as set forth in **Exhibit A**.
+During the Term, and subject to Partner remaining in Good Standing, Partner shall be eligible to receive the benefits associated with its tier as set forth in **Exhibit A**.
 
 Such benefits may include:
 
@@ -103,7 +101,7 @@ Support benefits are intended to provide priority access to RSS personnel and ch
 
 ## **8\. Limits on Benefits**
 
-Member acknowledges and agrees that membership in RSS does not confer:
+Partner acknowledges and agrees that partnership in RSS does not confer:
 
 **A.** ownership of Consortium intellectual property;
 
@@ -115,15 +113,15 @@ Member acknowledges and agrees that membership in RSS does not confer:
 
 **E.** any exclusive right to Consortium personnel time, feature implementation, or project prioritization unless expressly stated in a separate written agreement or statement of work signed by OMSF.
 
-Member further acknowledges that RSS is an open-source scientific software consortium and not, by default, a custom software development contractor for any particular Member.
+Partner further acknowledges that RSS is an open-source scientific software consortium and not, by default, a custom software development contractor for any particular Partner.
 
 ---
 
 ## **9\. Pre-Release Materials; Confidentiality**
 
-From time to time, Members may receive access to pre-release software, internal builds, draft documentation, or other non-public Consortium materials (“**Pre-Release Materials**”) as a membership benefit.
+From time to time, Partners may receive access to pre-release software, internal builds, draft documentation, or other non-public Consortium materials (“**Pre-Release Materials**”) as a partnership benefit.
 
-Pre-Release Materials shall be treated as confidential and used solely for Member’s internal evaluation, testing, and feedback. Members shall not disclose Pre-Release Materials to third parties, except to employees or contractors bound by comparable confidentiality obligations, or redistribute them publicly.
+Pre-Release Materials shall be treated as confidential and used solely for Partner’s internal evaluation, testing, and feedback. Partners shall not disclose Pre-Release Materials to third parties, except to employees or contractors bound by comparable confidentiality obligations, or redistribute them publicly.
 
 Access to Pre-Release Materials does not confer ownership of Consortium intellectual property or control over the timing or content of public releases.
 
@@ -135,9 +133,9 @@ The confidentiality obligations in this Section shall survive termination of thi
 
 ## **10\. Feedback**
 
-Member may provide feedback, suggestions, feature requests, bug reports, comments, or other input relating to RSS software or activities (“**Feedback**”).
+Partner may provide feedback, suggestions, feature requests, bug reports, comments, or other input relating to RSS software or activities (“**Feedback**”).
 
-Unless the Parties agree otherwise in writing, Member grants OMSF, on behalf of RSS, a nonexclusive, worldwide, perpetual, irrevocable, royalty-free right to use, reproduce, modify, and incorporate such Feedback without restriction or compensation to Member.
+Unless the Parties agree otherwise in writing, Partner grants OMSF, on behalf of RSS, a nonexclusive, worldwide, perpetual, irrevocable, royalty-free right to use, reproduce, modify, and incorporate such Feedback without restriction or compensation to Partner.
 
 For clarity, Feedback does not by itself obligate RSS to implement any suggestion or undertake any project.
 
@@ -145,14 +143,14 @@ For clarity, Feedback does not by itself obligate RSS to implement any suggestio
 
 ## **11\. Names, Marks, and Publicity**
 
-Subject to Member’s prior written notice opting out, OMSF or RSS may identify Member by name and logo as a Member or Partner of RSS in publicly available supporter lists, websites, annual reports, slide decks, and similar materials.
+Subject to Partner’s prior written notice opting out, OMSF or RSS may identify Partner by name and logo as a Partner of RSS in publicly available supporter lists, websites, annual reports, slide decks, and similar materials.
 
-Member may state publicly that it is a Member or Partner of RSS, provided that such statement is accurate and does not imply:
+Partner may state publicly that it is a Partner of RSS, provided that such statement is accurate and does not imply:
 
-* that Member controls RSS;  
-* that RSS endorses Member’s products or services;  
-* that Member owns RSS intellectual property; or  
-* that Member speaks on behalf of OMSF, RSS, or other Consortium participants.
+* that Partner controls RSS;  
+* that RSS endorses Partner’s products or services;  
+* that Partner owns RSS intellectual property; or  
+* that Partner speaks on behalf of OMSF, RSS, or other Consortium participants.
 
 Except as expressly provided in this Section, neither Party may use the other Party’s name, trademarks, or logos without prior written permission.
 
@@ -160,21 +158,21 @@ Except as expressly provided in this Section, neither Party may use the other Pa
 
 ## **12\. Intellectual Property and Open-Source Principles**
 
-Member acknowledges that RSS is an open-source consortium and that Consortium software is intended to be publicly released under permissive open-source terms in accordance with the Charter and applicable RSS policy.
+Partner acknowledges that RSS is an open-source consortium and that Consortium software is intended to be publicly released under permissive open-source terms in accordance with the Charter and applicable RSS policy.
 
 Except as expressly set forth in a separate written agreement, this Agreement does not transfer ownership of any intellectual property between the Parties.
 
-Member retains ownership of its own pre-existing intellectual property.
+Partner retains ownership of its own pre-existing intellectual property.
 
 OMSF and RSS retain whatever rights they have in Consortium intellectual property, subject to the Charter, applicable contributor arrangements, employment agreements, contractor agreements, and applicable law.
 
-Nothing in this Agreement grants Member any exclusive license or exclusive access to Consortium intellectual property.
+Nothing in this Agreement grants Partner any exclusive license or exclusive access to Consortium intellectual property.
 
 ---
 
-## **13\. Additional Work Beyond Standard Membership**
+## **13\. Additional Work Beyond Standard Partnership**
 
-If Member requests work that exceeds ordinary membership support or falls outside current RSS priorities, RSS may, in its discretion, consider whether such work should be:
+If Partner requests work that exceeds ordinary partnership support or falls outside current RSS priorities, RSS may, in its discretion, consider whether such work should be:
 
 * elevated into a specific Consortium-Funded Project through RSS governance processes; or  
 * addressed through a separate written agreement or statement of work signed by OMSF.
@@ -189,7 +187,7 @@ Each Party enters into this Agreement only on its own behalf.
 
 No individual participating in RSS by virtue of this Agreement is, solely by reason of such participation, authorized to bind any other institution, laboratory, university, government entity, or affiliate unless separately authorized in writing.
 
-If Member is entering this Agreement on behalf of a university, company, laboratory, or other institution, Member represents that the signatory to this Agreement is authorized to bind that entity.
+If Partner is entering this Agreement on behalf of a university, company, laboratory, or other institution, Partner represents that the signatory to this Agreement is authorized to bind that entity.
 
 ---
 
@@ -197,7 +195,7 @@ If Member is entering this Agreement on behalf of a university, company, laborat
 
 RSS software, Pre-Release Materials, documentation, and related outputs are provided “as is” and “as available,” without warranties of any kind, whether express, implied, statutory, or otherwise, including implied warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, or uninterrupted availability.
 
-Member acknowledges that pre-release and research-stage software may be incomplete, unstable, or unsuitable for production use.
+Partner acknowledges that pre-release and research-stage software may be incomplete, unstable, or unsuitable for production use.
 
 OMSF does not warrant that any particular feature, roadmap item, or research direction will be implemented, completed, or publicly released on any specific schedule, except as may be expressly set forth in a separate written agreement.
 
@@ -207,7 +205,7 @@ OMSF does not warrant that any particular feature, roadmap item, or research dir
 
 To the fullest extent permitted by law, neither Party shall be liable to the other for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenues, data, or business opportunity, arising out of or relating to this Agreement, even if advised of the possibility of such damages.
 
-To the fullest extent permitted by law, each Party’s aggregate liability arising out of or relating to this Agreement shall not exceed the amount of membership fees actually paid by Member under this Agreement during the twelve (12) months preceding the event giving rise to the claim.
+To the fullest extent permitted by law, each Party’s aggregate liability arising out of or relating to this Agreement shall not exceed the amount of partnership fees actually paid by Partner under this Agreement during the twelve (12) months preceding the event giving rise to the claim.
 
 ---
 
@@ -217,11 +215,11 @@ Either Party may terminate this Agreement for convenience upon sixty (60) days�
 
 Either Party may terminate this Agreement for material breach if the other Party fails to cure such breach within thirty (30) days after receiving written notice describing the breach in reasonable detail.
 
-OMSF may suspend Member benefits or terminate this Agreement immediately if:
+OMSF may suspend Partner benefits or terminate this Agreement immediately if:
 
-* Member ceases to be eligible for participation under applicable law;  
-* Member materially violates confidentiality obligations relating to Pre-Release Materials;  
-* Member materially misuses RSS name, marks, or non-public materials; or  
+* Partner ceases to be eligible for participation under applicable law;  
+* Partner materially violates confidentiality obligations relating to Pre-Release Materials;  
+* Partner materially misuses RSS name, marks, or non-public materials; or  
 * continued participation would place OMSF or RSS in legal or policy conflict.
 
 Termination of this Agreement shall ordinarily result in loss of Good Standing unless otherwise determined under the Charter.
@@ -232,11 +230,11 @@ Termination of this Agreement shall ordinarily result in loss of Good Standing u
 
 Upon expiration or termination of this Agreement:
 
-**A.** Member’s rights to receive membership benefits shall cease, except as expressly stated otherwise herein;
+**A.** Partner’s rights to receive partnership benefits shall cease, except as expressly stated otherwise herein;
 
-**B.** Member shall cease representing itself as a current Member or Partner of RSS;
+**B.** Partner shall cease representing itself as a current Partner of RSS;
 
-**C.** Member shall discontinue use of any non-public Pre-Release Materials, except to the extent continued retention is reasonably necessary for legal compliance, archival purposes, or internal recordkeeping, subject to continuing confidentiality obligations; and
+**C.** Partner shall discontinue use of any non-public Pre-Release Materials, except to the extent continued retention is reasonably necessary for legal compliance, archival purposes, or internal recordkeeping, subject to continuing confidentiality obligations; and
 
 **D.** accrued payment obligations and any provisions that by their nature should survive shall remain in effect.
 
@@ -264,7 +262,7 @@ This Agreement, together with any exhibits, the Charter as incorporated or attac
 
 ### **19.5 Amendment**
 
-This Agreement may be amended only in a writing signed by both Parties, except that Board-approved generally applicable policies or schedules referenced in this Agreement may be updated in accordance with their own terms, provided such updates do not retroactively deprive Member of material benefits already paid for during the current Term unless required by law or OMSF policy.
+This Agreement may be amended only in a writing signed by both Parties, except that Board-approved generally applicable policies or schedules referenced in this Agreement may be updated in accordance with their own terms, provided such updates do not retroactively deprive Partner of material benefits already paid for during the current Term unless required by law or OMSF policy.
 
 ### **19.6 Severability**
 
@@ -288,7 +286,7 @@ Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\[MEMBER LEGAL NAME\]**  
+**\[PARTNER LEGAL NAME\]**  
 By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
@@ -298,22 +296,20 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # **EXHIBIT A**
 
-## **Tier-Specific Benefits**
+## **Partner Benefits**
 
-The benefits below apply during the Term, subject to Member remaining in Good Standing, the Charter, and applicable RSS policies.
+The benefits below apply during the Term, subject to Partner remaining in Good Standing, the Charter, and applicable RSS policies.
 
-### **1\. Member Tier**
-
-A Member in Good Standing is entitled to:
+A Partner in Good Standing is entitled to:
 
 **A. Designated Representative.**  
-Designation of one representative to participate in RSS business on the Member’s behalf.
+Designation of one representative to participate in RSS business on the Partner’s behalf.
 
 **B. Annual Meeting Participation.**  
-Attendance at the RSS Annual Meeting and other Member-facing RSS communications and discussions.
+Attendance at the RSS Annual Meeting and other Partner-facing RSS communications and discussions.
 
-**C. Voting Rights.**  
-One ballot in elections for Member-elected Board seats, cast through the Member’s Designated Representative, as provided in the Charter.
+**C. Board Representation.**  
+Eligibility for the Partner’s Designated Representative to be seated on the Board on the Partner’s behalf according to the Partner’s contributions to the Consortium, as provided in the Charter.
 
 **D. Strategic Input.**  
 The opportunity to recommend strategic directions, projects, features, educational materials, and other priorities to the Board and Director.
@@ -321,31 +317,21 @@ The opportunity to recommend strategic directions, projects, features, education
 **E. Priority Support Access.**  
 Priority access to RSS communication channels for questions, feedback, deployment guidance, maintenance discussions, and related support concerning Consortium software and outputs, subject to available project capacity and Board-approved policies.
 
-**F. Confidential Member Communications.**  
-Access to confidential or limited-access communications made available to Members regarding pre-release development, roadmap discussion, or support matters, as determined by RSS policy.
+**F. Confidential Partner Communications.**  
+Access to confidential or limited-access communications made available to Partners regarding pre-release development, roadmap discussion, or support matters, as determined by RSS policy.
 
 **G. Pre-Release Access.**  
 Eligibility for access to certain non-public pre-release software, unstable internal builds, draft documentation, or related technical materials for internal evaluation, testing, and feedback, where provided by RSS policy.
 
 **H. Public Recognition.**  
-Recognition as a Member of RSS in supporter lists, websites, presentations, or similar materials, unless the Member requests otherwise.
+Recognition as a Partner of RSS in supporter lists, websites, presentations, or similar materials, unless the Partner requests otherwise.
 
-### **2\. Partner Tier**
+**I. Additional Engagement and Program Access.**  
+Eligibility for any additional engagement opportunities, meetings, communication channels, pre-release access, technical discussions, or programmatic benefits that RSS may make available from time to time under Board-approved policy, provided always that such benefits do not confer ownership of RSS intellectual property or control over scientific conclusions.
 
-A Partner in Good Standing receives all Member-tier benefits, and in addition:
+### **General Limits**
 
-**A. Board Eligibility.**  
-The Partner’s Designated Representative is eligible to stand for election to a Member-elected Board seat, as provided in the Charter.
-
-**B. Enhanced Engagement.**  
-Eligibility for any additional Partner-level engagement opportunities, meetings, or communication channels that RSS may make available from time to time under Board-approved policy.
-
-**C. Enhanced Pre-Release / Program Access.**  
-Eligibility for any additional Partner-level pre-release access, technical discussions, or programmatic benefits that RSS may make available under Board-approved policy, provided always that such benefits do not confer ownership of RSS intellectual property or control over scientific conclusions.
-
-### **3\. General Limits Applicable to All Tiers**
-
-For clarity, membership benefits do not include:
+For clarity, partnership benefits do not include:
 
 * ownership of Consortium intellectual property;  
 * unilateral control over scientific conclusions;  
@@ -353,5 +339,5 @@ For clarity, membership benefits do not include:
 * guaranteed engineering hours, guaranteed feature delivery, or guaranteed response times unless expressly provided in a separate written agreement; or  
 * exclusive access to RSS personnel or exclusive rights to custom development.
 
-If a Member requests work that exceeds ordinary support or falls outside current priorities, RSS may, in its discretion, consider whether such work should be elevated into a specific Consortium-Funded Project or addressed through a separate written arrangement.
+If a Partner requests work that exceeds ordinary support or falls outside current priorities, RSS may, in its discretion, consider whether such work should be elevated into a specific Consortium-Funded Project or addressed through a separate written arrangement.
 

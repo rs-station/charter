@@ -1,27 +1,26 @@
 # **Reciprocal Space Station Consortium**
 
-## **Membership Overview**
+## **Partnership Overview**
 
 **Effective Date:** \[Date\]  
 **Administered By:** Open Molecular Software Foundation, as Operating Legal Entity for RSS
 
-The Reciprocal Space Station Consortium (“RSS”) is an academic consortium supporting the development of open-source software for structural biology. Membership supports the development, maintenance, dissemination, and long-term sustainability of RSS software and related community activities.
+The Reciprocal Space Station Consortium (“RSS”) is an academic consortium supporting the development of open-source software for structural biology. Partnership supports the development, maintenance, dissemination, and long-term sustainability of RSS software and related community activities.
 
-## **Membership Tiers**
-
-**Member**  
- Annual Contribution: **\[amount\]**
+## **Partnership**
 
 **Partner**  
  Annual Contribution: **\[amount\]**
 
-## **All Members Receive**
+Contribution levels and benefits are set by Board-approved policy (Article 3.2) and may evolve over time.
+
+## **All Partners Receive**
 
 * One designated representative
 
-* Participation in the RSS Annual Meeting and member communications
+* Participation in the RSS Annual Meeting and partner communications
 
-* One vote in elections for Member-elected Board seats
+* Consideration for a Partner seat on the Board according to the Partner's contributions to the Consortium, as provided in the Charter
 
 * The opportunity to recommend strategic directions, projects, features, and priorities
 
@@ -31,19 +30,9 @@ The Reciprocal Space Station Consortium (“RSS”) is an academic consortium su
 
 * Public recognition as an RSS supporter, unless requested otherwise
 
-## 
+## **What Partnership Does Not Include**
 
-## **Additional Partner Benefits**
-
-* Eligibility for the designated representative to stand for election to a Member-elected Board seat
-
-* Additional Partner-level engagement opportunities with RSS
-
-* Eligibility for additional Partner-level pre-release access and programmatic benefits, as defined by RSS policy
-
-## **What Membership Does Not Include**
-
-Membership does not provide:
+Partnership does not provide:
 
 * ownership of RSS intellectual property  
 * control over scientific conclusions  
@@ -51,9 +40,9 @@ Membership does not provide:
 * exclusive access to RSS personnel  
 * exclusive rights to custom development
 
-Requests beyond ordinary membership support may be considered for a separately scoped project or other written arrangement.
+Requests beyond ordinary partnership support may be considered for a separately scoped project or other written arrangement.
 
 ## **Notes**
 
-Membership is governed by the RSS Charter, applicable membership terms, and OMSF policies.  Specific benefits may evolve over time as RSS grows.
+Partnership is governed by the RSS Charter, applicable partnership terms, and OMSF policies.  Specific benefits may evolve over time as RSS grows.
 

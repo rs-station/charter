@@ -21,11 +21,11 @@ To advance its mission, the Consortium may undertake education, knowledge curati
 
 The Consortium shall be composed of three bodies, together tasked with carrying out the Mission, and an Operating Legal Entity that provides their legal and administrative framework:
 
-**A. The Member Institutions (“Members”).**  
-The Members are typically companies, universities, research institutes, or comparable organizations that enter into a membership agreement with the Consortium. Members provide financial resources, strategic input, and external perspective in exchange for governance participation, support, and programmatic benefits as provided in this Charter, applicable membership agreements, and Board-approved policies.
+**A. The Partner Institutions (“Partners”).**  
+The Partners are typically companies, universities, research institutes, or comparable organizations that enter into a partnership agreement with the Consortium. Partners provide financial resources, strategic input, and external perspective in exchange for governance participation, support, and programmatic benefits as provided in this Charter, applicable partnership agreements, and Board-approved policies.
 
 **B. A Governing Board (the “Board”).**  
-The Board is the primary governing body of the Consortium, tasked with setting strategic direction, setting a budget, conducting oversight, approving major allocations of Consortium resources, and resolving internal disputes. The Board consists of elected representatives of the Developers and Members. Each respective group elects its own representatives.
+The Board is the primary governing body of the Consortium, tasked with setting strategic direction, setting a budget, conducting oversight, approving major allocations of Consortium resources, and resolving internal disputes. The Board consists of representatives of the Partners and the Developers. The Developers elect their own representatives; the Partner representatives are seated according to their contributions to the Consortium, as provided in this Charter.
 
 **C. The Developers.**  
 The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Board and execute the Mission of the Consortium. Developers participate as individuals and do not necessarily represent any institution. The group may include, for example, staff employed by the Consortium, Consortium-funded fellows based at academic institutions, and volunteer community members who have no contractual obligation to the Consortium. The Developers self-elect representatives to the Board. One Developer is appointed by the Board to act as Director, tasked with ensuring that Consortium resources are used to uphold the Mission and execute the Board's strategy.
@@ -40,47 +40,43 @@ Unless expressly designated otherwise in a separate written agreement, Developer
 
 No person acting under this Charter may bind any university, laboratory, company, government entity, or other institution absent separate written authority.
 
-As provided for in Articles 3 and 5 respectively, an individual may simultaneously serve as both a Developer and as a designated representative of a Member, subject to any applicable conflict-of-interest provisions of this Charter.
+As provided for in Articles 3 and 5 respectively, an individual may simultaneously serve as both a Developer and as a designated representative of a Partner, subject to any applicable conflict-of-interest provisions of this Charter.
 
 Nothing in this Charter shall be construed to override the policies, contractual obligations, or legal constraints applicable to any participant by virtue of their employment, appointment, grant support, or institutional affiliation.
 
-## **ARTICLE 3\. Membership**
+## **ARTICLE 3\. Partnership**
 
-### **3.1 The Role of the Member Institutions**
+### **3.1 The Role of the Partner Institutions**
 
-Member institutions (“Members”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Through their participation, Member institutions obtain the right to influence and obtain early access the Consortium's work. Each Member is bound by a membership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Members provide strategic input that shapes the direction and priorities of the Consortium.
+Partner institutions (“Partners”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Through their participation, Partner institutions obtain the right to influence and obtain early access the Consortium's work. Each Partner is bound by a partnership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Partners provide strategic input that shapes the direction and priorities of the Consortium.
 
-### **3.2 Membership Categories**
+### **3.2 Partnership Terms**
 
-The Consortium may establish two tiers of membership, designated by the Board as **Members** and **Partners**, with Partners contributing additional resources to the consortium.
+The Consortium recognizes a single class of partner participant, designated by the Board as **Partners**.
 
-The Board may define, revise, and publish the financial contribution levels, standard benefits, and administrative conditions associated with each tier through Board-approved policies or participation agreements administered by the Operating Legal Entity.
+The Board may define, revise, and publish the financial contribution levels, standard benefits, and administrative conditions of partnership through Board-approved policies or participation agreements administered by the Operating Legal Entity.
 
-The Consortium may also enter into project-specific, grant-specific, sponsorship-specific, or other limited arrangements that do not create continuing membership or governance rights unless expressly provided.
+The Consortium may also enter into project-specific, grant-specific, sponsorship-specific, or other limited arrangements that do not create continuing partnership or governance rights unless expressly provided.
 
-### **3.3 General Rights of Members**
+### **3.3 Rights of Partners**
 
-Each Member in Good Standing shall have the right to:
+Each Partner in Good Standing shall have the right to:
 
 **A.** designate one representative, by whatever internal mechanism it chooses, to participate in Consortium business on its behalf;
 
-**B.** send at least one voting representative to the Annual Meeting of the Consortium;
+**B.** send at least one representative to the Annual Meeting of the Consortium;
 
-**C.** vote in the annual election of Member-elected seats on the Board, as provided in this Charter;
+**C.** be considered for a Partner seat on the Board according to its contributions to the Consortium, as provided in Section 4.5;
 
 **D.** recommend strategic directions, projects, features, educational materials, or other priorities to the Board at any time;
 
 **E.** receive such support, communication channels, pre-release access, recognition, or other programmatic benefits as may be provided in Board-approved policies or agreements.
 
-### **3.4 Additional Rights of Partners**
+### **3.4 Nature of Partnership Benefits**
 
-Partners retain all rights of Members. In addition, reflecting their increased contributions and commitment to the Consortium, the representative of a Partner institution is eligible for election to a Member-elected Board seat.
+Partnership provides meaningful influence over Consortium priorities and funding allocations through the governance mechanisms established by this Charter, including the seating of Partner representatives on the Board according to their contributions.
 
-### **3.5 Nature of Membership Benefits**
-
-Membership provides meaningful influence over Consortium priorities and funding allocations through the governance mechanisms established by this Charter, including the election of Member representatives to the Board.
-
-Membership does not confer:
+Partnership does not confer:
 
 **A.** ownership of Consortium intellectual property;
 
@@ -90,41 +86,41 @@ Membership does not confer:
 
 **D.** authority to direct release, publication, or licensing decisions except as expressly provided in this Charter or in Board-approved policy.
 
-The detailed economic and programmatic terms of membership, including contribution amounts, support expectations, and pre-release access terms, may be set forth in separate policies or agreements.
+The detailed economic and programmatic terms of partnership, including contribution amounts, support expectations, and pre-release access terms, may be set forth in separate policies or agreements.
 
-### **3.6 Good Standing**
+### **3.5 Good Standing**
 
-A Member shall be considered in Good Standing if:
+A Partner shall be considered in Good Standing if:
 
-**A.** all membership fees or other required payments due to the Consortium have been paid in full and on time;
+**A.** all partnership fees or other required payments due to the Consortium have been paid in full and on time;
 
-**B.** the Member has not materially breached any provision of this Charter or any applicable participation agreement;
+**B.** the Partner has not materially breached any provision of this Charter or any applicable participation agreement;
 
-**C.** no unresolved finding of violation has been issued against the Member by the Board under any applicable provision of this Charter.
+**C.** no unresolved finding of violation has been issued against the Partner by the Board under any applicable provision of this Charter.
 
-A Member that fails to satisfy condition (A) shall be given written notice by the Director and a grace period of thirty (30) days in which to cure the delinquency before losing Good Standing.
+A Partner that fails to satisfy condition (A) shall be given written notice by the Director and a grace period of thirty (30) days in which to cure the delinquency before losing Good Standing.
 
-Loss of Good Standing shall result in suspension of membership rights for the duration of the delinquency, except to the extent otherwise required by applicable law or contract.
+Loss of Good Standing shall result in suspension of partnership rights for the duration of the delinquency, except to the extent otherwise required by applicable law or contract.
 
-The Board may, by majority vote, reinstate a Member to Good Standing upon satisfaction of all outstanding obligations.
+The Board may, by majority vote, reinstate a Partner to Good Standing upon satisfaction of all outstanding obligations.
 
-### **3.7 Voluntary Withdrawal**
+### **3.6 Voluntary Withdrawal**
 
-A Member may voluntarily withdraw from the Consortium at any time by providing written notice to any Board member or the Director.
+A Partner may voluntarily withdraw from the Consortium at any time by providing written notice to any Board member or the Director.
 
 Upon withdrawal:
 
-**A.** membership fees already paid shall not be refunded, except as required by applicable law or the terms of any individual participation agreement;
+**A.** partnership fees already paid shall not be refunded, except as required by applicable law or the terms of any individual participation agreement;
 
 **B.** amounts outstanding at the time of withdrawal remain due and payable;
 
-**C.** membership rights and benefits shall cease upon the effective date of withdrawal, except as otherwise provided by contract;
+**C.** partnership rights and benefits shall cease upon the effective date of withdrawal, except as otherwise provided by contract;
 
-**D.** any Board seat held by a representative of the withdrawing Partner-level Member shall be treated as a vacancy under Section 4.6;
+**D.** any Board seat held by a representative of the withdrawing Partner shall be treated as a vacancy under Section 4.6;
 
 **E.** pre-release access rights shall terminate upon withdrawal unless otherwise provided by contract;
 
-**F.** withdrawal does not relieve the Member of obligations incurred prior to the effective date of withdrawal.
+**F.** withdrawal does not relieve the Partner of obligations incurred prior to the effective date of withdrawal.
 
 ## **ARTICLE 4\. The Board**
 
@@ -140,16 +136,18 @@ Board appointments are strictly unpaid positions, except that the Consortium may
 
 The Board shall consist of six members:
 
-**A.** three elected representatives of Partner-level Members; and  
+**A.** three representatives of Partner institutions, seated according to their contributions to the Consortium as provided in Section 4.5; and  
 **B.** three elected representatives of the Developers.
 
-These seats shall be elected by the Members and Developers, respectively, at or in advance of the Annual Meeting.
+The three Partner seats are individually designated Seat P1, Seat P2, and Seat P3. Each Partner seat carries a three-year term, and the terms are staggered so that the term of exactly one Partner seat comes up for assignment each year. The schedule by which each Partner seat's term expires is established under the Adoption provisions of this Charter, and each seat is filled as provided in Section 4.5.
 
-Board members serve one-year terms and may be reelected without term limit. No individual may hold more than one Board seat at a time. An individual who is eligible for both a Member-elected and a Developer-elected seat must choose one election to participate in.
+The three Developer-elected seats are elected by the Developers at or in advance of the Annual Meeting and serve one-year terms.
 
-If the Consortium consists of fewer than three willing Partner-level Members or fewer than three willing Developers, seats on the Board may remain unfilled.
+Board members may be reelected or reassigned without term limit. No individual may hold more than one Board seat at a time, and no Partner institution may hold more than one Partner seat at a time. An individual who is eligible for both a Partner seat and a Developer-elected seat must choose one to hold.
 
-One member of the Board shall be designated as Chair. The Chair shall be elected by majority vote of the Board at the first meeting following each Annual Meeting and shall serve a one-year term concurrent with their Board term. A Board member may serve as Chair for no more than two consecutive terms.
+If the Consortium consists of fewer than three willing Partner institutions or fewer than three willing Developers, seats on the Board may remain unfilled.
+
+One member of the Board shall be designated as Chair. The Chair shall be elected by majority vote of the Board at the first meeting following each Annual Meeting and shall serve a one-year term, provided the Chair remains a sitting Board member for its duration. A Board member may serve as Chair for no more than two consecutive terms.
 
 The Chair shall set agendas, convene and preside over Board meetings, put matters to a vote, and ensure the Board operates in accordance with this Charter. The Chair shall schedule Board meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Board members. The Chair may call meetings _ad hoc_ to handle urgent or emergency business.
 
@@ -160,7 +158,7 @@ With consent of the Board by majority vote, the Chair may appoint additional off
 The Board has the express charge to carry out the following duties, which shall not be delegated except where explicitly specified elsewhere in this Charter:
 
 **A. Strategic Goals.**  
-Set Strategic Goals for the Consortium. The Board shall integrate input from the Members, Developers, and broader community to set the overall scientific and engineering direction of the Consortium. No less than once a year, the Board shall present the Director with a clear document, in any format, detailing the Strategic Goals for the Consortium. A copy of this document shall be made available to the other Consortium participants.
+Set Strategic Goals for the Consortium. The Board shall integrate input from the Partners, Developers, and broader community to set the overall scientific and engineering direction of the Consortium. No less than once a year, the Board shall present the Director with a clear document, in any format, detailing the Strategic Goals for the Consortium. A copy of this document shall be made available to the other Consortium participants.
 
 **B. Budget and Fiduciary Responsibility.**  
 Develop and approve a clear, high-level budget sufficient to realize the Strategic Goals while ensuring the long-term financial health of the Consortium.
@@ -174,8 +172,8 @@ Approve major expenditures, major Consortium-Funded Projects, multi-year financi
 **E. Hiring Approval.**  
 Review and approve hiring recommendations made by the Director, unless the Board has delegated such approval in advance for a specified role or spending category.
 
-**F. Membership Framework.**  
-Establish membership categories, participation rights, general benefit structures, and related policies or agreements.
+**F. Partnership Framework.**  
+Establish partnership terms, participation rights, general benefit structures, and related policies or agreements.
 
 **G. Conflict Resolution and Governance.**  
 Resolve conflicts of interest, disputes among Consortium participants, and other governance matters using the powers vested in the Board by this Charter.
@@ -187,7 +185,7 @@ Approve amendments to this Charter, initiate or approve dissolution of the Conso
 Approve, under the Conflict of Interest provisions of this Charter, any expenditure or allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director.
 
 **J. Adoption of Policies.**  
-The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Board-approved policies shall be made available to Members and Developers.
+The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to contributions and intellectual property, partnership rights and obligations, and funding and project approval. All Board-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Board-approved policies shall be made available to Partners and Developers.
 
 Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or any other representative.
 
@@ -203,27 +201,32 @@ Any Board member may request a deliberation period of up to fourteen (14) days b
 
 All decisions shall be recorded in meeting minutes.
 
-### **4.5 Election of Member Representatives to the Board**
+### **4.5 Assignment of Partner Representatives to the Board**
 
-Board members elected by the Members shall be elected through an approval voting process using secret ballots.
+The three Partner seats (Seats P1, P2, and P3) are filled by reference to the contributions that Partner institutions have made and committed to the Consortium, rather than by election.
 
-Each Member in Good Standing shall cast one ballot through its designated representative.
+**A. Annual assignment cycle.** The term of exactly one Partner seat comes up for assignment each year. The assignment for the seat then coming up shall be confirmed at the last regular Board meeting before the Annual Meeting, and the assigned representative shall be seated no later than the close of the Annual Meeting. The date of that Board meeting fixes the accounting period used to evaluate contributions under paragraph C.
 
-Only representatives of Partner institutions are eligible to stand for Member-elected Board seats. 
+**B. Eligibility by contribution.** When a Partner seat comes up, the Partner institution in Good Standing that has made the largest contribution to the Consortium becomes eligible to fill the seat through its designated representative. Because no Partner may hold more than one Partner seat at a time, a Partner that holds another Partner seat whose term is not then expiring is not eligible; the Partner whose representative holds the expiring seat, however, remains eligible to be reassigned to it. A Partner may decline to be seated, in which case eligibility passes to the next-largest eligible contributor.
 
-Unless they proactively recuse themselves, all Partner institutions shall be considered for a board seat in the vote.
+**C. Measurement of contribution.** A Partner's contribution shall be evaluated quantitatively as a single monetary value, comprising:
 
-Each eligible Member shall receive a ballot listing all eligible candidates and may cast a vote in favor of any number of candidates it deems qualified to serve on the Board.
+**i.** cash contributions, valued at their face amount; and  
+**ii.** in-kind contributions, such as engineering hours and compute, valued at eighty percent (80%) of their fair cash-equivalent value (for example, $100,000 of donated engineering time counts as $80,000).
 
-The three candidates receiving the greatest number of approvals shall be declared elected to the Board. In the event of a tie for the final seat, a runoff election shall be held in which each eligible Member casts a single vote. If a tie remains, the sitting Chair of the Board shall cast the tie-breaking vote.
+The contribution shall be measured over a three-year window, consisting of the realized contributions of the two years preceding the accounting period fixed under paragraph A together with the contribution promised for the year following that accounting period, the latter computed at the Partner's current contribution rate. The Board shall determine the fair cash-equivalent value of in-kind contributions in good faith and may adopt a policy under Section 4.3.J governing how contributions are documented and valued.
+
+**D. Ratification by the Board.** The assignment of an eligible Partner to a Partner seat must be ratified by the sitting Board. The assignment is ratified unless all sitting Board members vote to reject it. Upon such a unanimous vote to reject, eligibility passes to the next-largest contributor under paragraphs B and C, and the ratification process repeats. This unanimity requirement governs notwithstanding the recusal and quorum provisions of Section 9.4.
+
+**E. Initial assignment before all Partner seats are filled.** While one or more Partner seats remain unoccupied, the sitting Board may, at any time and for any reason, assign a Partner's designated representative to an unoccupied Partner seat by unanimous vote of all sitting Board members. In making such an initial assignment, the Board shall designate which seat (P1, P2, or P3) the representative occupies, and thereby that representative's position in the staggered rotation. Once all three Partner seats are occupied, assignments shall be made only through the annual cycle in paragraphs A through D.
 
 ### **4.6 Vacancies**
 
 Should a Board seat become vacant between Annual Meetings due to resignation, removal, loss of eligibility, or any other cause:
 
-**A.** the Chair shall notify all Members and Developers of the vacancy within fourteen (14) days;
+**A.** the Chair shall notify all Partners and Developers of the vacancy within fourteen (14) days;
 
-**B.** if the vacant seat is a Member-elected seat, the candidate from the most recent Member Board election with the next-highest approval count who is willing and eligible to serve shall be offered the seat; if no such candidate is available, the seat shall remain unfilled until the next Annual Meeting;
+**B.** if the vacant seat is a Partner seat, it shall remain unfilled until that seat next comes up for assignment under Section 4.5; the Partner institution whose representative held the seat does not thereby forfeit its standing for future assignment;
 
 **C.** if the vacant seat is a Developer-elected seat, the candidate from the most recent Developer Board election with the next-highest approval count who is willing and eligible to serve shall be offered the seat; if no such candidate is available, the seat shall remain unfilled until the next Annual Meeting;
 
@@ -243,7 +246,7 @@ A Board member subject to proposed removal shall receive notice of the grounds f
 
 The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Consortium and execute the Consortium’s Mission. Further, the Developers help guide the strategic direction of the Consortium by holding seats on the Board.
 
-Developers may be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees or fellows). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Member under Section 2.2 acts in each role separately.
+Developers may be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees or fellows). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Partner under Section 2.2 acts in each role separately.
 
 Developers are expected to be active participants in the business and technical life of the Consortium by writing and reviewing code, producing technical materials, providing input and feedback to the Board, and supporting one another and the broader structural biology community.
 
@@ -318,9 +321,9 @@ Under the direction of the Board, the Director may:
 
 **C.** recommend hiring, contracting, project initiation, and budget adjustments to the Board;
 
-**D.** support Members in understanding, using, deploying, and maintaining Consortium code and related outputs, consistent with Board-approved policies and the Strategic Goals;
+**D.** support Partners in understanding, using, deploying, and maintaining Consortium code and related outputs, consistent with Board-approved policies and the Strategic Goals;
 
-**E.** recommend that requests, support needs, or feature proposals originating from Members, Developers, or other participants be elevated to the Board for consideration as Consortium-Funded Projects or budget items;
+**E.** recommend that requests, support needs, or feature proposals originating from Partners, Developers, or other participants be elevated to the Board for consideration as Consortium-Funded Projects or budget items;
 
 **F.** maintain records required under this Charter;
 
@@ -350,15 +353,15 @@ If the Director seat is unfilled, the Chair of the Board shall assume the duties
 
 ## **ARTICLE 7\. Annual Meeting**
 
-No less than once per calendar year, the Board shall convene an Annual Meeting of the Consortium, open to the representatives of all Members and to all Developers.
+No less than once per calendar year, the Board shall convene an Annual Meeting of the Consortium, open to the representatives of all Partners and to all Developers.
 
-The Annual Meeting shall serve as the primary forum for the Director and the Board to present the Strategic Goals and budget for the coming year, report on progress against prior goals, review the list of Developers, and receive recommendations from Members and Developers.
+The Annual Meeting shall serve as the primary forum for the Director and the Board to present the Strategic Goals and budget for the coming year, report on progress against prior goals, review the list of Developers, and receive recommendations from Partners and Developers.
 
-Board elections for both the Member-elected seats and the Developer-elected seats shall be conducted in conjunction with the Annual Meeting such that newly elected Board members are seated no later than the close of the Annual Meeting.
+The Partner seat then coming up shall be filled as provided in Section 4.5, and the election of the Developer-elected seats shall be conducted in conjunction with the Annual Meeting, such that newly seated Board members are seated no later than the close of the Annual Meeting.
 
-The Board shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Members and Developers, including a proposed agenda.
+The Board shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Partners and Developers, including a proposed agenda.
 
-Additional attendees, such as non-voting representatives of Member institutions, scientific advisors, or other guests, may be invited by the Board to attend when doing so furthers the Consortium's business.
+Additional attendees, such as non-voting representatives of Partner institutions, scientific advisors, or other guests, may be invited by the Board to attend when doing so furthers the Consortium's business.
 
 The Annual Meeting must be held in a virtual or hybrid (in-person and virtual) format, providing the possibility to participate for Consortium participants around the world.
 
@@ -372,9 +375,9 @@ For purposes of this Charter:
 
 **B. Consortium-Funded Project** means an organized effort, initiative, or workstream approved by the Board for material support by the Consortium, whether through funding, personnel, or other administered resources.
 
-**C. External Work** means work contributed independently outside Consortium support, including work created by Developers, contributors, collaborators, Members, or other participants acting outside such support.
+**C. External Work** means work contributed independently outside Consortium support, including work created by Developers, contributors, collaborators, Partners, or other participants acting outside such support.
 
-**D. Release** means making Consortium-Funded Work generally available to the public without access restriction, whether through publication of a source code repository, distribution of packaged or compiled artifacts, or equivalent means. Pre-release access provided to Members under Board-approved policy does not constitute Release.
+**D. Release** means making Consortium-Funded Work generally available to the public without access restriction, whether through publication of a source code repository, distribution of packaged or compiled artifacts, or equivalent means. Pre-release access provided to Partners under Board-approved policy does not constitute Release.
 
 Except as otherwise provided in this Charter or in agreed project-specific terms, the Consortium does not claim governance authority over purely External Work contributed outside Consortium support.
 
@@ -398,7 +401,7 @@ While public release of completed projects is the ultimate aim of the Consortium
 
 **A.** protect the ability of Consortium researchers to publish their findings without being scooped;  
 **B.** ensure that publicly released code meets a minimum standard of quality and documentation;  
-**C.** permit Members to receive pre-release access as allowed by Board-approved policy; and
+**C.** permit Partners to receive pre-release access as allowed by Board-approved policy; and
 **D.** should it be necessary, protect the security and privacy of Developers, other Consortium participants, or the broader public.
 
 Further, not all Consortium-Funded work need be publicaly released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
@@ -420,7 +423,7 @@ The right of any Consortium participant to own, publish, or otherwise pursue the
 
 The rights and obligations of contractual employees and contractors shall be stipulated in their respective contracts and by applicable law and policy.
 
-No Member, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
+No Partner or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
 ## **ARTICLE 9\. Conflicts of Interest**
 
@@ -432,7 +435,7 @@ This policy establishes standards to identify, disclose, and manage conflicts of
 
 ### **9.2 Scope**
 
-This policy applies to all Board members, the Director, and any Developer or Member representative participating in a decision or vote on behalf of the Consortium.
+This policy applies to all Board members, the Director, and any Developer or Partner representative participating in a decision or vote on behalf of the Consortium.
 
 ### **9.3 Definition**
 
@@ -518,14 +521,14 @@ Dissolution of the Consortium may be initiated in one of the following ways:
 **B.** a unanimous vote of the full Board in favor of dissolution;  
 **C.** separation from the Operating Legal Entity with failure to transfer to a new Operating Legal Entity as provided above.
 
-Upon a valid dissolution trigger, the Board shall notify all Members, Developers, and any other parties with contractual relationships with the Consortium within ten (10) calendar days.
+Upon a valid dissolution trigger, the Board shall notify all Partners, Developers, and any other parties with contractual relationships with the Consortium within ten (10) calendar days.
 
 The Consortium shall continue operations in a wind-down capacity for no more than ninety (90) calendar days, during which:
 
 **A.** no new multi-year financial commitments shall be made;  
 **B.** the Director shall work to fulfill or responsibly terminate outstanding obligations;  
-**C.** Members shall not be entitled to refunds of amounts already paid except as required by law or contract;  
-**D.** new memberships shall not be accepted.
+**C.** Partners shall not be entitled to refunds of amounts already paid except as required by law or contract;  
+**D.** new partnerships shall not be accepted.
 
 After the wind-down period, remaining assets shall be disposed of as follows:
 
@@ -549,13 +552,15 @@ Any amendment of this Charter shall require:
 
 Upon adoption of any amendment to this Charter, the Director shall archive the prior version of the Charter and record the date of amendment, the nature of the changes made, and the vote by which the amendment was approved.
 
-All prior versions of the Charter shall be made available to any Member or Developer upon request. A version history shall be maintained as a Consortium record.
+All prior versions of the Charter shall be made available to any Partner or Developer upon request. A version history shall be maintained as a Consortium record.
 
 ## **ADOPTION OF CHARTER**
 
 The Charter shall be adopted by a set of Developers.
 
 Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Developer-elected representatives to the Board. At this special election, the Developers shall elect up to three (3) Board members; by a two-thirds (2/3) vote, the Developers may instead elect fewer than three. The election shall otherwise follow the procedure set out in Section 5.5, applied to the number of seats to be filled. Any Developer-elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
+
+To establish the staggered rotation of the Partner seats required by Section 4.2, the terms of Seats P1, P2, and P3 shall expire, respectively, at the first, second, and third Annual Meeting following adoption, and every three (3) years thereafter, so that the term of one Partner seat comes up for assignment each year. The Partner seats begin unoccupied and may be filled before the seat's first scheduled expiry through the initial-assignment procedure in Section 4.5.E; a representative initially assigned to a seat serves until that seat's next scheduled expiry. Thereafter, each Partner seat is filled for a full three-year term as provided in Sections 4.2 and 4.5.
 
 The Board shall set the date of the first Annual Meeting, at which the next election of Board members shall be held as required by this Charter. The first Annual Meeting may be held on any date set by the Board, provided it occurs no later than twelve (12) months following adoption of this Charter.
 
