@@ -145,11 +145,11 @@ The Board shall consist of six members:
 
 These seats shall be elected by the Members and Developers, respectively, at or in advance of the Annual Meeting.
 
-Board members serve one-year terms and may be reelected without term limit. No individual may hold more than one Board seat at a time. An individual who is eligible for both a Member-elected and a Developer-elected seat must choose one election to participate in.
+The three Member-elected seats serve one-year terms. The three Developer-elected seats serve staggered three-year terms, so arranged that the term of exactly one Developer-elected seat expires each year. To this end, the Developer-elected seats are individually designated Seat D1, Seat D2, and Seat D3, with their terms expiring in successive years; each is filled at the Annual Meeting at which its term expires, as provided in Section 5.5. Board members may be reelected without term limit. No individual may hold more than one Board seat at a time. An individual who is eligible for both a Member-elected and a Developer-elected seat must choose one election to participate in.
 
 If the Consortium consists of fewer than three willing Partner-level Members or fewer than three willing Developers, seats on the Board may remain unfilled.
 
-One member of the Board shall be designated as Chair. The Chair shall be elected by majority vote of the Board at the first meeting following each Annual Meeting and shall serve a one-year term concurrent with their Board term. A Board member may serve as Chair for no more than two consecutive terms.
+One member of the Board shall be designated as Chair. The Chair shall be elected by majority vote of the Board at the first meeting following each Annual Meeting and shall serve a one-year term, provided the Chair remains a sitting Board member for its duration. A Board member may serve as Chair for no more than two consecutive terms.
 
 The Chair shall set agendas, convene and preside over Board meetings, put matters to a vote, and ensure the Board operates in accordance with this Charter. The Chair shall schedule Board meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Board members. The Chair may call meetings _ad hoc_ to handle urgent or emergency business.
 
@@ -225,7 +225,7 @@ Should a Board seat become vacant between Annual Meetings due to resignation, re
 
 **B.** if the vacant seat is a Member-elected seat, the candidate from the most recent Member Board election with the next-highest approval count who is willing and eligible to serve shall be offered the seat; if no such candidate is available, the seat shall remain unfilled until the next Annual Meeting;
 
-**C.** if the vacant seat is a Developer-elected seat, the candidate from the most recent Developer Board election with the next-highest approval count who is willing and eligible to serve shall be offered the seat; if no such candidate is available, the seat shall remain unfilled until the next Annual Meeting;
+**C.** if the vacant seat is a Developer-elected seat, the departing Board member shall nominate a successor from among the Developers, and that nominee shall be appointed upon ratification by a two-thirds (2/3) vote of participating Developers, provided a quorum of at least two-thirds (2/3) of current Developers participates, following the procedure described in Section 5.3. If a nominee fails to be ratified, the departing Board member may nominate another eligible Developer, and the process repeats. If the departing Board member is unable or unwilling to nominate, the nomination shall instead be made by the remaining Developer-elected Board member(s). If no nominating party is available or no nominee is ratified, the seat shall remain unfilled until the next Annual Meeting;
 
 **D.** any Board member appointed to fill a vacancy serves only for the remainder of the vacated term;
 
@@ -286,7 +286,11 @@ At each election, Developers may nominate any of their own to stand for the Boar
 
 Each Developer shall receive a ballot listing all eligible candidates and may cast a vote in favor of any number of candidates they deem qualified to serve on the Board.
 
-The three candidates receiving the greatest number of approvals shall be declared elected to the Board. In the event of a tie for the final seat, a runoff election shall be held in which each Developer casts a single vote. If a tie remains, the Chair of the Board shall cast the tie-breaking vote, unless recused, in which case the tied seat shall remain vacant until a further runoff can be conducted.
+Ordinarily, exactly one Developer-elected seat — the seat whose three-year term is expiring — shall be filled at each Annual Meeting, and the candidate receiving the greatest number of approvals shall be elected to a new three-year term in that seat.
+
+If more than one Developer-elected seat is to be filled at the same election, whether because a seat left vacant under Section 4.6 was not filled or for any other reason, the candidates receiving the greatest numbers of approvals shall be elected to the open seats. Where the open seats carry terms of differing remaining length, the longer term shall be assigned to the candidate receiving the greater number of approvals.
+
+In the event of a tie affecting which candidates are elected or which term a candidate receives, a runoff election shall be held in which each Developer casts a single vote. If a tie remains, the Chair of the Board shall cast the tie-breaking vote, unless recused, in which case the affected seat shall remain vacant until a further runoff can be conducted.
 
 ### **5.6 Dissolution Right of the Developers**
 
@@ -354,7 +358,7 @@ No less than once per calendar year, the Board shall convene an Annual Meeting o
 
 The Annual Meeting shall serve as the primary forum for the Director and the Board to present the Strategic Goals and budget for the coming year, report on progress against prior goals, review the list of Developers, and receive recommendations from Members and Developers.
 
-Board elections for both the Member-elected seats and the Developer-elected seats shall be conducted in conjunction with the Annual Meeting such that newly elected Board members are seated no later than the close of the Annual Meeting.
+Board elections for the Member-elected seats and for any Developer-elected seat then up for election shall be conducted in conjunction with the Annual Meeting such that newly elected Board members are seated no later than the close of the Annual Meeting.
 
 The Board shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Members and Developers, including a proposed agenda.
 
@@ -557,9 +561,21 @@ The Charter shall be adopted by a set of Developers.
 
 Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Developer-elected representatives to the Board. At this special election, the Developers shall elect up to three (3) Board members; by a two-thirds (2/3) vote, the Developers may instead elect fewer than three. The election shall otherwise follow the procedure set out in Section 5.5, applied to the number of seats to be filled. Any Developer-elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
 
+To establish the staggered rotation of the Developer-elected seats required by Section 4.2, the initial occupants of Seats D1, D2, and D3 shall, by mutual agreement and notwithstanding the term-assignment rule in Section 5.5, be assigned initial terms of one (1), two (2), and three (3) years, so that the term of one Developer-elected seat expires at each of the first three Annual Meetings. The seat designation and initial term length assigned to each initial Developer-elected Board member shall be recorded in this Charter at the time of adoption, in the table below. Thereafter, each Developer-elected seat shall be filled for a full three-year term as provided in Sections 4.2 and 5.5.
+
 The Board shall set the date of the first Annual Meeting, at which the next election of Board members shall be held as required by this Charter. The first Annual Meeting may be held on any date set by the Board, provided it occurs no later than twelve (12) months following adoption of this Charter.
 
 After being seated, the Board shall appoint the first Director from among the Developers in accordance with Article 6. This shall occur no later than the time of this first Annual Meeting. The service of the first Director during this time shall not count towards the term limits outlined in Article 6.
+
+### **Initial Developer-Elected Board Seats**
+
+The initial Developer-elected Board members, their assigned seats, and their initial term lengths, established by mutual agreement under this Article, are recorded as follows:
+
+| Developer Seat | Board Member | Initial Term | Term Expires |
+| --- | --- | --- | --- |
+| D1 | ____________________ | One (1) year | First Annual Meeting |
+| D2 | ____________________ | Two (2) years | Second Annual Meeting |
+| D3 | ____________________ | Three (3) years | Third Annual Meeting |
 
 We, the undersigned, constitute the initial Developers of the Consortium. We consent to and hereby adopt this Charter of the Reciprocal Space Station Consortium:
 
