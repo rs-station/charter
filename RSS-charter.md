@@ -448,9 +448,9 @@ Separation from the Operating Legal Entity may be triggered either:
 
 **B.** upon a valid directive from the governing body of the Operating Legal Entity.
 
-Following a separation trigger, the Steering Committee shall have ninety (90) days to establish a relationship with a new suitable Operating Legal Entity and arrange a mutually agreeable transfer arrangement among the old Operating Legal Entity, the new Operating Legal Entity, and the Committee. Such an agreement shall take legal precedence over this Charter to the extent necessary to effect the transfer.
+Following a separation trigger, the Steering Committee shall seek to establish a relationship with a new suitable Operating Legal Entity and to arrange a mutually agreeable transfer among the outgoing Operating Legal Entity, the new Operating Legal Entity, and the Committee. The transfer shall be completed within the notice and transition period set by the sponsorship or hosting agreement then in effect, including any extension agreed under it; the new Operating Legal Entity must meet that agreement's requirements for a successor, and the outgoing Operating Legal Entity's approval of a qualifying successor or of a reasonable extension shall not be unreasonably withheld. Such a transfer agreement shall take legal precedence over this Charter to the extent necessary to effect the transfer.
 
-Should such a transfer agreement fail to be reached within the ninety (90) day period, the Consortium shall enter dissolution.
+Should no qualifying successor be secured within that period and any agreed extension, remaining Consortium assets and liabilities shall be disposed of as provided in that agreement and applicable law, and the Consortium shall enter dissolution under Section 10.2.
 
 ### **10.2 Dissolution**
 
