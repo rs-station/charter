@@ -26,7 +26,7 @@ The Developers are a self-governing body of researchers and engineers who active
 
 **B. The Steering Committee.**  
 
-The Steering Committee is the primary governing body of the Consortium, tasked with setting strategic direction, raising and distributing the funds necessary to sustain the Consortium, setting a budget, conducting oversight, and resolving internal disputes. The Steering Committee consists of Developers elected by the Developers, along with the Director, who serves as a voting member. The role and governance of the Steering Committee is further specified in Article 4.
+The Steering Committee is the governing body of the Consortium, tasked with setting strategic direction, raising and distributing the funds necessary to sustain the Consortium, setting a budget, conducting oversight, and resolving internal disputes. The Steering Committee consists of Developers elected by the Developers, along with the Director, who serves as a voting member. The role and governance of the Steering Committee is further specified in Article 4.
 
 **C. The Director.**  
 
@@ -104,7 +104,9 @@ To the extent it does not conflict with this Charter, the policies of the Operat
 
 ### **4.1 Charge**
 
-The Steering Committee is the primary governing body of the Consortium, tasked with ensuring that the Consortium carries out the Mission, remains financially viable, sustains and grows as needed to do so, and resolves major questions of priority, governance, and resource allocation.
+The Steering Committee is the governing body of the Consortium, tasked with ensuring that the Consortium carries out the Mission, remains financially viable, sustains and grows as needed to do so, and resolves major questions of priority, governance, and resource allocation.
+
+The Steering Committee's authority is delegated to it by the Operating Legal Entity, whose governing body retains ultimate legal authority and fiduciary responsibility as provided in Article 9 and in any sponsorship or hosting agreement then in effect. In accepting this delegation, the Steering Committee and its members may be required to assume responsibilities to the Operating Legal Entity in the exercise of that authority as specified by a Sponsorship Agreement or equivalent.
 
 The Steering Committee bears full responsibility for raising and dispensing the funds and resources necessary to sustain the Consortium.
 
