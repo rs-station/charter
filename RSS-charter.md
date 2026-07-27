@@ -416,7 +416,7 @@ While RSS is a constituent project of the Operating Legal Entity, the following 
 
 **C.** the Operating Legal Entity may receive and administer funds, employ or contract personnel, disburse funds consistent with Steering Committee direction and applicable agreements, administer fellowships or similar arrangements where permitted, and perform other legal and financial functions on behalf of the Consortium;  
 
-**D.** the Operating Legal Entity may propose direct administrative costs to the Steering Committee for approval;  
+**D.** the Operating Legal Entity may charge administrative fees and pass through associated costs as set by any sponsorship or hosting agreement then in effect and may propose any additional direct administrative costs to the Steering Committee for approval;  
 
 **E.** the Operating Legal Entity retains whatever legal authorities, fiduciary obligations, and compliance responsibilities are imposed on it by law and by its own governing documents.
 
