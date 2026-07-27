@@ -106,9 +106,9 @@ To the extent it does not conflict with this Charter, the policies of the Operat
 
 The Steering Committee is the governing body of the Consortium, tasked with ensuring that the Consortium carries out the Mission, remains financially viable, sustains and grows as needed to do so, and resolves major questions of priority, governance, and resource allocation.
 
-The Steering Committee's authority is delegated to it by the Operating Legal Entity, whose governing body retains ultimate legal authority and fiduciary responsibility as provided in Article 9 and in any sponsorship or hosting agreement then in effect. In accepting this delegation, the Steering Committee and its members may be required to assume responsibilities to the Operating Legal Entity in the exercise of that authority as specified by a Sponsorship Agreement or equivalent.
+The Steering Committee's authority is delegated to it by the Operating Legal Entity, whose governing body retains ultimate legal authority and fiduciary responsibility as provided in Article 9 and in any sponsorship or hosting agreement then in effect. In accepting this delegation, the Steering Committee and its members may be required to assume responsibilities to the Operating Legal Entity in the exercise of that authority as specified by any sponsorship or hosting agreement then in effect.
 
-The Steering Committee bears full responsibility for raising and dispensing the funds and resources necessary to sustain the Consortium.
+The Steering Committee is responsible for raising and dispensing the funds and resources necessary to sustain the Consortium.
 
 The Steering Committee shall meet regularly at a self-determined frequency.
 
@@ -418,7 +418,9 @@ While RSS is a constituent project of the Operating Legal Entity, the following 
 
 **D.** the Operating Legal Entity may charge administrative fees and pass through associated costs as set by any sponsorship or hosting agreement then in effect and may propose any additional direct administrative costs to the Steering Committee for approval;  
 
-**E.** the Operating Legal Entity retains whatever legal authorities, fiduciary obligations, and compliance responsibilities are imposed on it by law and by its own governing documents.
+**E.** the Operating Legal Entity retains whatever legal authorities, fiduciary obligations, and compliance responsibilities are imposed on it by law and by its own governing documents;
+
+**F.** the relationship between the Operating Legal Entity and the Consortium shall be specified in a sponsorship or hosting agreement that further details the obligations of the Consortium to the Operating Legal Entity and _vice versa_. The Operating Legal Entity holds the funds raised for the Consortium; the Steering Committee's authority to direct their use is exercised within the available balance and otherwise subject to that agreement.
 
 ### **9.2 Hierarchy**
 
