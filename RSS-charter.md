@@ -344,6 +344,14 @@ The rights and obligations of contractual employees and contractors shall be sti
 
 No funder, sponsor, or other external supporter shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
+### **7.6 Ownership and Stewardship of Intellectual Property**
+
+Legal title to the intellectual property comprising Consortium-Funded Work vests in the Operating Legal Entity, which holds it in trust for the charitable purposes of the Consortium and the advancement of the Mission, consistent with any sponsorship or hosting agreement then in effect. This custodial ownership does not diminish the Open Release Principle of Section 7.2: Consortium-Funded Work that has been Released remains available to the public under its Open Source Initiative approved license, which the Operating Legal Entity shall not revoke.
+
+Contributions to Consortium-Funded Work by participants who are not employees or contractors of the Consortium or the Operating Legal Entity are licensed to the Operating Legal Entity under the applicable Open Source Initiative approved license rather than assigned, and such participants retain ownership of their contributions as provided in Section 7.5. Intellectual property developed independently of Consortium support is External Work and remains the property of its creators.
+
+Consortium personnel are responsible for ensuring that the Operating Legal Entity obtains the licenses or permissions necessary to use any third-party intellectual property employed in Consortium activities.
+
 ## **ARTICLE 8. Conflicts of Interest**
 
 ### **8.1 Purpose**
