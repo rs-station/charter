@@ -486,6 +486,8 @@ On behalf of the funded Consortium, the Operating Legal Entity shall keep comple
 
 The Consortium shall maintain a public or participant-accessible record of current Steering Committee members, current Developers, the current version of this Charter, and a version history of prior Charter amendments.
 
+The Director shall notify the Operating Legal Entity promptly of changes in the composition of the Steering Committee, so that the Operating Legal Entity may meet its obligations under any sponsorship or hosting agreement then in effect. Where that agreement so requires, incoming Steering Committee members shall acknowledge their responsibilities under it.
+
 ## **ARTICLE 12. Amendment of Charter**
 
 Any amendment of this Charter shall require:
