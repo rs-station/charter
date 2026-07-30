@@ -82,7 +82,7 @@ Except as otherwise provided in this Section, composition decisions shall be mad
 
 **B.** Developers who are no longer actively contributing or no longer intend to contribute are asked to resign proactively.  
 
-**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantial contribution to the Consortium, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately.  
+**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive contribution to the Consortium over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately.  
 
 **D.** At any time, existing Developers may be removed by a majority vote of the Steering Committee. This may be vetoed by a 2/3 vote of the Developers.
 
