@@ -136,7 +136,9 @@ The Steering Committee has the express charge to carry out the following duties,
 
 **A. Strategic Goals.**  
 
-Set Strategic Goals for the Consortium. The Committee shall integrate input from the Developers and the broader community to set the overall scientific and engineering direction of the Consortium. No less than once a year, the Committee shall produce a clear document, in any format, detailing the Strategic Goals for the Consortium. A copy of this document shall be made available to the other Consortium participants.
+Set Strategic Goals for the Consortium. The Committee shall integrate input from the Developers and the broader community to set the overall scientific and engineering direction of the Consortium. No less than once a year, the Committee shall produce a clear document, in any format, detailing the Strategic Goals for the Consortium.
+
+Before adopting the Strategic Goals, the Committee shall circulate a draft to all Developers and provide a comment period of no less than fourteen (14) days, during which any Developer may submit written comments to the Committee. The Committee shall consider the comments received before adopting the Strategic Goals, but is not bound by them. A copy of the adopted document shall be made available to the other Consortium participants.
 
 **B. Fundraising, Budget, and Fiduciary Responsibility.**  
 
