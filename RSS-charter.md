@@ -122,7 +122,7 @@ The Steering Committee shall consist of:
 
 **B.** the Director, who serves as a voting member *ex officio*.
 
-The six elected seats shall be filled at each Annual Meeting through the election procedure set out in Section 4.5. Elected members serve one-year terms and may be reelected without term limit. No individual may hold more than one seat on the Committee at a time. If fewer than six willing and eligible Developers stand for election, or fewer clear the threshold set in Section 4.5, elected seats may remain unfilled.
+The six elected seats shall be filled at each Annual Meeting through the election procedure set out in Section 4.5. Elected members serve one-year terms and may be reelected without term limit. No individual may hold more than one seat on the Committee at a time. If fewer than six willing and eligible Developers stand for election, or fewer clear the threshold set in Section 4.5, elected seats may remain unfilled until the next Annual Meeting.
 
 The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand in the annual election of the six elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
 
