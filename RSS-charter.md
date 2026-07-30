@@ -126,7 +126,7 @@ The six elected seats shall be filled at each Annual Meeting through the electio
 
 The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand in the annual election of the six elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
 
-The Director shall serve as the presiding officer of the Steering Committee. The Director shall set agendas, convene and preside over Committee meetings, put matters to a vote, and ensure the Committee operates in accordance with this Charter. The Director shall schedule Committee meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Committee members. The Director may call meetings *ad hoc* to handle urgent or emergency business.
+The Director shall serve as the presiding officer of the Steering Committee. The Director shall set agendas, convene and preside over Committee meetings, put matters to a vote, and ensure the Committee operates in accordance with this Charter. The Director shall schedule Committee meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Committee members. The Director may call Steering Committee meetings *ad hoc* to handle urgent or emergency business. 
 
 With consent of the Committee by majority vote, the Director may appoint additional officers or assistants, which need not be Committee members, to assist the Committee in carrying out its business.
 
