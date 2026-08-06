@@ -2,10 +2,9 @@
 <p align="center">
 <span style="font-family: Arial; font-size: 20px; color: blue;">
 
-
 # **CHARTER OF THE RECIPROCAL SPACE STATION CONSORTIUM**
 
-## **ARTICLE 1\. Mission**
+## **ARTICLE 1. Mission**
 
 The Reciprocal Space Station (“RSS”, the “Consortium”) is an academic consortium tasked with creating open-source software to advance the science of structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
 
@@ -15,245 +14,53 @@ All software released by the Consortium shall be released under permissive open-
 
 To advance its mission, the Consortium may undertake education, knowledge curation, benchmarking, interoperability, workshops, training, and community-building activities within structural biology.
 
-## **ARTICLE 2\. Governance**
+## **ARTICLE 2. Governance**
 
 ### **2.1 Structure**
 
-The Consortium shall be composed of three bodies, together tasked with carrying out the Mission, and an Operating Legal Entity that provides their legal and administrative framework:
+The Consortium shall be composed of three bodies — the Developers, the Steering Committee, and the Director — together tasked with carrying out the Mission, and an Operating Legal Entity that provides their legal and administrative framework:
 
-**A. The Member Institutions (“Members”).**  
-The Members are typically companies, universities, research institutes, or comparable organizations that enter into a membership agreement with the Consortium. Members provide financial resources, strategic input, and external perspective in exchange for governance participation, support, and programmatic benefits as provided in this Charter, applicable membership agreements, and Board-approved policies.
+**A. The Developers.**  
 
-**B. A Governing Board (the “Board”).**  
-The Board is the primary governing body of the Consortium, tasked with setting strategic direction, setting a budget, conducting oversight, approving major allocations of Consortium resources, and resolving internal disputes. The Board consists of elected representatives of the Developers and Members. Each respective group elects its own representatives.
+The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Steering Committee and execute the Mission of the Consortium. Developers participate as individuals and do not necessarily represent any institution. The group may include, for example, staff employed by the Consortium, Consortium-funded fellows based at academic institutions, and volunteer community members who have no contractual obligation to the Consortium. The Developers elect representatives to the Steering Committee and ratify the Director. The role and governance of the Developers is further specified in Article 3.
 
-**C. The Developers.**  
-The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Board and execute the Mission of the Consortium. Developers participate as individuals and do not necessarily represent any institution. The group may include, for example, staff employed by the Consortium, Consortium-funded fellows based at academic institutions, and volunteer community members who have no contractual obligation to the Consortium. The Developers self-elect representatives to the Board. One Developer is appointed by the Board to act as Director, tasked with ensuring that Consortium resources are used to uphold the Mission and execute the Board's strategy.
+**B. The Steering Committee.**  
+
+The Steering Committee is the governing body of the Consortium, tasked with setting strategic direction, raising and distributing the funds necessary to sustain the Consortium, setting a budget, conducting oversight, and resolving internal disputes. The Steering Committee consists of Developers elected by the Developers, along with the Director, who serves as a voting member. The role and governance of the Steering Committee is further specified in Article 4.
+
+**C. The Director.**  
+
+The Director is an officer of the Consortium, nominated by the Steering Committee from among its members and ratified by the Developers, tasked with the day-to-day operations of the Consortium and with ensuring that Consortium resources are used to uphold the Mission and execute the Committee's strategy. The Director serves as a voting member and the presiding officer of the Steering Committee. The role of the Director is further specified in Article 5.
 
 **D. The Operating Legal Entity.**
-The Consortium shall be a constituent project of an Operating Legal Entity that provides the legal and administrative framework necessary to conduct Consortium business. The Operating Legal Entity serves as the entity of record for contracts, employment, and financial administration on behalf of the Consortium, and retains whatever legal authorities and fiduciary obligations are imposed on it by law and by its own governing documents. The relationship between the Consortium and the Operating Legal Entity is further specified in Article 10.
 
+The Consortium shall be a constituent project of an Operating Legal Entity that provides the legal and administrative framework necessary to conduct Consortium business. The Operating Legal Entity serves as the entity of record for contracts, employment, and financial administration on behalf of the Consortium, and retains whatever legal authorities and fiduciary obligations are imposed on it by law and by its own governing documents. The relationship between the Consortium and the Operating Legal Entity is further specified in Article 9.
 
 ### **2.2 Capacity of Participants**
 
-Unless expressly designated otherwise in a separate written agreement, Developers, Board members, the Director, and other individual participants act in their personal or professional capacities and not as authorized representatives of their employing institutions.
+Unless expressly designated otherwise in a separate written agreement, Developers, Steering Committee members, the Director, and other individual participants act in their personal or professional capacities and not as authorized representatives of their employing institutions.
 
 No person acting under this Charter may bind any university, laboratory, company, government entity, or other institution absent separate written authority.
 
-As provided for in Articles 3 and 5 respectively, an individual may simultaneously serve as both a Developer and as a designated representative of a Member, subject to any applicable conflict-of-interest provisions of this Charter.
-
 Nothing in this Charter shall be construed to override the policies, contractual obligations, or legal constraints applicable to any participant by virtue of their employment, appointment, grant support, or institutional affiliation.
 
-## **ARTICLE 3\. Membership**
+## **ARTICLE 3. The Developers**
 
-### **3.1 The Role of the Member Institutions**
+### **3.1 Charge**
 
-Member institutions (“Members”) are the entities — typically companies, universities, research institutes or comparable organizations — that resource the Consortium and enable it to carry out its Mission. Through their participation, Member institutions obtain the right to influence and obtain early access the Consortium's work. Each Member is bound by a membership agreement with the Consortium that defines its financial obligations, rights, and benefits. Through the governance mechanisms established by this Charter, Members provide strategic input that shapes the direction and priorities of the Consortium.
+The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Consortium and execute the Consortium’s Mission. Further, the Developers help guide the strategic direction of the Consortium by electing the Steering Committee from among their number and by ratifying the Director.
 
-### **3.2 Membership Categories**
+Developers may be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees or fellows). Developers participate in the Consortium in their individual capacity.
 
-The Consortium may establish two tiers of membership, designated by the Board as **Members** and **Partners**, with Partners contributing additional resources to the consortium.
+Developers are expected to be active participants in the business and technical life of the Consortium by writing and reviewing code, producing technical materials, providing input and feedback to the Steering Committee, and supporting one another and the broader structural biology community.
 
-The Board may define, revise, and publish the financial contribution levels, standard benefits, and administrative conditions associated with each tier through Board-approved policies or participation agreements administered by the Operating Legal Entity.
+### **3.2 Technical Authority**
 
-The Consortium may also enter into project-specific, grant-specific, sponsorship-specific, or other limited arrangements that do not create continuing membership or governance rights unless expressly provided.
+The Developers retain primary responsibility for technical implementation, coding standards, review norms, release standards, and related technical judgments, except as otherwise provided in Committee-approved policies governing Consortium-Funded Work.
 
-### **3.3 General Rights of Members**
+The Steering Committee may set priorities, budgets, and high-level strategy, but shall not micromanage ordinary technical implementation.
 
-Each Member in Good Standing shall have the right to:
-
-**A.** designate one representative, by whatever internal mechanism it chooses, to participate in Consortium business on its behalf;
-
-**B.** send at least one voting representative to the Annual Meeting of the Consortium;
-
-**C.** vote in the annual election of Member-elected seats on the Board, as provided in this Charter;
-
-**D.** recommend strategic directions, projects, features, educational materials, or other priorities to the Board at any time;
-
-**E.** receive such support, communication channels, pre-release access, recognition, or other programmatic benefits as may be provided in Board-approved policies or agreements.
-
-### **3.4 Additional Rights of Partners**
-
-Partners retain all rights of Members. In addition, reflecting their increased contributions and commitment to the Consortium, the representative of a Partner institution is eligible for election to a Member-elected Board seat.
-
-### **3.5 Nature of Membership Benefits**
-
-Membership provides meaningful influence over Consortium priorities and funding allocations through the governance mechanisms established by this Charter, including the election of Member representatives to the Board.
-
-Membership does not confer:
-
-**A.** ownership of Consortium intellectual property;
-
-**B.** unilateral authority to direct scientific conclusions;
-
-**C.** unilateral authority to compel the Consortium to undertake particular work;
-
-**D.** authority to direct release, publication, or licensing decisions except as expressly provided in this Charter or in Board-approved policy.
-
-The detailed economic and programmatic terms of membership, including contribution amounts, support expectations, and pre-release access terms, may be set forth in separate policies or agreements.
-
-### **3.6 Good Standing**
-
-A Member shall be considered in Good Standing if:
-
-**A.** all membership fees or other required payments due to the Consortium have been paid in full and on time;
-
-**B.** the Member has not materially breached any provision of this Charter or any applicable participation agreement;
-
-**C.** no unresolved finding of violation has been issued against the Member by the Board under any applicable provision of this Charter.
-
-A Member that fails to satisfy condition (A) shall be given written notice by the Director and a grace period of thirty (30) days in which to cure the delinquency before losing Good Standing.
-
-Loss of Good Standing shall result in suspension of membership rights for the duration of the delinquency, except to the extent otherwise required by applicable law or contract.
-
-The Board may, by majority vote, reinstate a Member to Good Standing upon satisfaction of all outstanding obligations.
-
-### **3.7 Voluntary Withdrawal**
-
-A Member may voluntarily withdraw from the Consortium at any time by providing written notice to any Board member or the Director.
-
-Upon withdrawal:
-
-**A.** membership fees already paid shall not be refunded, except as required by applicable law or the terms of any individual participation agreement;
-
-**B.** amounts outstanding at the time of withdrawal remain due and payable;
-
-**C.** membership rights and benefits shall cease upon the effective date of withdrawal, except as otherwise provided by contract;
-
-**D.** any Board seat held by a representative of the withdrawing Partner-level Member shall be treated as a vacancy under Section 4.6;
-
-**E.** pre-release access rights shall terminate upon withdrawal unless otherwise provided by contract;
-
-**F.** withdrawal does not relieve the Member of obligations incurred prior to the effective date of withdrawal.
-
-## **ARTICLE 4\. The Board**
-
-### **4.1 Charge**
-
-The Board is the primary governing body of the Consortium, tasked with ensuring that the Consortium carries out the Mission, remains financially viable, sustains and grows as needed to do so, and resolves major questions of priority, governance, and resource allocation.
-
-The Board shall meet regularly at a self-determined frequency.
-
-Board appointments are strictly unpaid positions, except that the Consortium may support reasonable Board-related administrative or meeting expenses in a manner disclosed to all Consortium participants.
-
-### **4.2 Composition and Terms**
-
-The Board shall consist of six members:
-
-**A.** three elected representatives of Partner-level Members; and  
-**B.** three elected representatives of the Developers.
-
-These seats shall be elected by the Members and Developers, respectively, at or in advance of the Annual Meeting.
-
-Board members serve one-year terms and may be reelected without term limit. No individual may hold more than one Board seat at a time. An individual who is eligible for both a Member-elected and a Developer-elected seat must choose one election to participate in.
-
-If the Consortium consists of fewer than three willing Partner-level Members or fewer than three willing Developers, seats on the Board may remain unfilled.
-
-One member of the Board shall be designated as Chair. The Chair shall be elected by majority vote of the Board at the first meeting following each Annual Meeting and shall serve a one-year term concurrent with their Board term. A Board member may serve as Chair for no more than two consecutive terms.
-
-The Chair shall set agendas, convene and preside over Board meetings, put matters to a vote, and ensure the Board operates in accordance with this Charter. The Chair shall schedule Board meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Board members. The Chair may call meetings _ad hoc_ to handle urgent or emergency business.
-
-With consent of the Board by majority vote, the Chair may appoint additional officers or assistants, which need not be Board members, to assist the Board in carrying out its business.
-
-### **4.3 Powers and Duties of the Board**
-
-The Board has the express charge to carry out the following duties, which shall not be delegated except where explicitly specified elsewhere in this Charter:
-
-**A. Strategic Goals.**  
-Set Strategic Goals for the Consortium. The Board shall integrate input from the Members, Developers, and broader community to set the overall scientific and engineering direction of the Consortium. No less than once a year, the Board shall present the Director with a clear document, in any format, detailing the Strategic Goals for the Consortium. A copy of this document shall be made available to the other Consortium participants.
-
-**B. Budget and Fiduciary Responsibility.**  
-Develop and approve a clear, high-level budget sufficient to realize the Strategic Goals while ensuring the long-term financial health of the Consortium.
-
-**C. Appointment and Oversight of the Director.**  
-Appoint one of the Developers to serve as Director, oversee the Director’s performance, and if deemed necessary remove the Director as provided in this Charter.
-
-**D. Major Allocations and Commitments.**  
-Approve major expenditures, major Consortium-Funded Projects, multi-year financial commitments, and funding arrangements requiring Board approval under Board policy.
-
-**E. Hiring Approval.**  
-Review and approve hiring recommendations made by the Director, unless the Board has delegated such approval in advance for a specified role or spending category.
-
-**F. Membership Framework.**  
-Establish membership categories, participation rights, general benefit structures, and related policies or agreements.
-
-**G. Conflict Resolution and Governance.**  
-Resolve conflicts of interest, disputes among Consortium participants, and other governance matters using the powers vested in the Board by this Charter.
-
-**H. Charter Amendment, Separation, and Dissolution.**  
-Approve amendments to this Charter, initiate or approve dissolution of the Consortium, and act on separation matters as provided elsewhere in this Charter.
-
-**I. Approval of Insider-Connected Allocations.**  
-Approve, under the Conflict of Interest provisions of this Charter, any expenditure or allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director.
-
-**J. Adoption of Policies.**  
-The Board may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to contributions and intellectual property, membership and partnership rights and obligations, and funding and project approval. All Board-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Board-approved policies shall be made available to Members and Developers.
-
-Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Board. To the extent it does not conflict with this Charter, the Board may delegate and revoke authorities to the Director, a Developer, a committee, or any other representative.
-
-### **4.4 Decision Making**
-
-All decisions of the Board shall be made by majority vote, unless this Charter provides otherwise.
-
-Not all Board members need to be present for a vote, but more than half of the sitting Board members must vote in favor of a resolution for it to pass. Therefore a quorum of a majority of sitting Board members must be present for any meeting at which binding resolutions are voted upon and no binding resolution may be passed in the absence of a quorum.
-
-Should a tie take place, the Chair may cast a tie-breaking vote. Should the Chair be recused from a vote due to conflict of interest or other cause, the matter shall be tabled for no more than fourteen (14) days, during which the Board shall seek to resolve the deadlock through deliberation. If no resolution is reached within that period, the matter shall be voted again. If a tie persists, the matter shall fail.
-
-Any Board member may request a deliberation period of up to fourteen (14) days before a vote. During this period, amendments or alternatives may be proposed. If necessary, the Board shall vote again after fourteen (14) days.
-
-All decisions shall be recorded in meeting minutes.
-
-### **4.5 Election of Member Representatives to the Board**
-
-Board members elected by the Members shall be elected through an approval voting process using secret ballots.
-
-Each Member in Good Standing shall cast one ballot through its designated representative.
-
-Only representatives of Partner institutions are eligible to stand for Member-elected Board seats. 
-
-Unless they proactively recuse themselves, all Partner institutions shall be considered for a board seat in the vote.
-
-Each eligible Member shall receive a ballot listing all eligible candidates and may cast a vote in favor of any number of candidates it deems qualified to serve on the Board.
-
-The three candidates receiving the greatest number of approvals shall be declared elected to the Board. In the event of a tie for the final seat, a runoff election shall be held in which each eligible Member casts a single vote. If a tie remains, the sitting Chair of the Board shall cast the tie-breaking vote.
-
-### **4.6 Vacancies**
-
-Should a Board seat become vacant between Annual Meetings due to resignation, removal, loss of eligibility, or any other cause:
-
-**A.** the Chair shall notify all Members and Developers of the vacancy within fourteen (14) days;
-
-**B.** if the vacant seat is a Member-elected seat, the candidate from the most recent Member Board election with the next-highest approval count who is willing and eligible to serve shall be offered the seat; if no such candidate is available, the seat shall remain unfilled until the next Annual Meeting;
-
-**C.** if the vacant seat is a Developer-elected seat, the candidate from the most recent Developer Board election with the next-highest approval count who is willing and eligible to serve shall be offered the seat; if no such candidate is available, the seat shall remain unfilled until the next Annual Meeting;
-
-**D.** any Board member appointed to fill a vacancy serves only for the remainder of the vacated term;
-
-**E.** if vacancies reduce the Board below a quorum, an emergency election shall be held within forty-five (45) days using the procedures specified in this Charter.
-
-### **4.7 Removal of Board Members**
-
-A Board member may be removed before the end of their term by a two-thirds vote of the standing Board members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility.
-
-A Board member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond no shorter than fourteen (14) days, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
-
-## **ARTICLE 5\. The Developers**
-
-### **5.1 Charge**
-
-The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Consortium and execute the Consortium’s Mission. Further, the Developers help guide the strategic direction of the Consortium by holding seats on the Board.
-
-Developers may be personnel paid to work for the Consortium or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Consortium (though they may be, for example as employees or fellows). Developers participate in the Consortium in their individual capacity. A Developer who also serves as a designated representative of a Member under Section 2.2 acts in each role separately.
-
-Developers are expected to be active participants in the business and technical life of the Consortium by writing and reviewing code, producing technical materials, providing input and feedback to the Board, and supporting one another and the broader structural biology community.
-
-### **5.2 Technical Authority**
-
-The Developers retain primary responsibility for technical implementation, coding standards, review norms, release standards, and related technical judgments, except as otherwise provided in Board-approved policies governing Consortium-Funded Work.
-
-The Board may set priorities, budgets, and high-level strategy, but shall not micromanage ordinary technical implementation.
-
-### **5.3 Developer Resolutions**
+### **3.3 Developer Resolutions**
 
 The Developers may adopt written Resolutions on matters within their authority, including coding practices, review standards, testing requirements, documentation norms, tooling, communication, internal organization, community building, and related engineering or operational concerns.
 
@@ -261,144 +68,264 @@ A Resolution shall be adopted by majority vote of participating Developers, prov
 
 Resolutions are non-binding recommendations that document the consensus of the Developers.
 
-However, upon adoption of a Resolution, the Developers may by the same or a subsequent vote recommend that the Board adopt the substance of the Resolution as a binding Board-approved policy under Section 4.3. The Board shall consider any such recommendation in a timely manner but is not obligated to adopt it.
+However, upon adoption of a Resolution, the Developers may by the same or a subsequent vote recommend that the Steering Committee adopt the substance of the Resolution as a binding Committee-approved policy under Section 4.3. The Committee shall consider any such recommendation in a timely manner but is not obligated to adopt it.
 
 Adopted Resolutions and their current status shall be maintained as Consortium records by the Director.
 
-### **5.4 Composition**
+### **3.4 Composition**
 
 Membership in the group of Developers is intended to reflect active contributions to the Consortium.
 
-Composition decisions shall be made by a two-thirds (2/3) vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers is present or participates, following the voting procedure described in Section 5.3.
+Except as otherwise provided in this Section, composition decisions shall be made by a two-thirds (2/3) vote of participating Developers, provided that a quorum of at least two-thirds (2/3) of current Developers is present or participates, following the voting procedure described in Section 3.3.
 
 **A.** New Developers may be added by a 2/3 vote.  
+
 **B.** Developers who are no longer actively contributing or no longer intend to contribute are asked to resign proactively.  
-**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantial contribution to the Consortium may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately.  
-**D.** Existing Developers may be removed from the group of Developers by a 2/3 vote.
 
-A public list of current Developers shall be maintained by the Director and made available to the Developers and Board.
+**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive contribution to the Consortium over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately. Service as a sitting member of the Steering Committee constitutes a substantive contribution for purposes of this Section.  
 
-### **5.5 Developer Elections to the Board**
+**D.** At any time, existing Developers may be removed by a majority vote of the Steering Committee. This may be vetoed by a 2/3 vote of the Developers. Removal under this paragraph shall not take effect with respect to a sitting member of the Steering Committee while that member holds a seat; such a member may be removed only as provided in Section 4.7, or in the case of the Director, Section 5.4.
 
-Board members elected by the Developers shall be elected through an approval voting process using secret ballots.
+A public list of current Developers shall be maintained by the Director and made available to the Developers and the Steering Committee.
 
-At each election, Developers may nominate any of their own to stand for the Board. Self-nominations and multiple nominations are allowed. Nominated candidates shall have the opportunity to decline candidacy.
-
-Each Developer shall receive a ballot listing all eligible candidates and may cast a vote in favor of any number of candidates they deem qualified to serve on the Board.
-
-The three candidates receiving the greatest number of approvals shall be declared elected to the Board. In the event of a tie for the final seat, a runoff election shall be held in which each Developer casts a single vote. If a tie remains, the Chair of the Board shall cast the tie-breaking vote, unless recused, in which case the tied seat shall remain vacant until a further runoff can be conducted.
-
-### **5.6 Dissolution Right of the Developers**
+### **3.5 Dissolution Right of the Developers**
 
 The Developers retain the right to dissolve the Consortium and nullify this Charter.
 
-If at any time two-thirds (2/3) or more of all sitting Developers vote in favor of dissolution, the Board must make arrangements for the cessation of operations in accordance with Article 11\.
+If at any time two-thirds (2/3) or more of all sitting Developers vote in favor of dissolution, the Steering Committee must make arrangements for the cessation of operations in accordance with Article 10.
 
-### **5.7 Resources of the Developers**
+### **3.6 Resources of the Developers**
 
-It is explicitly recognized that the Consortium may make resources available to the Developers to empower them to execute their role within the Consortium. The Board may therefore allocate budget for software services, travel, compute, collaboration tools, and other material resources that Developers will be eligible to use.
+It is explicitly recognized that the Consortium may make resources available to the Developers to empower them to execute their role within the Consortium. The Steering Committee may therefore allocate budget for software services, travel, compute, collaboration tools, and other material resources that Developers will be eligible to use.
 
-To the extent it does not conflict with this Charter, the policies of the Operating Legal Entity, or applicable law, resources distributed by the Consortium to the Developers shall be made in an equitable fashion. The Board shall be responsible for ensuring no prejudice is made with respect to distribution of resources and for arbitrating any relevant disputes.
+To the extent it does not conflict with this Charter, the policies of the Operating Legal Entity, or applicable law, resources distributed by the Consortium to the Developers shall be made in an equitable fashion. The Steering Committee shall be responsible for ensuring no prejudice is made with respect to distribution of resources and for arbitrating any relevant disputes.
 
-## **ARTICLE 6\. The Director**
+## **ARTICLE 4. The Steering Committee**
 
-### **6.1 Charge**
+### **4.1 Charge**
 
-The Director is tasked by the Board with the day-to-day operations of the Consortium. The Director’s primary responsibility is to ensure that resources allocated by the Board are used to effect the Strategic Goals set by the Board.
+The Steering Committee is the governing body of the Consortium, tasked with ensuring that the Consortium carries out the Mission, remains financially viable, sustains and grows as needed to do so, and resolves major questions of priority, governance, and resource allocation.
 
-The role of the Director is intentionally broad. The Director is expected to act autonomously and efficiently within the authority delegated by the Board, and to be accountable for the consequences of decisions made.
+The Steering Committee's authority is delegated to it by the Operating Legal Entity, whose governing body retains ultimate legal authority and fiduciary responsibility as provided in Article 9 and in any sponsorship or hosting agreement then in effect. In accepting this delegation, the Steering Committee and its members may be required to assume responsibilities to the Operating Legal Entity in the exercise of that authority as specified by any sponsorship or hosting agreement then in effect.
 
-### **6.2 Duties, Powers, and Responsibilities**
+The Steering Committee is responsible for raising and dispensing the funds and resources necessary to sustain the Consortium.
 
-Under the direction of the Board, the Director may:
+The Steering Committee shall meet regularly at a self-determined frequency.
 
-**A.** oversee the distribution of project funding within a Board-approved budget;
+Service on the Steering Committee is unpaid, except that (i) the Consortium may support reasonable Committee-related administrative or meeting expenses in a manner disclosed to all Consortium participants, and (ii) an individual who is compensated for another role in the Consortium, such as the Director or engineering staff, does not forfeit that compensation by serving on the Committee.
+
+### **4.2 Composition and Terms**
+
+The Steering Committee shall consist of:
+
+**A.** up to six (6) Developers elected by the Developers; and  
+
+**B.** the Director, who serves as a voting member *ex officio*.
+
+The six elected seats are divided into two classes of three seats each, the even seats and the odd seats. The two classes stand for election in alternation, so that the seats of one class are filled at each Annual Meeting through the election procedure set out in Section 4.5. The even seats are so designated because they are ordinarily filled at Annual Meetings falling in even-numbered calendar years, and the odd seats at Annual Meetings falling in odd-numbered calendar years; where the timing of Annual Meetings departs from that pattern, the alternation of the two classes governs.
+
+The term of an elected seat runs from the Annual Meeting at which it is filled until the second Annual Meeting thereafter, at which that seat next stands for election. Elected members may be reelected without term limit. No individual may hold more than one seat on the Committee at a time. Each seat carries its own class and term, and a member who fills a seat serves the term of that seat.
+
+If fewer willing and eligible Developers stand for election than there are seats to be filled, or fewer clear the threshold set in Section 4.5, seats may remain unfilled until the next Annual Meeting.
+
+The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand for election to the six elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
+
+The Director shall serve as the presiding officer of the Steering Committee. The Director shall set agendas, convene and preside over Committee meetings, put matters to a vote, and ensure the Committee operates in accordance with this Charter. The Director shall schedule Committee meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Committee members. The Director may call Steering Committee meetings *ad hoc* to handle urgent or emergency business. 
+
+With consent of the Committee by majority vote, the Director may appoint additional officers or assistants, which need not be Committee members, to assist the Committee in carrying out its business.
+
+### **4.3 Powers and Duties of the Steering Committee**
+
+The Steering Committee has the express charge to carry out the following duties, which shall not be delegated except where explicitly specified elsewhere in this Charter:
+
+**A. Strategic Goals.**  
+
+Set Strategic Goals for the Consortium. The Committee shall integrate input from the Developers and the broader community to set the overall scientific and engineering direction of the Consortium. No less than once a year, the Committee shall produce a clear document, in any format, detailing the Strategic Goals for the Consortium.
+
+Before adopting the Strategic Goals, the Committee shall circulate a draft to all Developers and provide a comment period of no less than fourteen (14) days, during which any Developer may submit written comments to the Committee. The Committee shall consider the comments received before adopting the Strategic Goals, but is not bound by them. A copy of the adopted document shall be made available to the other Consortium participants.
+
+**B. Fundraising, Budget, and Fiduciary Responsibility.**  
+
+Raise funds from industry partners, grants, philanthropy, and other sources; develop and approve a clear, high-level budget; and distribute Consortium funds so as to realize the Strategic Goals while ensuring the long-term financial health of the Consortium.
+
+**C. Appointment and Oversight of the Director.**  
+
+Nominate one of its elected members to serve as Director for ratification by the Developers, oversee the Director’s performance, and if deemed necessary remove the Director as provided in this Charter.
+
+**D. Hiring Approval.**  
+
+Review and approve hiring recommendations made by the Director, unless the Committee has delegated such approval in advance for a specified role or spending category.
+
+**E. Conflict Resolution and Governance.**  
+
+Resolve conflicts of interest, disputes among Consortium participants, and other governance matters using the powers vested in the Committee by this Charter.
+
+**F. Charter Amendment, Separation, and Dissolution.**  
+
+Approve amendments to this Charter, initiate or approve dissolution of the Consortium, and act on separation matters as provided elsewhere in this Charter.
+
+**G. Approval of Insider-Connected Allocations.**  
+
+Approve, under the Conflict of Interest provisions of this Charter, any expenditure or allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Committee member or the Director.
+
+**H. Adoption of Policies.**  
+
+The Committee may adopt, amend, and repeal written policies to direct the work of the Consortium on any matter within its authority, including but not limited to contributions and intellectual property, funding and sponsorship arrangements, and project approval. All Committee-approved policies must be consistent with this Charter; in the event of conflict, this Charter controls. All Committee-approved policies shall be made available to the Developers.
+
+Beyond these duties, all authorities not otherwise specified in this Charter are the prerogative of the Committee. To the extent it does not conflict with this Charter, the Committee may delegate and revoke authorities to the Director, a Developer, a subcommittee, or any other representative.
+
+### **4.4 Decision Making**
+
+All decisions of the Steering Committee shall be made by majority vote, unless this Charter provides otherwise.
+
+Not all Committee members need to be present for a vote, but more than half of the sitting Committee members must vote in favor of a resolution for it to pass. Therefore a quorum of a majority of sitting Committee members must be present for any meeting at which binding resolutions are voted upon and no binding resolution may be passed in the absence of a quorum.
+
+Should a tie take place, the Director may cast a tie-breaking vote. Should the Director be recused from a vote due to conflict of interest or other cause, the matter shall be tabled for no more than fourteen (14) days, during which the Committee shall seek to resolve the deadlock through deliberation. If no resolution is reached within that period, the matter shall be voted again. If a tie persists, the matter shall fail.
+
+Any Committee member may request a deliberation period of up to fourteen (14) days before a vote. During this period, amendments or alternatives may be proposed. If necessary, the Committee shall vote again after fourteen (14) days.
+
+All decisions shall be recorded in meeting minutes.
+
+### **4.5 Election of the Steering Committee**
+
+The seats of the class then standing for election, together with any other elected seats then vacant, shall be filled at each Annual Meeting through an approval voting process using secret ballots. The Director shall run the vote.
+
+Any Developer in good standing may stand for election by advancing their own name as a candidate. A Developer in good standing may also be nominated by another Developer; such a nomination is an invitation only, and the nominee becomes a candidate only upon their acceptance. Nominations shall be made in confidence to the Director, and a nomination that is declined shall not be disclosed beyond the Director, the nominee, and the nominator. For purposes of this Section, a Developer in good standing is a current Developer on the list maintained under Section 3.4.
+
+In advance of the vote, the Director shall provide to the Developers a brief report on the contributions of each Developer standing for election over the preceding twelve (12) months, including, where applicable, code contributions, meeting attendance, funds raised, and other service to the Consortium. This report is informational and shall report concrete facts only, not the Director’s opinion or assessment of the Developers as fit candidates. The information is intended to help the Developers assess each candidate's engagement alone.
+
+Each Developer shall receive a ballot listing all candidates and for each, may cast a vote in favor or against each individually, or abstain. Ballots shall be cast in secret. The final anonymized results shall be made public to all Developers.
+
+A candidate is elected if they are approved by more than fifty percent (50%) of the Developers casting ballots. If more candidates clear this threshold than there are seats to be filled, the candidates receiving the greatest number of approvals shall be elected. Where seats with differing remaining terms are to be filled at the same Annual Meeting, the candidates receiving the greatest number of approvals shall take the seats with the longest remaining terms. Fewer candidates may be elected than there are seats to be filled if fewer clear the fifty percent (50%) threshold, in which case the remaining seats shall stay unfilled until the next election or until filled under Section 4.6.
+
+In the event of a tie for the final seat, a runoff election shall be held in which each Developer casts a single vote. If a tie remains, the Director shall cast the tie-breaking vote, unless recused, in which case the tied seat shall remain vacant until a further runoff can be conducted.
+
+### **4.6 Vacancies**
+
+Should an elected seat on the Steering Committee become vacant between Annual Meetings due to resignation, removal, loss of eligibility, ratification as Director, or any other cause:
+
+**A.** the Director shall notify all Developers of the vacancy within fourteen (14) days;
+
+**B.** the eligible Developer from the most recent Committee election with the next-highest approval count who cleared the fifty percent (50%) threshold and is willing to serve shall be offered the seat; if no such candidate is available, the seat shall remain unfilled until the next Annual Meeting;
+
+**C.** any member appointed to fill a vacancy serves only for the remainder of the vacated term;
+
+**D.** if the Director's seat becomes vacant, it shall be filled as provided in Article 5;
+
+**E.** if vacancies reduce the number of elected Committee members below three (3), an emergency election shall be held within forty-five (45) days using the procedures specified in this Charter; each seat so filled shall be filled only for the remainder of that seat's term, so that the alternation of classes is preserved.
+
+### **4.7 Removal of Committee Members**
+
+An elected Steering Committee member may be removed before the end of their term by a majority vote of the standing Committee members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility. The Committee Member in question shall not be eligible to vote in this matter. Removal under this Section, or under Section 5.4 in the case of the Director, is the exclusive means by which a sitting Committee member may be involuntarily removed from the Committee before the end of their term.
+
+A Committee member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond no shorter than fourteen (14) days, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
+
+Removal of the Director is governed by Article 5.
+
+## **ARTICLE 5. The Director**
+
+### **5.1 Charge**
+
+The Director is tasked by the Steering Committee with the day-to-day operations of the Consortium. The Director’s primary responsibility is to ensure that resources allocated by the Committee are used to effect the Strategic Goals set by the Committee. The Director serves as a voting member and the presiding officer of the Steering Committee.
+
+The role of the Director is intentionally broad. The Director is expected to act autonomously and efficiently within the authority delegated by the Committee, and to be accountable for the consequences of decisions made.
+
+### **5.2 Duties, Powers, and Responsibilities**
+
+Under the direction of the Steering Committee, the Director may:
+
+**A.** oversee the distribution of project funding within a Committee-approved budget;
 
 **B.** supervise Consortium-Funded Projects and Consortium personnel;
 
-**C.** recommend hiring, contracting, project initiation, and budget adjustments to the Board;
+**C.** recommend hiring, contracting, project initiation, and budget adjustments to the Committee;
 
-**D.** support Members in understanding, using, deploying, and maintaining Consortium code and related outputs, consistent with Board-approved policies and the Strategic Goals;
+**D.** support users, collaborators, and funders of the Consortium in understanding, using, deploying, and maintaining Consortium code and related outputs, consistent with Committee-approved policies and the Strategic Goals;
 
-**E.** recommend that requests, support needs, or feature proposals originating from Members, Developers, or other participants be elevated to the Board for consideration as Consortium-Funded Projects or budget items;
+**E.** recommend that requests, support needs, or feature proposals originating from Developers or other participants be elevated to the Committee for consideration as Consortium-Funded Projects or budget items;
 
-**F.** maintain records required under this Charter;
+**F.** cultivate relationships with prospective funders and support the fundraising efforts of the Committee;
 
-**G.** attend Board meetings as an observer and advisor.
+**G.** maintain records required under this Charter.
 
-The Director shall not hold a Board seat.
+In cases where funded personnel may be in research groups or institutions with other connections to the project, particular attention must be paid to the Conflict of Interest policy in Article 8.
 
-In cases where funded personnel may be in research groups or institutions with other connections to the project, particular attention must be paid to the Conflict of Interest policy in Article 9\.
+### **5.3 Nomination, Ratification, and Term**
 
-### **6.3 Appointment and Term**
+The Director shall be nominated by majority vote of the Steering Committee from among its own members and shall take office upon ratification by a two-thirds (2/3) vote of the Developers, conducted under the voting procedure of Section 3.3. A nominee may be either an elected member of the Committee or the sitting Director, subject to the two-appointment limit detailed below.
 
-The Director shall be selected by the Board from the current Developers and appointed by majority vote of the Board.
+The Director’s term shall be three (3) years. Any single individual shall be limited to two (2) appointments as Director. Any period of service lasting more than twelve (12) consecutive months shall count as one full appointment; service of twelve months or fewer when filling a vacancy on an interim basis shall not count against this limit.
 
-The Director’s term shall be three (3) years. Any single individual shall be limited to two (2) appointments as Director. Any period of service lasting more than six (6) consecutive months shall count as one full appointment; service of six months or fewer when filling a vacancy on an interim basis shall not count against this limit.
+So that selection of the Director is staggered from the annual elections to the Committee's elected seats, the succession of the Director shall be timed as follows. At the Annual Meeting falling before the end of a sitting Director's term, the Steering Committee shall set a date for the nomination and ratification of the next Director. That date shall fall between three (3) and nine (9) months after that Annual Meeting.
 
-The Director shall assume duties immediately upon appointment or on such later date as the Board specifies.
+Where a person other than the incumbent is ratified as Director, the incoming Director shall vacate their elected seat and assume the Director's seat. To preserve continuity, the outgoing Director shall, unless they resign or decline, fill the elected seat so vacated and serve out the remainder of its term as an ordinary member of the Steering Committee. If no outgoing Director is available or willing to fill that seat, it shall be treated as a vacancy under Section 4.6. Where a sitting Director is re-nominated and ratified, they continue in the Director's seat and no seat changes result.
 
-### **6.4 Removal and Vacancy**
+The Director shall assume duties immediately upon ratification or on such later date as the Committee specifies.
 
-The Director may be removed at any time by majority vote of the Board.
+### **5.4 Removal and Vacancy**
 
-In cases of alleged financial misconduct, breach of the conflict-of-interest policy, or other serious violations, removal may be effective immediately. In all other cases, the Board should ordinarily provide the Director with written notice at least thirty (30) days' prior to the effective date of removal.
+The Director may be removed at any time by majority vote of the Steering Committee, with the Director recused. Cause must be given by the Committee and communicated to the Developers.
+
+In cases of alleged financial misconduct, breach of the conflict-of-interest policy, or other serious violations, removal may be effective immediately. In all other cases, the Committee should ordinarily provide the Director with written notice at least thirty (30) days' prior to the effective date of removal.
 
 The Director may also resign at any time.
 
-If the Director seat is unfilled, the Chair of the Board shall assume the duties of the Director on an interim basis until a replacement is appointed.
+If the Director's seat is vacant, the Steering Committee shall designate one of its elected members to serve as acting Director and presiding officer on an interim basis. Notwithstanding the staggered timing in Section 5.3, the Committee shall nominate a new Director for ratification by the Developers as promptly as practicable, and a newly ratified Director begins a fresh three-year term.
 
-## **ARTICLE 7\. Annual Meeting**
+## **ARTICLE 6. Annual Meeting**
 
-No less than once per calendar year, the Board shall convene an Annual Meeting of the Consortium, open to the representatives of all Members and to all Developers.
+No less than once per calendar year, the Steering Committee shall convene an Annual Meeting of the Consortium, open to all Developers.
 
-The Annual Meeting shall serve as the primary forum for the Director and the Board to present the Strategic Goals and budget for the coming year, report on progress against prior goals, review the list of Developers, and receive recommendations from Members and Developers.
+The Annual Meeting shall serve as the primary forum for the Director and the Committee to present the Strategic Goals and budget for the coming year, report on progress against prior goals and on fundraising, review the list of Developers, and receive recommendations from the Developers.
 
-Board elections for both the Member-elected seats and the Developer-elected seats shall be conducted in conjunction with the Annual Meeting such that newly elected Board members are seated no later than the close of the Annual Meeting.
+Elections for the Steering Committee seats then standing for election shall be conducted in conjunction with the Annual Meeting such that newly elected members are seated no later than the close of the Annual Meeting.
 
-The Board shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Members and Developers, including a proposed agenda.
+The Committee shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Developers, including a proposed agenda.
 
-Additional attendees, such as non-voting representatives of Member institutions, scientific advisors, or other guests, may be invited by the Board to attend when doing so furthers the Consortium's business.
+Additional attendees, such as scientific advisors, prospective funders, or other guests, may be invited by the Committee to attend when doing so furthers the Consortium's business.
 
 The Annual Meeting must be held in a virtual or hybrid (in-person and virtual) format, providing the possibility to participate for Consortium participants around the world.
 
-## **ARTICLE 8\. Consortium-Funded Work, Open Release, and Publication**
+## **ARTICLE 7. Consortium-Funded Work, Open Release, and Publication**
 
-### **8.1 Definitions**
+### **7.1 Definitions**
 
 For purposes of this Charter:
 
 **A. Consortium-Funded Work** means software, documentation, datasets, benchmarks, infrastructure, or related outputs materially supported through funds, personnel, or resources administered by the Consortium or the Operating Legal Entity.
 
-**B. Consortium-Funded Project** means an organized effort, initiative, or workstream approved by the Board for material support by the Consortium, whether through funding, personnel, or other administered resources.
+**B. Consortium-Funded Project** means an organized effort, initiative, or workstream approved by the Steering Committee for material support by the Consortium, whether through funding, personnel, or other administered resources.
 
-**C. External Work** means work contributed independently outside Consortium support, including work created by Developers, contributors, collaborators, Members, or other participants acting outside such support.
+**C. External Work** means work contributed independently outside Consortium support, including work created by Developers, contributors, collaborators, funders, or other participants acting outside such support.
 
-**D. Release** means making Consortium-Funded Work generally available to the public without access restriction, whether through publication of a source code repository, distribution of packaged or compiled artifacts, or equivalent means. Pre-release access provided to Members under Board-approved policy does not constitute Release.
+**D. Release** means making Consortium-Funded Work generally available to the public without access restriction, whether through publication of a source code repository, distribution of packaged or compiled artifacts, or equivalent means. Pre-release access provided to funders or other participants under Committee-approved policy does not constitute Release.
 
 Except as otherwise provided in this Charter or in agreed project-specific terms, the Consortium does not claim governance authority over purely External Work contributed outside Consortium support.
 
-### **8.2 Open Release Principle**
+### **7.2 Open Release Principle**
 
-Software conceived or first actually reduced to practice as Consortium-Funded Work shall be released under an Open Source Initiative approved permissive license with commercial terms no more restrictive than Apache 2.0, unless the Board approves another permissive license materially consistent with the Mission.
+Software conceived or first actually reduced to practice as Consortium-Funded Work shall be released under an Open Source Initiative approved permissive license with commercial terms no more restrictive than Apache 2.0, unless the Steering Committee approves another permissive license materially consistent with the Mission.
 
-Data, documentation, and related non-software outputs generated as Consortium-Funded Work may be shared under an appropriate permissive public license as determined by the Board.
+Data, documentation, and related non-software outputs generated as Consortium-Funded Work may be shared under an appropriate permissive public license as determined by the Steering Committee.
 
-### **8.3 Project Status and Adoption Policy**
+### **7.3 Project Status and Adoption Policy**
 
 The Consortium shall maintain a Project Adoption Policy that defines the categories of project status the Consortium recognizes, the criteria a project must meet to attain or retain each status, and the path by which a project may seek that status.
 
-The Project Adoption Policy shall be drafted and ratified by the Developers under Section 5.3 by a two-thirds (2/3) vote, and shall take effect upon majority approval by the Board. Amendments to the Policy shall follow the same procedure.
+The Project Adoption Policy shall be drafted and ratified by the Developers under Section 3.3 by a two-thirds (2/3) vote, and shall take effect upon majority approval by the Steering Committee. Amendments to the Policy shall follow the same procedure.
 
 The Project Adoption Policy shall not modify rights, obligations, or processes established elsewhere in this Charter.
 
-### **8.4 Release Policy**
+### **7.4 Release Policy**
 
 While public release of completed projects is the ultimate aim of the Consortium, Consortium-Funded Work may be held in private repositories for a period prior to public release. The intent of such limited private development is to:
 
 **A.** protect the ability of Consortium researchers to publish their findings without being scooped;  
+
 **B.** ensure that publicly released code meets a minimum standard of quality and documentation;  
-**C.** permit Members to receive pre-release access as allowed by Board-approved policy; and
+
+**C.** permit external funders or other participants to receive pre-release access as allowed by Committee-approved policy; and
+
 **D.** should it be necessary, protect the security and privacy of Developers, other Consortium participants, or the broader public.
 
 Further, not all Consortium-Funded work need be publicaly released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
@@ -407,34 +334,43 @@ In general, however, Developers shall be free to autonomously decide on if and w
 
 However, should either:
 
-**i.** an irreconcilable disagreement regarding release arises amongst Developers involved in a project, and this disagreement is brought to the attention of the Director or Board by any Developer; or  
-**ii.** the Board determines that it is in the vital interests of the Consortium,
+**i.** an irreconcilable disagreement regarding release arises amongst Developers involved in a project, and this disagreement is brought to the attention of the Director or the Steering Committee by any Developer; or  
 
-the Board may, by majority vote, compel either release or non-release of Consortium-Funded Work.
+**ii.** the Steering Committee determines that it is in the vital interests of the Consortium,
 
-The details, timeline, and rationale for this intervention must be recorded in writing and made available to all Developers, regardless of whether they were involved in the project or not. By a Section 5.3 two-thirds (2/3) majority, issued in response after no more than fourteen (14) days have passed since the decision was communicated, the Developers may choose to veto this rationale. The Board must then draft another resolution and re-submit it to the Developers.
+the Committee may, by majority vote, compel either release or non-release of Consortium-Funded Work.
 
-### **8.5 Research Freedom and Publication Rights**
+The details, timeline, and rationale for this intervention must be recorded in writing and made available to all Developers, regardless of whether they were involved in the project or not. By a Section 3.3 two-thirds (2/3) majority, issued in response after no more than fourteen (14) days have passed since the decision was communicated, the Developers may choose to veto this rationale. The Committee must then draft another resolution and re-submit it to the Developers.
+
+### **7.5 Research Freedom and Publication Rights**
 
 The right of any Consortium participant to own, publish, or otherwise pursue their own work, activities, and research directions, and any rights of ownership or freedom of any Consortium participant who is not a contractual employee or contractor of the Consortium or the Operating Legal Entity, shall not be restricted or abridged in any way by participation in the Consortium.
 
 The rights and obligations of contractual employees and contractors shall be stipulated in their respective contracts and by applicable law and policy.
 
-No Member, Partner, or other funder shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
+No funder, sponsor, or other external supporter shall have authority, by virtue of funding alone, to determine scientific conclusions, compel specific scientific findings, or require authors or Developers to misstate technical or scientific results.
 
-## **ARTICLE 9\. Conflicts of Interest**
+### **7.6 Ownership and Stewardship of Intellectual Property**
 
-### **9.1 Purpose**
+Legal title to the intellectual property comprising Consortium-Funded Work vests in the Operating Legal Entity, which holds it in trust for the charitable purposes of the Consortium and the advancement of the Mission, consistent with any sponsorship or hosting agreement then in effect. This custodial ownership does not diminish the Open Release Principle of Section 7.2: Consortium-Funded Work that has been Released remains available to the public under its Open Source Initiative approved license, which the Operating Legal Entity shall not revoke.
+
+Contributions to Consortium-Funded Work by participants who are not employees or contractors of the Consortium or the Operating Legal Entity are licensed to the Operating Legal Entity under the applicable Open Source Initiative approved license rather than assigned, and such participants retain ownership of their contributions as provided in Section 7.5. Intellectual property developed independently of Consortium support is External Work and remains the property of its creators.
+
+Consortium personnel are responsible for ensuring that the Operating Legal Entity obtains the licenses or permissions necessary to use any third-party intellectual property employed in Consortium activities.
+
+## **ARTICLE 8. Conflicts of Interest**
+
+### **8.1 Purpose**
 
 The Consortium requires that its participants act in the best interest of the Consortium and its Mission, and not in pursuit of improper personal, institutional, or financial gain.
 
 This policy establishes standards to identify, disclose, and manage conflicts of interest (“COI”) that may arise in the course of Consortium business. The COI policy of the Operating Legal Entity shall apply in addition to and supersede this policy where the two conflict.
 
-### **9.2 Scope**
+### **8.2 Scope**
 
-This policy applies to all Board members, the Director, and any Developer or Member representative participating in a decision or vote on behalf of the Consortium.
+This policy applies to all Steering Committee members, the Director, and any Developer participating in a decision or vote on behalf of the Consortium.
 
-### **9.3 Definition**
+### **8.3 Definition**
 
 A conflict of interest arises when a covered individual’s personal, financial, institutional, or closely related professional interests could improperly influence, or could reasonably be perceived to improperly influence, a decision made on behalf of the Consortium.
 
@@ -446,120 +382,140 @@ Conflicts of interest include, but are not limited to:
 
 **C.** participating in a decision that may materially affect one’s own compensation, appointment, or funded work through the Consortium.
 
-### **9.4 Disclosure and Recusal**
+### **8.4 Disclosure and Recusal**
 
 Covered individuals shall disclose relevant conflicts promptly.
 
 A person with a conflict shall not vote on the relevant matter and shall withdraw from deliberation to the extent appropriate, except to provide factual information when requested.
 
-Recused Board members are excluded from both quorum and vote count for the matter, and a majority shall be determined from the remaining Board members.
+Recused Committee members are excluded from both quorum and vote count for the matter, and a majority shall be determined from the remaining Committee members.
 
-If all Board members would be subject to recusal, the matter shall be voted on by the full Board, but shall not be adopted until approved by a designated representative of the Operating Legal Entity, who confirms that the decision is consistent with its policies.
+If all Committee members would be subject to recusal, the matter shall be voted on by the full Committee, but shall not be adopted until approved by a designated representative of the Operating Legal Entity, who confirms that the decision is consistent with its policies.
 
-### **9.5 Insider-Connected Funding Decisions**
+### **8.5 Insider-Connected Funding Decisions**
 
-Any expenditure, grant, fellowship, contract, or other allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Board member or the Director shall require explicit Board approval with the conflicted individual recused.
+Any expenditure, grant, fellowship, contract, or other allocation materially benefiting the institution, laboratory, research group, or closely related project of a sitting Committee member or the Director shall require explicit Committee approval with the conflicted individual recused.
 
-The Board may require reasonable reporting, certification, or progress documentation for such allocations.
+The Committee may require reasonable reporting, certification, or progress documentation for such allocations.
 
-### **9.6 Enforcement**
+### **8.6 Enforcement**
 
-The Board is responsible for determining whether a conflict of interest has arisen and for taking appropriate action.
+The Steering Committee is responsible for determining whether a conflict of interest has arisen and for taking appropriate action.
 
-If a Board member is found to have participated in a decision in violation of this policy, the Board may void the relevant decision and rehear the matter with the conflicted party recused.
+If a Committee member is found to have participated in a decision in violation of this policy, the Committee may void the relevant decision and rehear the matter with the conflicted party recused.
 
-The Board may impose additional remedies, including removal from the Board under this Charter.
+The Committee may impose additional remedies, including removal from the Committee under this Charter.
 
-If the Director is found to have violated this policy, the Board may treat the violation as grounds for removal.
+If the Director is found to have violated this policy, the Committee may treat the violation as grounds for removal.
 
-## **ARTICLE 10\. The Operating Legal Entity**
+## **ARTICLE 9. The Operating Legal Entity**
 
-### **10.1 Role of the Operating Legal Entity**
+### **9.1 Role of the Operating Legal Entity**
 
 The Consortium shall be a constituent project of an Operating Legal Entity that provides the legal and administrative framework for matters, financial or otherwise, pertaining to the Consortium.
 
 While RSS is a constituent project of the Operating Legal Entity, the following shall apply:
 
 **A.** the Operating Legal Entity shall provide administrative and financial management for the Consortium;  
-**B.** the Operating Legal Entity shall be the legal entity of record in contractual agreements entered into on behalf of the Consortium;  
-**C.** the Operating Legal Entity may receive and administer funds, employ or contract personnel, disburse funds consistent with Board direction and applicable agreements, administer fellowships or similar arrangements where permitted, and perform other legal and financial functions on behalf of the Consortium;  
-**D.** the Operating Legal Entity may propose direct administrative costs to the Board for approval;  
-**E.** the Operating Legal Entity retains whatever legal authorities, fiduciary obligations, and compliance responsibilities are imposed on it by law and by its own governing documents.
 
-### **10.2 Hierarchy**
+**B.** the Operating Legal Entity shall be the legal entity of record in contractual agreements entered into on behalf of the Consortium;  
+
+**C.** the Operating Legal Entity may receive and administer funds, employ or contract personnel, disburse funds consistent with Steering Committee direction and applicable agreements, administer fellowships or similar arrangements where permitted, and perform other legal and financial functions on behalf of the Consortium;  
+
+**D.** the Operating Legal Entity may charge administrative fees and pass through associated costs as set by any sponsorship or hosting agreement then in effect and may propose any additional direct administrative costs to the Steering Committee for approval;  
+
+**E.** the Operating Legal Entity retains whatever legal authorities, fiduciary obligations, and compliance responsibilities are imposed on it by law and by its own governing documents;
+
+**F.** the relationship between the Operating Legal Entity and the Consortium shall be specified in a sponsorship or hosting agreement that further details the obligations of the Consortium to the Operating Legal Entity and _vice versa_. The Operating Legal Entity holds the funds raised for the Consortium; the Steering Committee's authority to direct their use is exercised within the available balance and otherwise subject to that agreement.
+
+### **9.2 Hierarchy**
 
 In the event of conflict, the following shall control in descending order:
 
 **A.** applicable law;  
+
 **B.** the governing documents and binding policies of the Operating Legal Entity;  
+
 **C.** any hosted-project, fiscal sponsorship, grant, or contractual arrangements binding on the Consortium;  
+
 **D.** this Charter;  
-**E.** Board-approved policies and procedures;  
+
+**E.** Steering Committee-approved policies and procedures;  
+
 **F.** other Consortium practices or informal understandings.
 
-## **ARTICLE 11\. Separation and Dissolution**
+## **ARTICLE 10. Separation and Dissolution**
 
-### **11.1 Separation**
+### **10.1 Separation**
 
 Separation from the Operating Legal Entity may be triggered either:
 
-**A.** upon a unanimous vote of the Board; or  
+**A.** upon a unanimous vote of the Steering Committee; or  
+
 **B.** upon a valid directive from the governing body of the Operating Legal Entity.
 
-Following a separation trigger, the Board shall have ninety (90) days to establish a relationship with a new suitable Operating Legal Entity and arrange a mutually agreeable transfer arrangement among the old Operating Legal Entity, the new Operating Legal Entity, and the Board. Such an agreement shall take legal precedence over this Charter to the extent necessary to effect the transfer.
+Following a separation trigger, the Steering Committee shall seek to establish a relationship with a new suitable Operating Legal Entity and to arrange a mutually agreeable transfer among the outgoing Operating Legal Entity, the new Operating Legal Entity, and the Committee. The transfer shall be completed within the notice and transition period set by the sponsorship or hosting agreement then in effect, including any extension agreed under it; the new Operating Legal Entity must meet that agreement's requirements for a successor, and the outgoing Operating Legal Entity's approval of a qualifying successor or of a reasonable extension shall not be unreasonably withheld. Such a transfer agreement shall take legal precedence over this Charter to the extent necessary to effect the transfer.
 
-Should such a transfer agreement fail to be reached within the ninety (90) day period, the Consortium shall enter dissolution.
+Should no qualifying successor be secured within that period and any agreed extension, remaining Consortium assets and liabilities shall be disposed of as provided in that agreement and applicable law, and the Consortium shall enter dissolution under Section 10.2.
 
-### **11.2 Dissolution**
+### **10.2 Dissolution**
 
 Dissolution of the Consortium may be initiated in one of the following ways:
 
 **A.** a two-thirds (2/3) vote of all current Developers in favor of dissolution;  
-**B.** a unanimous vote of the full Board in favor of dissolution;  
+
+**B.** a unanimous vote of the full Steering Committee in favor of dissolution;  
+
 **C.** separation from the Operating Legal Entity with failure to transfer to a new Operating Legal Entity as provided above.
 
-Upon a valid dissolution trigger, the Board shall notify all Members, Developers, and any other parties with contractual relationships with the Consortium within ten (10) calendar days.
+Upon a valid dissolution trigger, the Steering Committee shall notify all Developers, funders, and any other parties with contractual relationships with the Consortium within ten (10) calendar days.
 
 The Consortium shall continue operations in a wind-down capacity for no more than ninety (90) calendar days, during which:
 
 **A.** no new multi-year financial commitments shall be made;  
+
 **B.** the Director shall work to fulfill or responsibly terminate outstanding obligations;  
-**C.** Members shall not be entitled to refunds of amounts already paid except as required by law or contract;  
-**D.** new memberships shall not be accepted.
+
+**C.** new funding shall not be solicited except as required to effect an orderly wind-down.
 
 After the wind-down period, remaining assets shall be disposed of as follows:
 
 **i.** outstanding liabilities shall be satisfied first;  
-**ii.** remaining financial assets shall be transferred to the then-current Operating Legal Entity, to be held and administered consistent with that entity’s charitable or nonprofit purposes, or, if no Operating Legal Entity relationship is then in effect, to a nonprofit organization selected by majority vote of the Board whose mission is broadly consistent with open-source scientific software development.
+
+**ii.** remaining financial assets shall be transferred to the then-current Operating Legal Entity, to be held and administered consistent with that entity’s charitable or nonprofit purposes, or, if no Operating Legal Entity relationship is then in effect, to a nonprofit organization selected by majority vote of the Steering Committee whose mission is broadly consistent with open-source scientific software development.
 
 Ownership and stewardship of remaining Consortium intellectual property shall be handled in a manner consistent with the governing agreements then in effect and the Mission of the Consortium.
 
-## **ARTICLE 12\. Books and Records**
+## **ARTICLE 11. Books and Records**
 
-On behalf of the funded Consortium, the Operating Legal Entity shall keep complete books and records of account and minutes of the proceedings of the Board, together with such other records as are required by law, policy, or good governance.
+On behalf of the funded Consortium, the Operating Legal Entity shall keep complete books and records of account and minutes of the proceedings of the Steering Committee, together with such other records as are required by law, policy, or good governance.
 
-The Consortium shall maintain a public or participant-accessible record of current Board members, current Developers, the current version of this Charter, and a version history of prior Charter amendments.
+The Consortium shall maintain a public or participant-accessible record of current Steering Committee members, current Developers, the current version of this Charter, and a version history of prior Charter amendments.
 
-## **ARTICLE 13\. Amendment of Charter**
+The Director shall notify the Operating Legal Entity promptly of changes in the composition of the Steering Committee, so that the Operating Legal Entity may meet its obligations under any sponsorship or hosting agreement then in effect. Where that agreement so requires, incoming Steering Committee members shall acknowledge their responsibilities under it.
+
+## **ARTICLE 12. Amendment of Charter**
 
 Any amendment of this Charter shall require:
 
-**A.** the affirmative vote of a majority of Board members then in office; followed by  
+**A.** the affirmative vote of a majority of Steering Committee members then in office; followed by  
+
 **B.** the affirmative vote of two-thirds (2/3) of the Developers.
 
 Upon adoption of any amendment to this Charter, the Director shall archive the prior version of the Charter and record the date of amendment, the nature of the changes made, and the vote by which the amendment was approved.
 
-All prior versions of the Charter shall be made available to any Member or Developer upon request. A version history shall be maintained as a Consortium record.
+All prior versions of the Charter shall be made available to any Developer upon request. A version history shall be maintained as a Consortium record.
 
 ## **ADOPTION OF CHARTER**
 
 The Charter shall be adopted by a set of Developers.
 
-Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Developer-elected representatives to the Board. At this special election, the Developers shall elect up to three (3) Board members; by a two-thirds (2/3) vote, the Developers may instead elect fewer than three. The election shall otherwise follow the procedure set out in Section 5.5, applied to the number of seats to be filled. Any Developer-elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
+Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Steering Committee. At this special election, the Developers shall elect up to six (6) members using the procedure set out in Section 4.5, except that the Director's contribution report shall not be required, there being no Director at the time of the initial election. Any elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
 
-The Board shall set the date of the first Annual Meeting, at which the next election of Board members shall be held as required by this Charter. The first Annual Meeting may be held on any date set by the Board, provided it occurs no later than twelve (12) months following adoption of this Charter.
+To establish the alternation of classes provided for in Section 4.2, the three members elected with the greatest number of approvals at the special election shall take the seats of the class that first stands for election at the second Annual Meeting, and the remaining members elected shall take the seats of the class that first stands for election at the first Annual Meeting. Where approval counts are tied such that this allocation is unclear, the tie shall be resolved by lot. The designation of the two classes as the even seats and the odd seats shall follow from the calendar years in which they first stand for election, as provided in Section 4.2.
 
-After being seated, the Board shall appoint the first Director from among the Developers in accordance with Article 6. This shall occur no later than the time of this first Annual Meeting. The service of the first Director during this time shall not count towards the term limits outlined in Article 6.
+After the first Steering Committee is seated, the Committee shall nominate the first Director from among its elected members, and the Developers shall ratify the Director by a two-thirds (2/3) vote under Section 5.3. This shall occur no later than the time of the first Annual Meeting. The service of the first Director during this initial period shall not count towards the term limits outlined in Article 5.
+
+The Steering Committee shall set the date of the first Annual Meeting, at which the next election of Committee members shall be held as required by this Charter. The first Annual Meeting may be held on any date set by the Committee, provided it occurs no later than twelve (12) months following adoption of this Charter.
 
 We, the undersigned, constitute the initial Developers of the Consortium. We consent to and hereby adopt this Charter of the Reciprocal Space Station Consortium:
-
