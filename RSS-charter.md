@@ -82,9 +82,9 @@ Except as otherwise provided in this Section, composition decisions shall be mad
 
 **B.** Developers who are no longer actively contributing or no longer intend to contribute are asked to resign proactively.  
 
-**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive contribution to the Consortium over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately.  
+**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive contribution to the Consortium over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately. Service as a sitting member of the Steering Committee constitutes a substantive contribution for purposes of this Section.  
 
-**D.** At any time, existing Developers may be removed by a majority vote of the Steering Committee. This may be vetoed by a 2/3 vote of the Developers.
+**D.** At any time, existing Developers may be removed by a majority vote of the Steering Committee. This may be vetoed by a 2/3 vote of the Developers. Removal under this paragraph shall not take effect with respect to a sitting member of the Steering Committee while that member holds a seat; such a member may be removed only as provided in Section 4.7, or in the case of the Director, Section 5.4.
 
 A public list of current Developers shall be maintained by the Director and made available to the Developers and the Steering Committee.
 
@@ -122,9 +122,13 @@ The Steering Committee shall consist of:
 
 **B.** the Director, who serves as a voting member *ex officio*.
 
-The six elected seats shall be filled at each Annual Meeting through the election procedure set out in Section 4.5. Elected members serve one-year terms and may be reelected without term limit. No individual may hold more than one seat on the Committee at a time. If fewer than six willing and eligible Developers stand for election, or fewer clear the threshold set in Section 4.5, elected seats may remain unfilled until the next Annual Meeting.
+The six elected seats are divided into two classes of three seats each, the even seats and the odd seats. The two classes stand for election in alternation, so that the seats of one class are filled at each Annual Meeting through the election procedure set out in Section 4.5. The even seats are so designated because they are ordinarily filled at Annual Meetings falling in even-numbered calendar years, and the odd seats at Annual Meetings falling in odd-numbered calendar years; where the timing of Annual Meetings departs from that pattern, the alternation of the two classes governs.
 
-The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand in the annual election of the six elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
+The term of an elected seat runs from the Annual Meeting at which it is filled until the second Annual Meeting thereafter, at which that seat next stands for election. Elected members may be reelected without term limit. No individual may hold more than one seat on the Committee at a time. Each seat carries its own class and term, and a member who fills a seat serves the term of that seat.
+
+If fewer willing and eligible Developers stand for election than there are seats to be filled, or fewer clear the threshold set in Section 4.5, seats may remain unfilled until the next Annual Meeting.
+
+The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand for election to the six elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
 
 The Director shall serve as the presiding officer of the Steering Committee. The Director shall set agendas, convene and preside over Committee meetings, put matters to a vote, and ensure the Committee operates in accordance with this Charter. The Director shall schedule Committee meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Committee members. The Director may call Steering Committee meetings *ad hoc* to handle urgent or emergency business. 
 
@@ -184,7 +188,7 @@ All decisions shall be recorded in meeting minutes.
 
 ### **4.5 Election of the Steering Committee**
 
-The six elected seats on the Steering Committee shall be filled at each Annual Meeting through an approval voting process using secret ballots. The Director shall run the vote.
+The seats of the class then standing for election, together with any other elected seats then vacant, shall be filled at each Annual Meeting through an approval voting process using secret ballots. The Director shall run the vote.
 
 Any Developer in good standing may stand for election by advancing their own name as a candidate. A Developer in good standing may also be nominated by another Developer; such a nomination is an invitation only, and the nominee becomes a candidate only upon their acceptance. Nominations shall be made in confidence to the Director, and a nomination that is declined shall not be disclosed beyond the Director, the nominee, and the nominator. For purposes of this Section, a Developer in good standing is a current Developer on the list maintained under Section 3.4.
 
@@ -192,7 +196,7 @@ In advance of the vote, the Director shall provide to the Developers a brief rep
 
 Each Developer shall receive a ballot listing all candidates and for each, may cast a vote in favor or against each individually, or abstain. Ballots shall be cast in secret. The final anonymized results shall be made public to all Developers.
 
-A candidate is elected if they are approved by more than fifty percent (50%) of the Developers casting ballots. If more than six (6) candidates clear this threshold, the six candidates receiving the greatest number of approvals shall be elected. Fewer than six candidates may be elected if fewer than six clear the fifty percent (50%) threshold, in which case the remaining seats shall stay unfilled until the next election or until filled under Section 4.6.
+A candidate is elected if they are approved by more than fifty percent (50%) of the Developers casting ballots. If more candidates clear this threshold than there are seats to be filled, the candidates receiving the greatest number of approvals shall be elected. Where seats with differing remaining terms are to be filled at the same Annual Meeting, the candidates receiving the greatest number of approvals shall take the seats with the longest remaining terms. Fewer candidates may be elected than there are seats to be filled if fewer clear the fifty percent (50%) threshold, in which case the remaining seats shall stay unfilled until the next election or until filled under Section 4.6.
 
 In the event of a tie for the final seat, a runoff election shall be held in which each Developer casts a single vote. If a tie remains, the Director shall cast the tie-breaking vote, unless recused, in which case the tied seat shall remain vacant until a further runoff can be conducted.
 
@@ -208,11 +212,11 @@ Should an elected seat on the Steering Committee become vacant between Annual Me
 
 **D.** if the Director's seat becomes vacant, it shall be filled as provided in Article 5;
 
-**E.** if vacancies reduce the number of elected Committee members below three (3), an emergency election shall be held within forty-five (45) days using the procedures specified in this Charter.
+**E.** if vacancies reduce the number of elected Committee members below three (3), an emergency election shall be held within forty-five (45) days using the procedures specified in this Charter; each seat so filled shall be filled only for the remainder of that seat's term, so that the alternation of classes is preserved.
 
 ### **4.7 Removal of Committee Members**
 
-An elected Steering Committee member may be removed before the end of their term by a majority vote of the standing Committee members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility. The Committee Member in question shall not be eligible to vote in this matter.
+An elected Steering Committee member may be removed before the end of their term by a majority vote of the standing Committee members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility. The Committee Member in question shall not be eligible to vote in this matter. Removal under this Section, or under Section 5.4 in the case of the Director, is the exclusive means by which a sitting Committee member may be involuntarily removed from the Committee before the end of their term.
 
 A Committee member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond no shorter than fourteen (14) days, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
 
@@ -252,7 +256,7 @@ The Director shall be nominated by majority vote of the Steering Committee from 
 
 The Director’s term shall be three (3) years. Any single individual shall be limited to two (2) appointments as Director. Any period of service lasting more than twelve (12) consecutive months shall count as one full appointment; service of twelve months or fewer when filling a vacancy on an interim basis shall not count against this limit.
 
-So that selection of the Director is staggered from the annual election of the Committee's elected seats, the succession of the Director shall be timed as follows. At the Annual Meeting falling before the end of a sitting Director's term, the Steering Committee shall set a date for the nomination and ratification of the next Director. That date shall fall between three (3) and nine (9) months after that Annual Meeting.
+So that selection of the Director is staggered from the annual elections to the Committee's elected seats, the succession of the Director shall be timed as follows. At the Annual Meeting falling before the end of a sitting Director's term, the Steering Committee shall set a date for the nomination and ratification of the next Director. That date shall fall between three (3) and nine (9) months after that Annual Meeting.
 
 Where a person other than the incumbent is ratified as Director, the incoming Director shall vacate their elected seat and assume the Director's seat. To preserve continuity, the outgoing Director shall, unless they resign or decline, fill the elected seat so vacated and serve out the remainder of its term as an ordinary member of the Steering Committee. If no outgoing Director is available or willing to fill that seat, it shall be treated as a vacancy under Section 4.6. Where a sitting Director is re-nominated and ratified, they continue in the Director's seat and no seat changes result.
 
@@ -274,7 +278,7 @@ No less than once per calendar year, the Steering Committee shall convene an Ann
 
 The Annual Meeting shall serve as the primary forum for the Director and the Committee to present the Strategic Goals and budget for the coming year, report on progress against prior goals and on fundraising, review the list of Developers, and receive recommendations from the Developers.
 
-Elections for the six elected Steering Committee seats shall be conducted in conjunction with the Annual Meeting such that newly elected members are seated no later than the close of the Annual Meeting.
+Elections for the Steering Committee seats then standing for election shall be conducted in conjunction with the Annual Meeting such that newly elected members are seated no later than the close of the Annual Meeting.
 
 The Committee shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Developers, including a proposed agenda.
 
@@ -507,6 +511,8 @@ All prior versions of the Charter shall be made available to any Developer upon 
 The Charter shall be adopted by a set of Developers.
 
 Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Steering Committee. At this special election, the Developers shall elect up to six (6) members using the procedure set out in Section 4.5, except that the Director's contribution report shall not be required, there being no Director at the time of the initial election. Any elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
+
+To establish the alternation of classes provided for in Section 4.2, the three members elected with the greatest number of approvals at the special election shall take the seats of the class that first stands for election at the second Annual Meeting, and the remaining members elected shall take the seats of the class that first stands for election at the first Annual Meeting. Where approval counts are tied such that this allocation is unclear, the tie shall be resolved by lot. The designation of the two classes as the even seats and the odd seats shall follow from the calendar years in which they first stand for election, as provided in Section 4.2.
 
 After the first Steering Committee is seated, the Committee shall nominate the first Director from among its elected members, and the Developers shall ratify the Director by a two-thirds (2/3) vote under Section 5.3. This shall occur no later than the time of the first Annual Meeting. The service of the first Director during this initial period shall not count towards the term limits outlined in Article 5.
 
