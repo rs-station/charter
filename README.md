@@ -12,7 +12,5 @@ To advance its mission, the Consortium may undertake education, knowledge curati
 
 ## Visual Summary
 
-> **Note:** the governance diagram below predates the move to a Steering Committee model (removal of Members/Partners; the Board replaced by a Steering Committee of Developers). It needs to be redrawn to match the current [Charter](RSS-charter.md).
-
 <img width="2400" height="1350" alt="RSS-Governance" src="graphics/RSS-Governance-overview.png" />
 
