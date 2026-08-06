@@ -186,7 +186,7 @@ All decisions shall be recorded in meeting minutes.
 
 The six elected seats on the Steering Committee shall be filled at each Annual Meeting through an approval voting process using secret ballots. The Director shall run the vote.
 
-Any Developer in good standing may stand for election by advancing their own name as a candidate. For purposes of this Section, a Developer in good standing is a current Developer on the list maintained under Section 3.4.
+Any Developer in good standing may stand for election by advancing their own name as a candidate. A Developer in good standing may also be nominated by another Developer; such a nomination is an invitation only, and the nominee becomes a candidate only upon their acceptance. Nominations shall be made in confidence to the Director, and a nomination that is declined shall not be disclosed beyond the Director, the nominee, and the nominator. For purposes of this Section, a Developer in good standing is a current Developer on the list maintained under Section 3.4.
 
 In advance of the vote, the Director shall provide to the Developers a brief report on the contributions of each Developer standing for election over the preceding twelve (12) months, including, where applicable, code contributions, meeting attendance, funds raised, and other service to the Consortium. This report is informational and shall report concrete facts only, not the Director’s opinion or assessment of the Developers as fit candidates. The information is intended to help the Developers assess each candidate's engagement alone.
 
