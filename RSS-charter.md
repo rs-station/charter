@@ -1,12 +1,10 @@
 <h1 align="center">DRAFT</h1>
-<p align="center">
-<span style="font-family: Arial; font-size: 20px; color: blue;">
 
 # **CHARTER OF THE RECIPROCAL SPACE STATION**
 
 ## **ARTICLE 1. Mission**
 
-The Reciprocal Space Station (“RSS”, the “Organization”) is an academic organization tasked with creating open-source software to advance the science of structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
+The Reciprocal Space Station ("RSS", the "Organization") is an academic organization tasked with creating open-source software to advance the science of structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
 
 The Organization serves two primary constituencies: researchers in academia and industry who seek to extract biological and medical insight from complex structural data, and the community of software developers and methods researchers who build upon and extend structural biology tooling.
 
@@ -48,7 +46,7 @@ Nothing in this Charter shall be construed to override the policies, contractual
 
 ### **3.1 Charge**
 
-The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Organization and execute the Organization’s Mission. Further, the Developers help guide the strategic direction of the Organization by electing the Steering Committee from among their number and by ratifying the Director.
+The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Organization and execute the Organization's Mission. Further, the Developers help guide the strategic direction of the Organization by electing the Steering Committee from among their number and by ratifying the Director.
 
 Developers may be personnel paid to work for the Organization or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Organization (though they may be, for example as employees or fellows). Developers participate in the Organization in their individual capacity.
 
@@ -82,7 +80,7 @@ Except as otherwise provided in this Section, composition decisions shall be mad
 
 **B.** Developers who are no longer actively contributing or no longer intend to contribute are asked to resign proactively.  
 
-**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive contribution to the Organization over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately. Service as a sitting member of the Steering Committee constitutes a substantive contribution for purposes of this Section.  
+**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive and sustained contribution to the Organization over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately. Service as a sitting member of the Steering Committee constitutes a substantive contribution for purposes of this Section.  
 
 **D.** At any time, existing Developers may be removed by a majority vote of the Steering Committee. This may be vetoed by a 2/3 vote of the Developers. Removal under this paragraph shall not take effect with respect to a sitting member of the Steering Committee while that member holds a seat; such a member may be removed only as provided in Section 4.7, or in the case of the Director, Section 5.4.
 
@@ -150,7 +148,7 @@ Raise funds from industry partners, grants, philanthropy, and other sources; dev
 
 **C. Appointment and Oversight of the Director.**  
 
-Nominate one of its elected members to serve as Director for ratification by the Developers, oversee the Director’s performance, and if deemed necessary remove the Director as provided in this Charter.
+Nominate one of its elected members to serve as Director for ratification by the Developers, oversee the Director's performance, and if deemed necessary remove the Director as provided in this Charter.
 
 **D. Hiring Approval.**  
 
@@ -192,7 +190,7 @@ The seats of the class then standing for election, together with any other elect
 
 Any Developer in good standing may stand for election by advancing their own name as a candidate. A Developer in good standing may also be nominated by another Developer; such a nomination is an invitation only, and the nominee becomes a candidate only upon their acceptance. Nominations shall be made in confidence to the Director, and a nomination that is declined shall not be disclosed beyond the Director, the nominee, and the nominator. For purposes of this Section, a Developer in good standing is a current Developer on the list maintained under Section 3.4.
 
-In advance of the vote, the Director shall provide to the Developers a brief report on the contributions of each Developer standing for election over the preceding twelve (12) months, including, where applicable, code contributions, meeting attendance, funds raised, and other service to the Organization. This report is informational and shall report concrete facts only, not the Director’s opinion or assessment of the Developers as fit candidates. The information is intended to help the Developers assess each candidate's engagement alone.
+In advance of the vote, the Director shall provide to the Developers a brief report on the contributions of each Developer standing for election over the preceding twelve (12) months, including, where applicable, code contributions, meeting attendance, funds raised, and other service to the Organization. This report is informational and shall report concrete facts only, not the Director's opinion or assessment of the Developers as fit candidates. The information is intended to help the Developers assess each candidate's engagement alone.
 
 Each Developer shall receive a ballot listing all candidates and for each, may cast a vote in favor or against each individually, or abstain. Ballots shall be cast in secret. The final anonymized results shall be made public to all Developers.
 
@@ -216,7 +214,7 @@ Should an elected seat on the Steering Committee become vacant between Annual Me
 
 ### **4.7 Removal of Committee Members**
 
-An elected Steering Committee member may be removed before the end of their term by a majority vote of the standing Committee members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility. The Committee Member in question shall not be eligible to vote in this matter. Removal under this Section, or under Section 5.4 in the case of the Director, is the exclusive means by which a sitting Committee member may be involuntarily removed from the Committee before the end of their term.
+An elected Steering Committee member may be removed before the end of their term by a majority vote of the sitting Committee members for serious misconduct, repeated failure to participate, material breach of this Charter, violation of an applicable conflict-of-interest policy, or loss of eligibility. The Committee member in question shall not be eligible to vote in this matter. Removal under this Section, or under Section 5.4 in the case of the Director, is the exclusive means by which a sitting Committee member may be involuntarily removed from the Committee before the end of their term.
 
 A Committee member subject to proposed removal shall receive notice of the grounds for removal and a reasonable opportunity to respond no shorter than fourteen (14) days, except where immediate suspension is required by law or by a binding policy of the Operating Legal Entity.
 
@@ -226,7 +224,7 @@ Removal of the Director is governed by Article 5.
 
 ### **5.1 Charge**
 
-The Director is tasked by the Steering Committee with the day-to-day operations of the Organization. The Director’s primary responsibility is to ensure that resources allocated by the Committee are used to effect the Strategic Goals set by the Committee. The Director serves as a voting member and the presiding officer of the Steering Committee.
+The Director is tasked by the Steering Committee with the day-to-day operations of the Organization. The Director's primary responsibility is to ensure that resources allocated by the Committee are used to effect the Strategic Goals set by the Committee. The Director serves as a voting member and the presiding officer of the Steering Committee.
 
 The role of the Director is intentionally broad. The Director is expected to act autonomously and efficiently within the authority delegated by the Committee, and to be accountable for the consequences of decisions made.
 
@@ -254,7 +252,7 @@ In cases where funded personnel may be in research groups or institutions with o
 
 The Director shall be nominated by majority vote of the Steering Committee from among its own members and shall take office upon ratification by a two-thirds (2/3) vote of the Developers, conducted under the voting procedure of Section 3.3. A nominee may be either an elected member of the Committee or the sitting Director, subject to the two-appointment limit detailed below.
 
-The Director’s term shall be three (3) years. Any single individual shall be limited to two (2) appointments as Director. Any period of service lasting more than twelve (12) consecutive months shall count as one full appointment; service of twelve months or fewer when filling a vacancy on an interim basis shall not count against this limit.
+The Director's term shall be three (3) years. Any single individual shall be limited to two (2) appointments as Director. Any period of service lasting more than twelve (12) consecutive months shall count as one full appointment; service of twelve months or fewer when filling a vacancy on an interim basis shall not count against this limit.
 
 So that selection of the Director is staggered from the annual elections to the Committee's elected seats, the succession of the Director shall be timed as follows. At the Annual Meeting falling before the end of a sitting Director's term, the Steering Committee shall set a date for the nomination and ratification of the next Director. That date shall fall between three (3) and nine (9) months after that Annual Meeting.
 
@@ -280,7 +278,7 @@ The Annual Meeting shall serve as the primary forum for the Director and the Com
 
 Elections for the Steering Committee seats then standing for election shall be conducted in conjunction with the Annual Meeting such that newly elected members are seated no later than the close of the Annual Meeting.
 
-The Committee shall provide no less than sixty (60) days’ notice of the Annual Meeting to all Developers, including a proposed agenda.
+The Committee shall provide no less than sixty (60) days' notice of the Annual Meeting to all Developers, including a proposed agenda.
 
 Additional attendees, such as scientific advisors, prospective funders, or other guests, may be invited by the Committee to attend when doing so furthers the Organization's business.
 
@@ -328,7 +326,7 @@ While public release of completed projects is the ultimate aim of the Organizati
 
 **D.** should it be necessary, protect the security and privacy of Developers, other Organization participants, or the broader public.
 
-Further, not all Organization-Funded work need be publicaly released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
+Further, not all Organization-Funded Work need be publicly released. Prototypes, internal tests, and experiments may not benefit the Mission through public release.
 
 In general, however, Developers shall be free to autonomously decide on if and when to release any Organization-Funded Work they participate in.
 
@@ -364,7 +362,7 @@ Organization personnel are responsible for ensuring that the Operating Legal Ent
 
 The Organization requires that its participants act in the best interest of the Organization and its Mission, and not in pursuit of improper personal, institutional, or financial gain.
 
-This policy establishes standards to identify, disclose, and manage conflicts of interest (“COI”) that may arise in the course of Organization business. The COI policy of the Operating Legal Entity shall apply in addition to and supersede this policy where the two conflict.
+This policy establishes standards to identify, disclose, and manage conflicts of interest ("COI") that may arise in the course of Organization business. The COI policy of the Operating Legal Entity shall apply in addition to and supersede this policy where the two conflict.
 
 ### **8.2 Scope**
 
@@ -372,15 +370,15 @@ This policy applies to all Steering Committee members, the Director, and any Dev
 
 ### **8.3 Definition**
 
-A conflict of interest arises when a covered individual’s personal, financial, institutional, or closely related professional interests could improperly influence, or could reasonably be perceived to improperly influence, a decision made on behalf of the Organization.
+A conflict of interest arises when a covered individual's personal, financial, institutional, or closely related professional interests could improperly influence, or could reasonably be perceived to improperly influence, a decision made on behalf of the Organization.
 
 Conflicts of interest include, but are not limited to:
 
-**A.** advocating for, or participating in a vote to approve, the allocation of Organization funds to one’s own institution, research group, laboratory, or a project in which one holds a personal stake;
+**A.** advocating for, or participating in a vote to approve, the allocation of Organization funds to one's own institution, research group, laboratory, or a project in which one holds a personal stake;
 
 **B.** participating in a decision involving a company, sponsor, contractor, or collaborator with which one has a material financial or professional relationship;
 
-**C.** participating in a decision that may materially affect one’s own compensation, appointment, or funded work through the Organization.
+**C.** participating in a decision that may materially affect one's own compensation, appointment, or funded work through the Organization.
 
 ### **8.4 Disclosure and Recusal**
 
@@ -482,7 +480,7 @@ After the wind-down period, remaining assets shall be disposed of as follows:
 
 **i.** outstanding liabilities shall be satisfied first;  
 
-**ii.** remaining financial assets shall be transferred to the then-current Operating Legal Entity, to be held and administered consistent with that entity’s charitable or nonprofit purposes, or, if no Operating Legal Entity relationship is then in effect, to a nonprofit organization selected by majority vote of the Steering Committee whose mission is broadly consistent with open-source scientific software development.
+**ii.** remaining financial assets shall be transferred to the then-current Operating Legal Entity, to be held and administered consistent with that entity's charitable or nonprofit purposes, or, if no Operating Legal Entity relationship is then in effect, to a nonprofit organization selected by majority vote of the Steering Committee whose mission is broadly consistent with open-source scientific software development.
 
 Ownership and stewardship of remaining Organization intellectual property shall be handled in a manner consistent with the governing agreements then in effect and the Mission of the Organization.
 
