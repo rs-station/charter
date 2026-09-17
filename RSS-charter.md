@@ -118,17 +118,17 @@ Service on the Steering Committee is unpaid, except that (i) the Consortium may 
 
 The Steering Committee shall consist of:
 
-**A.** up to six (6) Developers elected by the Developers; and  
+**A.** up to four (4) Developers elected by the Developers; and  
 
 **B.** the Director, who serves as a voting member *ex officio*.
 
-The six elected seats are divided into two classes of three seats each, the even seats and the odd seats. The two classes stand for election in alternation, so that the seats of one class are filled at each Annual Meeting through the election procedure set out in Section 4.5. The even seats are so designated because they are ordinarily filled at Annual Meetings falling in even-numbered calendar years, and the odd seats at Annual Meetings falling in odd-numbered calendar years; where the timing of Annual Meetings departs from that pattern, the alternation of the two classes governs.
+The four elected seats are divided into two classes of two seats each, the even seats and the odd seats. The two classes stand for election in alternation, so that the seats of one class are filled at each Annual Meeting through the election procedure set out in Section 4.5. The even seats are so designated because they are ordinarily filled at Annual Meetings falling in even-numbered calendar years, and the odd seats at Annual Meetings falling in odd-numbered calendar years; where the timing of Annual Meetings departs from that pattern, the alternation of the two classes governs.
 
 The term of an elected seat runs from the Annual Meeting at which it is filled until the second Annual Meeting thereafter, at which that seat next stands for election. Elected members may be reelected without term limit. No individual may hold more than one seat on the Committee at a time. Each seat carries its own class and term, and a member who fills a seat serves the term of that seat.
 
 If fewer willing and eligible Developers stand for election than there are seats to be filled, or fewer clear the threshold set in Section 4.5, seats may remain unfilled until the next Annual Meeting.
 
-The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand for election to the six elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
+The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand for election to the four elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
 
 The Director shall serve as the presiding officer of the Steering Committee. The Director shall set agendas, convene and preside over Committee meetings, put matters to a vote, and ensure the Committee operates in accordance with this Charter. The Director shall schedule Committee meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Committee members. The Director may call Steering Committee meetings *ad hoc* to handle urgent or emergency business. 
 
@@ -510,9 +510,9 @@ All prior versions of the Charter shall be made available to any Developer upon 
 
 The Charter shall be adopted by a set of Developers.
 
-Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Steering Committee. At this special election, the Developers shall elect up to six (6) members using the procedure set out in Section 4.5, except that the Director's contribution report shall not be required, there being no Director at the time of the initial election. Any elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
+Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Steering Committee. At this special election, the Developers shall elect up to four (4) members using the procedure set out in Section 4.5, except that the Director's contribution report shall not be required, there being no Director at the time of the initial election. Any elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
 
-To establish the alternation of classes provided for in Section 4.2, the three members elected with the greatest number of approvals at the special election shall take the seats of the class that first stands for election at the second Annual Meeting, and the remaining members elected shall take the seats of the class that first stands for election at the first Annual Meeting. Where approval counts are tied such that this allocation is unclear, the tie shall be resolved by lot. The designation of the two classes as the even seats and the odd seats shall follow from the calendar years in which they first stand for election, as provided in Section 4.2.
+To establish the alternation of classes provided for in Section 4.2, the two members elected with the greatest number of approvals at the special election shall take the seats of the class that first stands for election at the second Annual Meeting, and the remaining members elected shall take the seats of the class that first stands for election at the first Annual Meeting. Where approval counts are tied such that this allocation is unclear, the tie shall be resolved by lot. The designation of the two classes as the even seats and the odd seats shall follow from the calendar years in which they first stand for election, as provided in Section 4.2.
 
 After the first Steering Committee is seated, the Committee shall nominate the first Director from among its elected members, and the Developers shall ratify the Director by a two-thirds (2/3) vote under Section 5.3. This shall occur no later than the time of the first Annual Meeting. The service of the first Director during this initial period shall not count towards the term limits outlined in Article 5.
 
