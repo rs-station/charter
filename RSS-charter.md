@@ -80,7 +80,7 @@ Except as otherwise provided in this Section, composition decisions shall be mad
 
 **B.** Developers who are no longer actively contributing or no longer intend to contribute are asked to resign proactively.  
 
-**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive and sustained contribution to the Organization over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately. Service as a sitting member of the Steering Committee constitutes a substantive contribution for purposes of this Section.  
+**C.** At each Annual Meeting, the list of Developers shall be reviewed. Any Developer who has not made a substantive and sustained contribution to the Organization over the past year, as determined by the Director and supported by public evidence, may be deemed inactive and removed from the list of Developers, unless a 2/3 vote reinstates that Developer immediately. Service as a sitting member of the Steering Committee constitutes a substantive and sustained contribution for purposes of this Section.  
 
 **D.** At any time, existing Developers may be removed by a majority vote of the Steering Committee. This may be vetoed by a 2/3 vote of the Developers. Removal under this paragraph shall not take effect with respect to a sitting member of the Steering Committee while that member holds a seat; such a member may be removed only as provided in Section 4.7, or in the case of the Director, Section 5.4.
 

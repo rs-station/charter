@@ -2,7 +2,7 @@
 Status: working draft
 
 ## Mission
-The Reciprocal Space Station (“RSS”, the “Organization”) is an academic organization tasked with creating open-source software to advance the science of structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
+The Reciprocal Space Station ("RSS", the "Organization") is an academic organization tasked with creating open-source software to advance the science of structural biology. The field of structural biology has historically succeeded by resolving static molecular structures; RSS exists to sustain this capability and extend it to the modeling of conformational distributions, molecular dynamics, and biological context.
 
 The Organization serves two primary constituencies: researchers in academia and industry who seek to extract biological and medical insight from complex structural data, and the community of software developers and methods researchers who build upon and extend structural biology tooling.
 
