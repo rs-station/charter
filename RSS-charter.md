@@ -20,7 +20,7 @@ The Organization shall be composed of three bodies — the Developers, the Steer
 
 **A. The Developers.**  
 
-The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Steering Committee and execute the Mission of the Organization. Developers participate as individuals and do not necessarily represent any institution. The group may include, for example, staff employed by the Organization, Organization-funded fellows based at academic institutions, and volunteer community members who have no contractual obligation to the Organization. The Developers elect representatives to the Steering Committee and ratify the Director. The role and governance of the Developers is further specified in Article 3.
+The Developers are a self-governing body of researchers and engineers who actively work to further the strategic goals set by the Steering Committee and execute the Mission of the Organization. Developers participate as individuals and do not necessarily represent any institution. The group may include, for example, staff employed by the Organization, Organization-funded fellows based at academic institutions, and volunteer community members who have no contractual obligation to the Organization. The Developers elect representatives to the Steering Committee. The role and governance of the Developers is further specified in Article 3.
 
 **B. The Steering Committee.**  
 
@@ -28,7 +28,7 @@ The Steering Committee is the governing body of the Organization, tasked with se
 
 **C. The Director.**  
 
-The Director is an officer of the Organization, nominated by the Steering Committee from among its members and ratified by the Developers, tasked with the day-to-day operations of the Organization and with ensuring that Organization resources are used to uphold the Mission and execute the Committee's strategy. The Director serves as a voting member and the presiding officer of the Steering Committee. The role of the Director is further specified in Article 5.
+The Director is an officer of the Organization, appointed by the Steering Committee from among its members, tasked with the day-to-day operations of the Organization and with ensuring that Organization resources are used to uphold the Mission and execute the Committee's strategy. The Director serves as a voting member and the presiding officer of the Steering Committee. The role of the Director is further specified in Article 5.
 
 **D. The Operating Legal Entity.**
 
@@ -46,7 +46,7 @@ Nothing in this Charter shall be construed to override the policies, contractual
 
 ### **3.1 Charge**
 
-The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Organization and execute the Organization's Mission. Further, the Developers help guide the strategic direction of the Organization by electing the Steering Committee from among their number and by ratifying the Director.
+The Developers consist of a self-governing body of scientists and engineers that conduct the actual work of the Organization and execute the Organization's Mission. Further, the Developers help guide the strategic direction of the Organization by electing the Steering Committee from among their number.
 
 Developers may be personnel paid to work for the Organization or unpaid community members who provide in-kind support. Developers therefore need not be in any contractual relationship with the Organization (though they may be, for example as employees or fellows). Developers participate in the Organization in their individual capacity.
 
@@ -126,7 +126,7 @@ The term of an elected seat runs from the Annual Meeting at which it is filled u
 
 If fewer willing and eligible Developers stand for election than there are seats to be filled, or fewer clear the threshold set in Section 4.5, seats may remain unfilled until the next Annual Meeting.
 
-The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand for election to the four elected seats. Upon a Committee member's ratification as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
+The Director holds a seat on the Steering Committee for the duration of the Director's term as provided in Article 5, and does not stand for election to the four elected seats. Upon a Committee member's appointment as Director, that member shall vacate their elected seat and thereafter occupy the Director's seat; the vacated elected seat shall be filled as provided in Section 5.3.
 
 The Director shall serve as the presiding officer of the Steering Committee. The Director shall set agendas, convene and preside over Committee meetings, put matters to a vote, and ensure the Committee operates in accordance with this Charter. The Director shall schedule Committee meetings, in a physical, virtual, or hybrid format, providing at least thirty (30) days' notice to all Committee members. The Director may call Steering Committee meetings *ad hoc* to handle urgent or emergency business. 
 
@@ -148,7 +148,7 @@ Raise funds from industry partners, grants, philanthropy, and other sources; dev
 
 **C. Appointment and Oversight of the Director.**  
 
-Nominate one of its elected members to serve as Director for ratification by the Developers, oversee the Director's performance, and if deemed necessary remove the Director as provided in this Charter.
+Appoint one of its elected members to serve as Director, oversee the Director's performance, and if deemed necessary remove the Director as provided in this Charter.
 
 **D. Hiring Approval.**  
 
@@ -178,7 +178,7 @@ All decisions of the Steering Committee shall be made by majority vote, unless t
 
 Not all Committee members need to be present for a vote, but more than half of the sitting Committee members must vote in favor of a resolution for it to pass. Therefore a quorum of a majority of sitting Committee members must be present for any meeting at which binding resolutions are voted upon and no binding resolution may be passed in the absence of a quorum.
 
-Should a tie take place, the Director may cast a tie-breaking vote. Should the Director be recused from a vote due to conflict of interest or other cause, the matter shall be tabled for no more than fourteen (14) days, during which the Committee shall seek to resolve the deadlock through deliberation. If no resolution is reached within that period, the matter shall be voted again. If a tie persists, the matter shall fail.
+Should a tie take place, the matter shall be tabled for no more than fourteen (14) days, during which the Committee shall seek to resolve the deadlock through deliberation. If no resolution is reached within that period, the matter shall be voted again. If a tie persists, the matter shall fail.
 
 Any Committee member may request a deliberation period of up to fourteen (14) days before a vote. During this period, amendments or alternatives may be proposed. If necessary, the Committee shall vote again after fourteen (14) days.
 
@@ -196,11 +196,11 @@ Each Developer shall receive a ballot listing all candidates and for each, may c
 
 A candidate is elected if they are approved by more than fifty percent (50%) of the Developers casting ballots. If more candidates clear this threshold than there are seats to be filled, the candidates receiving the greatest number of approvals shall be elected. Where seats with differing remaining terms are to be filled at the same Annual Meeting, the candidates receiving the greatest number of approvals shall take the seats with the longest remaining terms. Fewer candidates may be elected than there are seats to be filled if fewer clear the fifty percent (50%) threshold, in which case the remaining seats shall stay unfilled until the next election or until filled under Section 4.6.
 
-In the event of a tie for the final seat, a runoff election shall be held in which each Developer casts a single vote. If a tie remains, the Director shall cast the tie-breaking vote, unless recused, in which case the tied seat shall remain vacant until a further runoff can be conducted.
+In the event of a tie for the final seat, the tie shall be resolved by lot.
 
 ### **4.6 Vacancies**
 
-Should an elected seat on the Steering Committee become vacant between Annual Meetings due to resignation, removal, loss of eligibility, ratification as Director, or any other cause:
+Should an elected seat on the Steering Committee become vacant between Annual Meetings due to resignation, removal, loss of eligibility, appointment as Director, or any other cause:
 
 **A.** the Director shall notify all Developers of the vacancy within fourteen (14) days;
 
@@ -248,17 +248,17 @@ Under the direction of the Steering Committee, the Director may:
 
 In cases where funded personnel may be in research groups or institutions with other connections to the project, particular attention must be paid to the Conflict of Interest policy in Article 8.
 
-### **5.3 Nomination, Ratification, and Term**
+### **5.3 Appointment and Term**
 
-The Director shall be nominated by majority vote of the Steering Committee from among its own members and shall take office upon ratification by a two-thirds (2/3) vote of the Developers, conducted under the voting procedure of Section 3.3. A nominee may be either an elected member of the Committee or the sitting Director, subject to the two-appointment limit detailed below.
+The Director shall be appointed by majority vote of the Steering Committee from among its own members and shall take office upon that vote. The Committee may appoint either an elected member of the Committee or the sitting Director, subject to the two-appointment limit detailed below.
 
 The Director's term shall be three (3) years. Any single individual shall be limited to two (2) appointments as Director. Any period of service lasting more than twelve (12) consecutive months shall count as one full appointment; service of twelve months or fewer when filling a vacancy on an interim basis shall not count against this limit.
 
-So that selection of the Director is staggered from the annual elections to the Committee's elected seats, the succession of the Director shall be timed as follows. At the Annual Meeting falling before the end of a sitting Director's term, the Steering Committee shall set a date for the nomination and ratification of the next Director. That date shall fall between three (3) and nine (9) months after that Annual Meeting.
+So that selection of the Director is staggered from the annual elections to the Committee's elected seats, the succession of the Director shall be timed as follows. At the Annual Meeting falling before the end of a sitting Director's term, the Steering Committee shall set a date for the appointment of the next Director. That date shall fall between three (3) and nine (9) months after that Annual Meeting.
 
-Where a person other than the incumbent is ratified as Director, the incoming Director shall vacate their elected seat and assume the Director's seat. To preserve continuity, the outgoing Director shall, unless they resign or decline, fill the elected seat so vacated and serve out the remainder of its term as an ordinary member of the Steering Committee. If no outgoing Director is available or willing to fill that seat, it shall be treated as a vacancy under Section 4.6. Where a sitting Director is re-nominated and ratified, they continue in the Director's seat and no seat changes result.
+Where a person other than the incumbent is appointed as Director, the incoming Director shall vacate their elected seat and assume the Director's seat. To preserve continuity, the outgoing Director shall, unless they resign or decline, fill the elected seat so vacated and serve out the remainder of its term as an ordinary member of the Steering Committee. If no outgoing Director is available or willing to fill that seat, it shall be treated as a vacancy under Section 4.6. Where a sitting Director is reappointed, they continue in the Director's seat and no seat changes result.
 
-The Director shall assume duties immediately upon ratification or on such later date as the Committee specifies.
+The Director shall assume duties immediately upon appointment or on such later date as the Committee specifies.
 
 ### **5.4 Removal and Vacancy**
 
@@ -268,7 +268,7 @@ In cases of alleged financial misconduct, breach of the conflict-of-interest pol
 
 The Director may also resign at any time.
 
-If the Director's seat is vacant, the Steering Committee shall designate one of its elected members to serve as acting Director and presiding officer on an interim basis. Notwithstanding the staggered timing in Section 5.3, the Committee shall nominate a new Director for ratification by the Developers as promptly as practicable, and a newly ratified Director begins a fresh three-year term.
+If the Director's seat is vacant, the Steering Committee shall designate one of its elected members to serve as acting Director and presiding officer on an interim basis. Notwithstanding the staggered timing in Section 5.3, the Committee shall appoint a new Director as promptly as practicable, and a newly appointed Director begins a fresh three-year term.
 
 ## **ARTICLE 6. Annual Meeting**
 
@@ -508,11 +508,13 @@ All prior versions of the Charter shall be made available to any Developer upon 
 
 The Charter shall be adopted by a set of Developers.
 
-Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Steering Committee. At this special election, the Developers shall elect up to four (4) members using the procedure set out in Section 4.5, except that the Director's contribution report shall not be required, there being no Director at the time of the initial election. Any elected seats not filled at the special election shall remain vacant until the first Annual Meeting.
+Immediately upon adoption, the initial Developers shall convene a special meeting to elect the first Steering Committee. At this special election, the Developers shall elect up to five (5) members using the procedure set out in Section 4.5, except that the Director's contribution report shall not be required, there being no Director at the time of the initial election.
 
-To establish the alternation of classes provided for in Section 4.2, the two members elected with the greatest number of approvals at the special election shall take the seats of the class that first stands for election at the second Annual Meeting, and the remaining members elected shall take the seats of the class that first stands for election at the first Annual Meeting. Where approval counts are tied such that this allocation is unclear, the tie shall be resolved by lot. The designation of the two classes as the even seats and the odd seats shall follow from the calendar years in which they first stand for election, as provided in Section 4.2.
+The members so elected shall constitute the first Steering Committee. They shall appoint the first Director from among their number by majority vote under Section 5.3, no later than the first Annual Meeting. The member so appointed shall occupy the Director's seat and the others shall occupy the elected seats, so that a full complement of five members elected at the special election seats the Committee without leaving an elected seat vacant. The service of the first Director during this initial period shall not count towards the term limits outlined in Article 5.
 
-After the first Steering Committee is seated, the Committee shall nominate the first Director from among its elected members, and the Developers shall ratify the Director by a two-thirds (2/3) vote under Section 5.3. This shall occur no later than the time of the first Annual Meeting. The service of the first Director during this initial period shall not count towards the term limits outlined in Article 5.
+To establish the alternation of classes provided for in Section 4.2, of the members occupying elected seats, the two elected with the greatest number of approvals at the special election shall take the seats of the class that first stands for election at the second Annual Meeting, and the remaining members shall take the seats of the class that first stands for election at the first Annual Meeting. Where approval counts are tied such that this allocation is unclear, the tie shall be resolved by lot. The designation of the two classes as the even seats and the odd seats shall follow from the calendar years in which they first stand for election, as provided in Section 4.2.
+
+If fewer than five members are elected at the special election, the Committee shall proceed as provided above and any elected seat left unfilled shall remain vacant until the first Annual Meeting.
 
 The Steering Committee shall set the date of the first Annual Meeting, at which the next election of Committee members shall be held as required by this Charter. The first Annual Meeting may be held on any date set by the Committee, provided it occurs no later than twelve (12) months following adoption of this Charter.
 
